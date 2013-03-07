@@ -1,0 +1,123 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Step 4</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+p.hcp3 { text-align:justify; font-weight:bold; font-style:italic; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Setting Timing</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p style="text-align: justify; font-weight: bold;">Step 4 of 6:</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Often the effects of an event last for 
+ a period of time, gradually fade, or can be delayed. &nbsp;In 
+ this scenario, the event “Caught wearing wire” only happens once, but 
+ it continues to provide motivation long after the actual event occurs. 
+ &nbsp;However, 
+ we can consider that Tony might be just a little hotheaded, so maybe over 
+ time, the motivation will gradually decline.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><a title="Click here to read about applying Timing."
+									href="Timing.htm"
+									id=a3
+									target=_blank
+									style="font-weight: bold;">To model 
+ this</a>, right click on the arrow for the Motivation mechanism. &nbsp;From 
+ the popup menu, select “timing” and the timing and scheduling dialog will 
+ appear. &nbsp;In 
+ the top portion of the dialog, there are three fields in the box labeled 
+ “Timing.” &nbsp;The 
+ first, Delay, affects how long after a cause occurs that the effect/signal 
+ will actually take place. &nbsp;The 
+ second, Persistence, specifies if something lasts for some particular 
+ length of time. &nbsp;The 
+ last one, Continuation, is the one we would like to set. &nbsp;It 
+ will be a value between 0-1 specifying what proportion of the event/mechanisms 
+ probability will persist to the next timestep. &nbsp;Here, 
+ let us set this value to 0.8. &nbsp;This 
+ says that every timestep, the probability will be 80% of what it was the 
+ previous timestep.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp3"><a title="Click here to learn how to run the Simulation"
+									href="Simulation.htm"
+									id=a2
+									target=_self
+									style="font-style: italic;">How to 
+ run the Simulation</a></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp3"><a title="Click here to advacne to step 5"
+									href="Step5.htm"
+									id=a1
+									style="font-style: italic; font-weight: bold;">Step 
+ 5 of 6:</a></p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

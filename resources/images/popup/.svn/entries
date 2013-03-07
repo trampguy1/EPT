@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2255"
+   name=""
+   committed-date="2007-12-17T17:31:58.354405Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/images/popup"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2138"
+   name="coa.png"
+   text-time="2008-12-04T18:17:25.502786Z"
+   committed-date="2007-10-17T17:25:27.278343Z"
+   checksum="79c976e01f23b4fcd9a1cbb57af302a1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.440274Z"/>
+<entry
+   committed-rev="117"
+   name="colorwheel.png"
+   text-time="2007-09-25T15:36:16.204549Z"
+   committed-date="2005-07-21T19:19:02.769505Z"
+   checksum="a833109a7fea464afac84497c276dd03"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.798309Z"/>
+<entry
+   committed-rev="1245"
+   name="add_effect.png"
+   text-time="2007-09-25T15:36:16.204549Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="413bd1969c75e4e84c5a141780bef469"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.829558Z"/>
+<entry
+   committed-rev="1"
+   name="doc.png"
+   text-time="2007-09-25T15:36:16.220173Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="785f4df3c8d0df07ce5c9b238f4b287c"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.860807Z"/>
+<entry
+   committed-rev="2138"
+   name="sig_names.png"
+   text-time="2008-12-04T18:17:25.518414Z"
+   committed-date="2007-10-17T17:25:27.278343Z"
+   checksum="145d3cc882c56c1c03539f7dc1e6f1ef"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.471530Z"/>
+<entry
+   committed-rev="1245"
+   name="font.png"
+   text-time="2007-09-25T15:36:16.235798Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="a0e1318dde462e1c1da6b3359daa1963"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.876432Z"/>
+<entry
+   committed-rev="832"
+   name="rename.png"
+   text-time="2007-09-25T15:36:16.251422Z"
+   committed-date="2005-12-14T20:10:54.443005Z"
+   checksum="c186e841c632eaad104481095c555d21"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.907681Z"/>
+<entry
+   committed-rev="1273"
+   name="add_cause.png"
+   text-time="2007-09-25T15:36:16.267047Z"
+   committed-date="2006-06-08T17:43:07.475891Z"
+   checksum="a763260d7ba6ecc7c71866dfc06929fc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.923306Z"/>
+<entry
+   committed-rev="1245"
+   name="arch.png"
+   text-time="2007-09-25T15:36:16.282672Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="073c8a2e06229f1083cb9f669ab64700"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.954555Z"/>
+<entry
+   committed-rev="832"
+   name="plot.png"
+   text-time="2007-09-25T15:36:16.282672Z"
+   committed-date="2005-12-14T20:10:54.443005Z"
+   checksum="0e1c0ac244d0eaf909f3d1cd462c11db"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.970180Z"/>
+<entry
+   committed-rev="1245"
+   name="show_effects.png"
+   text-time="2007-09-25T15:36:16.298296Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="9a234e50717f6e106472e93f05908bea"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.001429Z"/>
+<entry
+   committed-rev="832"
+   name="evidence.png"
+   text-time="2007-09-25T15:36:16.313921Z"
+   committed-date="2005-12-14T20:10:54.443005Z"
+   checksum="461769a20617afe4402935d7327b362c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.017053Z"/>
+<entry
+   committed-rev="1245"
+   name="show_causes.png"
+   text-time="2007-09-25T15:36:16.329545Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="0377558d62875389374a18fb0f48a597"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.048303Z"/>
+<entry
+   committed-rev="2255"
+   name="delete.gif"
+   text-time="2008-12-04T18:17:25.534042Z"
+   committed-date="2007-12-17T17:31:58.354405Z"
+   checksum="109c7c01949251fb56c9b943db7d1173"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.471530Z"/>
+<entry
+   committed-rev="1"
+   name="edit.png"
+   text-time="2007-09-25T15:36:16.360795Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="cd15beffe7f0df5f0f2c5c071e2c81d4"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.110801Z"/>
+<entry
+   committed-rev="2138"
+   name="plan_img.png"
+   text-time="2008-12-04T18:17:25.549670Z"
+   committed-date="2007-10-17T17:25:27.278343Z"
+   checksum="26a2e158e7d4fd15d864167e60cd4f0e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.487158Z"/>
+<entry
+   committed-rev="1"
+   name="timing.png"
+   text-time="2007-09-25T15:36:16.360795Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="8b8bd9b763226275caf1964de06cc64f"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.126426Z"/>
+<entry
+   committed-rev="1245"
+   name="multimech.png"
+   text-time="2007-09-25T15:36:16.376419Z"
+   committed-date="2006-06-08T16:38:33.429402Z"
+   checksum="c1fc8195a77be01a3874428840895a3c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.157675Z"/>
+<entry
+   committed-rev="1"
+   name="dd.png"
+   text-time="2007-09-25T15:36:16.392044Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="aa4f42af0e349ed085a0f0f467f7083a"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.173299Z"/>
+</wc-entries>

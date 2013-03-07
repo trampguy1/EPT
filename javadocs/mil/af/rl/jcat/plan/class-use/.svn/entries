@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/mil/af/rl/jcat/plan/class-use"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2373"
+   name="AbstractPlan.html"
+   text-time="2008-12-04T18:17:21.955230Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="744bc7d0ba350e360438e4126022cd74"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.892718Z"/>
+<entry
+   committed-rev="2373"
+   name="Event.html"
+   text-time="2008-12-04T18:17:21.970858Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="4da8b8a02bf00ec5c44c9056c174cfbd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.908346Z"/>
+<entry
+   committed-rev="2373"
+   name="Mechanism.html"
+   text-time="2008-12-04T18:17:22.002114Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="47cdde65c388bf4ce06811606885f7dd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.923974Z"/>
+<entry
+   committed-rev="2373"
+   name="PlanItem.html"
+   text-time="2008-12-04T18:17:22.017742Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="c379e58c4a1e5502f144811f841a21d7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.939602Z"/>
+</wc-entries>

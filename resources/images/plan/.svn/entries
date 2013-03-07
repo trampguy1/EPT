@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2005-07-06T19:38:38.727134Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/images/plan"
+   last-author="mcnamacr"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1"
+   name="filesave.png"
+   text-time="2007-09-25T15:36:15.095202Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="ecbbb0e7b08907bf58a5438c95682b26"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:14.970205Z"/>
+<entry
+   committed-rev="1"
+   name="run.png"
+   text-time="2007-09-25T15:36:15.110827Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="a6450b844f25f6c4645da40ed45b2205"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.001454Z"/>
+<entry
+   committed-rev="1"
+   name="close.png"
+   text-time="2007-09-25T15:36:15.126451Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="6e7a08df51a6719e0d0b54df8bd1dd64"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.017079Z"/>
+<entry
+   committed-rev="1"
+   name="stop.png"
+   text-time="2007-09-25T15:36:15.126451Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="109c7c01949251fb56c9b943db7d1173"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.048328Z"/>
+<entry
+   committed-rev="1"
+   name="plan.png"
+   text-time="2007-09-25T15:36:15.142076Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="726f64b98de8c9eb8720701dd20a30e7"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.063953Z"/>
+</wc-entries>

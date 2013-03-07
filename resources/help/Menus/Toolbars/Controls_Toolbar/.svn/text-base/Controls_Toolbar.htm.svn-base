@@ -1,0 +1,209 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Model Toolbar</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../../../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+table.hcp2 { x-cell-content-align:top; border-spacing:0px; }
+p.hcp3 { text-align:justify; }
+p.hcp4 { font-weight:bold; }
+td.hcp5 { padding-right:10px; padding-left:10px; border-left-style:None; border-right-style:None; border-bottom-style:None; }
+img.hcp6 { border:none; border-style:none; }
+p.hcp7 { font-weight:normal; }
+td.hcp8 { padding-right:10px; padding-left:10px; border-right-style:None; border-bottom-style:None; }
+p.hcp9 { font-style:normal; font-weight:normal; }
+p.hcp10 { font-style:italic; }
+img.hcp11 { border:none; float:none; border-style:none; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 
+ 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Model Toolbar</td></tr>
+</table>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">The Model Toolbar is found on the right 
+ hand side of the JCAT 
+ Application Window. &nbsp;It 
+ provides quick access to important Model editing options.</p>
+<p>&nbsp;</p>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col ><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	colspan=1
+	rowspan=1
+	
+
+	bgcolor=#C0C0C0
+	width=17.64%>
+<p class="hcp4">Option</td>
+<td border="0" border="0"
+	colspan=1
+	rowspan=1
+	
+
+	bgcolor=#C0C0C0
+	width=82.36%>
+<p class="hcp4">Description</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p class="hcp4">&nbsp;</p>
+<p class="hcp4"><img src="../../../image38.gif" style="width:23px; height:23px;" width="23" height="23" border="0" class="hcp6"></p>
+<p class="hcp7">Selection Tool</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">When this is selected, you can use the 
+ curser to select 
+ and move items within the Model Layout Frame</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../image39.gif"  width="20" height="21" border="0" class="hcp6"></p><p class="hcp9">New Event</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Click on this button to create a new Event 
+ in the Model</p>
+<p class="hcp3">&nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../image42.gif"  width="22" height="23" border="0" class="hcp6"></p><p class="hcp9">New Mechanism</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Click on this button to create a new Mechanism 
+ in the Model.</p>
+<p class="hcp3">&nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../image40.gif"  width="22" height="22" border="0" class="hcp6"></p><p class="hcp9">Magnification Tool</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Puts the courser in Magnification mode. 
+ &nbsp;When the 
+ courser hovers over an Event in the Model Layout Frame, the box for the 
+ Event will become enlarged for easier viewing</p>
+<p class="hcp3">&nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p class="hcp10">&nbsp;</p>
+<p class="hcp10"><img src="../../../image41.gif" style="width:22px; height:22px;" width="22" height="22" border="0" class="hcp6"></p>
+<p class="hcp9">Start Sampler</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Initializes sampling of the current Model. 
+ &nbsp;Probability 
+ information can then be gathered from the Model.</p>
+<p class="hcp3">&nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p class="hcp9">&nbsp;</p>
+<p class="hcp9">&nbsp;</p>
+<p class="hcp9"><img src="../../../StopSampler.JPG"
+														x-maintain-ratio=TRUE
+														style="border: none;
+	width: 24px;
+	height: 25px;
+	float: none;"
+														width=24
+														height=25
+														border="0"></p>
+<p class="hcp9">Stop Sampler</p>
+<p class="hcp9">&nbsp;</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">This icon terminates the sampling being 
+ performed in the Model. &nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../zoomin.GIF" x-maintain-ratio="TRUE"  width="27" height="23" border="0" class="hcp11"></p><p class="hcp7">Zoom In</p>
+<p class="hcp7">&nbsp;</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Click to zoom in the current Model</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../zoomout.GIF" x-maintain-ratio="TRUE"  width="27" height="23" border="0" class="hcp11"></p><p class="hcp7">Zoom Out</p>
+<p class="hcp7">&nbsp;</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Click to zoom out the current Model</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"  width="17.64%" class="hcp5"><p>&nbsp;</p>
+<p><img src="../../../zoomdefault.GIF" x-maintain-ratio="TRUE"  width="27" height="26" border="0" class="hcp11"></p><p class="hcp9">Zoom to Fit</td>
+<td border="0" border="0"  width="82.36%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">Click to fit the entire Model space in 
+ the Model Layout Frame.</td></tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

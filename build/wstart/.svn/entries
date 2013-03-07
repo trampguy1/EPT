@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2426"
+   name=""
+   committed-date="2008-05-13T20:39:26.036739Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/wstart"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="logo.jpg"
+   text-time="2008-12-04T18:17:15.891566Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="bdbf9ddbcf087533caf1af1983a579f0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.829054Z"/>
+<entry
+   committed-rev="2396"
+   name="xbDetectBrowser.js"
+   text-time="2008-12-04T18:17:15.907194Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="4a238dbc1ffc03eedc8913c5bf195831"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.844682Z"/>
+<entry
+   committed-rev="2426"
+   name="banner.gif"
+   text-time="2008-12-04T18:17:15.922822Z"
+   committed-date="2008-05-13T20:39:26.036739Z"
+   checksum="59540dec5f38fb77f9a52f9f229f618e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.860310Z"/>
+<entry
+   committed-rev="2396"
+   name="index.html"
+   text-time="2008-12-04T18:17:15.938450Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="49ae4e6bc0803a30815c3fbf0096bdd7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.875938Z"/>
+</wc-entries>

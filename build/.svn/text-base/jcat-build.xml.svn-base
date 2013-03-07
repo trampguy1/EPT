@@ -1,0 +1,635 @@
+<project name="JCAT" default="init" basedir=".">
+	<description>
+        JCAT Ant Buildfile
+    </description>
+
+	<!-- set global properties for this build -->
+	<property file= "jcat-build.properties"/>
+	<property name="src.path" location="${project.path}/src"/>
+	<property name="resources.path" location="${project.path}/resources"/>
+	<property name="docs.path" location="${project.path}/docs"/>
+	<property name="build.path" location="${output.path}"/>
+	<property name="build-temp.path" location="${build.path}/temp"/>
+	<taskdef name="jsmoothgen" classname="net.charabia.jsmoothgen.ant.JSmoothGen" classpath="jsmoothgen-ant.jar"/>
+	<!-- shouldn't ref project bin, shouldn't rely on eclipse project being built, change this -->
+	<!-- <taskdef name="jcat-tasks" classname="mil.af.rl.jcat.ant.JCATTasks" classpath="${project.path}/bin"/> -->
+	<taskdef name="jcat-tasks" classname="mil.af.rl.jcat.ant.JCATTasks" classpath="jcat-tasks.jar"/>
+	<taskdef name="obsfucate" classname="ZKMTask" classpath="ZKM.jar"/>
+	
+
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp/>
+
+		<echo>project path:  ${project.path}</echo>
+		<echo>build output path:  ${build.path}</echo>
+
+		<mkdir dir="${build.path}"/>
+		<mkdir dir="${build-temp.path}"/>
+		<mkdir dir="${build-temp.path}/bin"/>
+		<mkdir dir="${build-temp.path}/resources"/>
+		<mkdir dir="${build-temp.path}/docs"/>
+		<mkdir dir="${build.path}/installertmp"/>
+
+		<!-- use 'available' and 'condition' tasks to do some checks -->
+
+	</target>
+	
+	
+	<target name="compile" depends="init" description="Compile source to bin with proper classpath">
+	
+		<!-- use eclipse project classpath to generate classpath for compiling and such (relative to project build)-->
+		<jcat-tasks type="classpath-string" out="${build-temp.path}/classpath-build.line" prepend="../">
+			<eclipseclasspath file="${project.path}/.classpath" />
+		</jcat-tasks>
+		<loadfile property="classpath-build.string" srcFile="${build-temp.path}/classpath-build.line"/>
+		<!-- do the same but for running and such -->
+		<jcat-tasks type="classpath-string" out="${build-temp.path}/classpath-run.line">
+			<eclipseclasspath file="${project.path}/.classpath" />
+			<directoryclasspath includesubs="true" path="${resources.path}" />
+		</jcat-tasks>
+		<loadfile property="classpath-run.string" srcFile="${build-temp.path}/classpath-run.line"/>
+
+		<!-- .svn files are excluded by ant by default, nice -->
+		<copy todir="${build-temp.path}/resources">
+			<fileset dir="${resources.path}" excludes="config/userdict.dic, config/coweb.login, config/ibc.xml"/>
+		</copy>
+
+		<!-- remove unused library files from resources (are not actually in classpath) -->
+		<jcat-tasks type="filter-libraries" in="${build-temp.path}/classpath-build.line">
+			<directoryclasspath path="${build-temp.path}/resources"/>
+		</jcat-tasks>
+
+		<!-- compile the project source from scratch using the generated classpath -->
+		<javac srcdir="${src.path}" destdir="${build-temp.path}/bin" classpath="${classpath-build.string}"	/>
+
+	</target>
+	
+
+	<target name="build-windows" depends="compile" description="Build JCAT App with installer for Windows">
+
+		<!-- create a jar of the compiled source -->
+		<jar jarfile="${build-temp.path}/JCat.jar" basedir="${build-temp.path}/bin"/>
+		
+		<!-- obsfucate the classes, dont need to for windows cause of exe wrapper 
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/JCat.jar" />
+		</antcall> -->
+		
+		<!-- create a file with classpath entries to run JCAT for jsmoothing -->
+		<jcat-tasks type="classpath-jsmooth" out="${build-temp.path}/jcat.jsmooth.classpath">
+			<eclipseclasspath file="${project.path}/.classpath" />
+			<!-- add some more classpath entries (folders with resources)-->
+			<directoryclasspath includesubs="true" path="${resources.path}" />
+		</jcat-tasks>
+
+		<!-- create file with some additional parameters for the jsmoothing -->
+		<jcat-tasks type="jsmooth-params" out="${build-temp.path}/jcat.jsmooth.params">
+			<param name="maximumVersion" value="${jcat.maxjava}"/>
+			<param name="minimumVersion" value="${jcat.minjava}"/>
+			<param name="skeletonProperties">
+				<param name="key" value="Debug"/>
+				<param name="value" value="${debugconsole}"/>
+			</param>
+		</jcat-tasks>
+
+		<!-- get the beginning and end of jsmooth dat file that we'll keep -->
+		<concat destfile="${build-temp.path}/jcat.jsmooth.tail">
+			<path path="jcat.jsmooth" />
+			<filterchain>
+				<tailfilter lines="1"/>
+			</filterchain>
+		</concat>
+		<concat destfile="${build-temp.path}/jcat.jsmooth.body">
+			<filterchain>
+				<tokenfilter>
+					<trim/>
+					<ignoreblank/>
+				</tokenfilter>
+				<tailfilter lines="-1" skip="1" />
+			</filterchain>
+			<path path="jcat.jsmooth" />
+		</concat>
+		<!-- create a complete jsmooth data file from the above fragments -->
+		<concat destfile="${build-temp.path}/jcat.jsmooth">
+			<path path="${build-temp.path}/jcat.jsmooth.body" />
+			<path path="${build-temp.path}/jcat.jsmooth.params" />
+			<path path="${build-temp.path}/jcat.jsmooth.classpath" />
+			<path path="${build-temp.path}/jcat.jsmooth.tail" />
+		</concat>
+
+		<!-- create a windows exe (wrap the jar) using jsmooth -->
+		<jsmoothgen project="${build-temp.path}/jcat.jsmooth" skeletonroot="skeletons"/>
+
+		<!-- copy docs to be included with install -->
+		<echo taskname="copy" message="Copying other files to be installed..."/>
+		<copy todir="${build-temp.path}/docs">
+			<fileset dir="${docs.path}" excludes="jcat.chm"/>
+		</copy>
+		
+		<!-- remove the junk to not be installed -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+				<exclude name="resources/**"/>
+				<exclude name="docs/**"/>
+				<exclude name="JCat.exe"/>
+			</fileset>
+		</delete>
+
+		<mkdir dir="${build.path}/windows"/>
+		<mkdir dir="${build.path}/windows/examples"/>
+		<mkdir dir="${build.path}/windows/JRE"/>
+		<mkdir dir="${build.path}/windows/Acrobat"/>
+		
+		<!-- build installer using installjammer and premade install script/data file -->
+		<echo taskname="exec" message="Building installer..."/>
+		<exec executable="${installbuilder.exec}">
+			<arg line="--output-dir ${build.path}/windows"/>
+			<arg line="--build-dir ${build.path}/installertmp"/>
+			<arg line="-DVersion ${jcat.version}"/>
+			<arg line="-DJavaVersion ${jcat.minjava}"/>
+			<arg line="-DSourceFiles ${build-temp.path}"/>
+			<arg line="-DInstallerName JCAT-${jcat.version}-win.exe"/>
+			<arg line="--platform Windows"/>
+			<arg value="--build"/>
+			<arg value="--build-for-release"/>
+			<arg value="--"/>
+			<arg value="JCAT.mpi"/>
+		</exec>
+
+		<!-- create autorun file for the setup just created -->
+		<jcat-tasks type="autorun" out="${build.path}/windows/autorun.inf" platform="windows">
+			<Param name="command" value="JCAT-${jcat.version}-win.exe"/>
+		</jcat-tasks>
+		<!-- copy other stuffs to be included on install media -->
+		<echo taskname="copy" message="Copying other files for install media..."/>
+		<copy toDir="${build.path}/windows/examples"><fileset dir="examples"/></copy>
+		<copy file="docs/release-notes.pdf" toDir="${build.path}/windows"/>
+		<copy file="docs/READ-ME.pdf" toDir="${build.path}/windows"/>
+		<copy file="web-link.url" toFile="${build.path}/windows/UncertainReasoning.com.url"/>
+		<!-- JREs -->
+		<copy toDir="${build.path}/windows/JRE"><fileset dir="jres"  includes="*windows*, *.txt"/></copy>
+		<!-- adobe reader -->
+		<copy toDir="${build.path}/windows/Acrobat"><fileset dir="acrobat"  includes="*.exe, *.txt"/></copy>
+		
+	</target>
+	
+	
+	<target name="build-linux" depends="compile" description="Build JCAT App with installer for Linux">
+
+		<!-- create a jar of the compiled source -->
+		<jar jarfile="${build-temp.path}/JCat.jar" basedir="${build-temp.path}/bin"/>
+		
+		<!-- obsfucate the classes -->
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/JCat.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}" />
+		</antcall> 
+		
+		<!-- create a shell script (equivilant to the windows exe) -->
+		<concat destfile="${build-temp.path}/JCAT">#! /bin/sh
+JCAT_HOME=`dirname $0`
+cd $JCAT_HOME
+java -cp ${classpath-run.string}:JCat.jar mil.af.rl.jcat.gui.MainFrm
+		</concat>
+		<chmod file="${build-temp.path}/JCAT" perm="ugo+rx"/>
+
+		<!-- copy docs to be included with install -->
+		<echo taskname="copy" message="Copying other files to be installed..."/>
+		<copy todir="${build-temp.path}/docs">
+			<fileset dir="${docs.path}" excludes="jcat.chm"/>
+		</copy>
+		
+		<!-- remove the junk to not be installed -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+				<exclude name="resources/**"/>
+				<exclude name="docs/**"/>
+				<exclude name="JCAT"/>
+				<exclude name="JCat.jar"/>
+			</fileset>
+		</delete>
+
+		<mkdir dir="${build.path}/linux"/>
+		<mkdir dir="${build.path}/linux/examples"/>
+		<mkdir dir="${build.path}/linux/JRE"/>
+		<mkdir dir="${build.path}/linux/Acrobat"/>
+		
+		<!-- build installer using installjammer and premade install script/data file -->
+		<!-- installer doesn't associate .jcat filez on linux and doesn't allow customizing icons in applications menu -->
+		<echo taskname="exec" message="Building installer..."/>
+		<exec executable="${installbuilder.exec}">
+			<arg line="--output-dir ${build.path}/linux"/>
+			<arg line="--build-dir ${build.path}/installertmp"/>
+			<arg line="-DVersion ${jcat.version}"/>
+			<arg line="-DJavaVersion ${jcat.minjava}"/>
+			<arg line="-DSourceFiles ${build-temp.path}"/>
+			<arg line="-DInstallerName JCAT-${jcat.version}-lin"/>
+			<arg line="--platform Linux-x86"/>
+			<arg value="--build"/>
+			<arg value="--build-for-release"/>
+			<arg value="--"/>
+			<arg value="JCAT.mpi"/>
+		</exec>
+
+		<!-- create autorun file for the setup just created -->
+		<jcat-tasks type="autorun" out="${build.path}/linux/autorun" platform="linux">
+			<Param name="command" value="JCAT-${jcat.version}-lin"/>
+		</jcat-tasks>
+		<chmod file="${build.path}/linux/autorun" perm="ugo+rx"/>
+		
+		<!-- copy other stuffs to be included on install media -->
+		<echo taskname="copy" message="Copying other files for install media..."/>
+		<copy toDir="${build.path}/linux/examples"><fileset dir="examples"/></copy>
+		<copy file="docs/release-notes.pdf" toDir="${build.path}/linux"/>
+		<copy file="docs/READ-ME.pdf" toDir="${build.path}/linux"/>
+		<copy file="web-link.desktop" toDir="${build.path}/linux"/>
+		<!-- JREs -->
+		<copy toDir="${build.path}/linux/JRE"><fileset dir="jres"  includes="*linux*, *.txt"/></copy>
+		<!-- adobe reader -->
+		<copy toDir="${build.path}/linux/Acrobat"><fileset dir="acrobat"  includes="*.rpm, *.deb, *.txt"/></copy>
+			
+	</target>
+
+	
+	<target name="build-mac" depends="compile" if="FALSE" description="Build JCAT App with installer for Mac OS/X">
+		
+		<!-- create a jar of the compiled source -->
+		<jar jarfile="${build-temp.path}/JCat.jar" basedir="${build-temp.path}/bin"/>
+		
+		<!-- obsfucate the classes -->
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/JCat.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}" />
+		</antcall> 
+		
+		<!-- create a shell script (equivilant to the windows exe) -->
+		<concat destfile="${build-temp.path}/JCAT">#! /bin/sh
+JCAT_HOME=`dirname $0`
+cd $JCAT_HOME
+java -cp ${classpath-run.string}:JCat.jar mil.af.rl.jcat.gui.MainFrm
+		</concat>
+		<chmod file="${build-temp.path}/JCAT" perm="ugo+rx"/>
+
+		<!-- copy docs to be included with install -->
+		<echo taskname="copy" message="Copying other files to be installed..."/>
+		<copy todir="${build-temp.path}/docs">
+			<fileset dir="${docs.path}" excludes="jcat.chm"/>
+		</copy>
+		
+		<!-- remove the junk to not be installed -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+				<exclude name="resources/**"/>
+				<exclude name="docs/**"/>
+				<exclude name="JCAT"/>
+				<exclude name="JCat.jar"/>
+			</fileset>
+		</delete>
+
+		<mkdir dir="${build.path}/mac"/>
+		<mkdir dir="${build.path}/mac/examples"/>
+		<mkdir dir="${build.path}/mac/JRE"/>
+		<mkdir dir="${build.path}/mac/Acrobat"/>
+		
+		<!-- APPARENTLY MAC INSTALLER DOESN'T WORK YET -->
+		<echo taskname="exec" message="Building installer..."/>
+		<exec executable="${installbuilder.exec}">
+			<arg line="--output-dir ${build.path}/mac"/>
+			<arg line="--build-dir ${build.path}/installertmp"/>
+			<arg line="-DVersion ${jcat.version}"/>
+			<arg line="-DJavaVersion ${jcat.minjava}"/>
+			<arg line="-DSourceFiles ${build-temp.path}"/>
+			<arg line="-DInstallerName JCAT-${jcat.version}-mac"/>
+			<arg line="--platform MacOS-X"/>
+			<arg value="--build"/>
+			<arg value="--build-for-release"/>
+			<arg value="--"/>
+			<arg value="JCAT.mpi"/>
+		</exec>
+
+		<!-- create autorun file for the setup just created -->
+		<jcat-tasks type="autorun" out="${build.path}/mac/autorun" platform="linux">
+			<Param name="command" value="JCAT-${jcat.version}-mac"/>
+		</jcat-tasks>
+		<chmod file="${build.path}/mac/autorun" perm="ugo+rx"/>
+		
+		<!-- copy other stuffs to be included on install media -->
+		<echo taskname="copy" message="Copying other files for install media..."/>
+		<copy toDir="${build.path}/mac/examples"><fileset dir="examples"/></copy>
+		<copy file="docs/release-notes.pdf" toDir="${build.path}/mac"/>
+		<copy file="docs/READ-ME.pdf" toDir="${build.path}/mac"/>
+		<copy file="UncertainReasoning.com.webloc" toDir="${build.path}/mac"/>
+		<!-- JREs -->
+		<!-- <copy toDir="${build.path}/mac/JRE"><fileset dir="jres"  includes="*linux*, *.txt"/></copy> -->
+		<!-- adobe reader -->
+		<copy toDir="${build.path}/mac/Acrobat"><fileset dir="acrobat"  includes="*.dmg, *.txt"/></copy>
+			
+	</target>
+	
+	
+	<target name="build-api" depends="init" description="Build JCAT Java API">
+		
+		<property name="classpath-build.string" value="${resources.path}/dom4j-full.jar:${resources.path}/jug.jar:${resources.path}/log4j_1.2.14.jar:${resources.path}/JWhiteBoard.jar:
+					${resources.path}/commons-codec-1.3.jar:${resources.path}/commons-httpclient-3.1.jar:${resources.path}/commons-logging-1.1.1.jar"/>
+		<!-- run common api-jar target -->
+		<antcall target="-make-api-jar">
+			<param name="JAR_OUTPUT" value="${build-temp.path}/resources" />
+			<param name="API-CLASSPATH" value="${classpath-build.string}"/>
+		</antcall>
+		
+		<!-- obsfucate the classes -->
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/resources/JCAT_API.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}/resources" />
+		</antcall> 
+		
+		<mkdir dir="${build-temp.path}/src"/>
+		<copy todir="${build-temp.path}/src">
+			<fileset dir="${src.path}" includes="mil/af/rl/jcat/integration/api/*Example*"/>
+		</copy>
+		
+		<copy todir="${build-temp.path}">
+			<fileset dir="examples" includes="civil_war.jcat"/>
+		</copy>
+		
+		<!-- generate eclipse project filez for convenience -->
+		<jcat-tasks type="eclipse-project" out="${build-temp.path}">
+			<Param name="name" value="JCAT_API"/>
+			<Param name="classpath" value="resources/dom4j-full.jar:resources/jug.jar:resources/log4j_1.2.14.jar:resources/JCAT_API.jar"/>
+		</jcat-tasks>
+		
+		<!-- GENERATE JAVADOCS, only really need this classpath so there aren't javadoc "errors" displayed -->
+		<mkdir dir="${build-temp.path}/javadoc"/>
+		<javadoc destdir="${build-temp.path}/javadoc" classpath="${resources.path}/dom4j-full.jar:${resources.path}/jug.jar:${resources.path}/log4j_1.2.14.jar:${resources.path}/JWhiteBoard.jar:
+		${resources.path}/commons-codec-1.3.jar:${resources.path}/commons-httpclient-3.1.jar:${resources.path}/commons-logging-1.1.1.jar:${build-temp.path}/resources/JCAT_API.jar">
+			<fileset dir="${src.path}" >
+				<include name="mil/af/rl/jcat/bayesnet/BayesNet*"/>
+				<include name="mil/af/rl/jcat/integration/api/Control*"/>
+				<include name="mil/af/rl/jcat/plan/AbstractPlan*"/>
+				<include name="mil/af/rl/jcat/plan/Event*"/>
+				<include name="mil/af/rl/jcat/plan/Mechanism*"/>
+				<include name="mil/af/rl/jcat/plan/PlanItem*"/>
+				<include name="mil/af/rl/jcat/util/Guid*"/>
+			</fileset>
+		</javadoc>
+				
+		<!-- zip the stuff for the final build -->
+		<zip basedir="${build-temp.path}" destfile="${build.path}/JCAT_API.zip"/>
+		
+	</target>
+
+	
+	<target name="build-webservice" depends="init" description="Build JCAT Web Services/Servlet">
+		
+		<!-- make JCWS server                             -->
+		<mkdir dir="${build-temp.path}/WEB-INF/lib"/>
+		
+		<property name="classpath-build.string" value="${resources.path}/dom4j-full.jar:${resources.path}/jug.jar:${resources.path}/log4j_1.2.14.jar:${resources.path}/JWhiteBoard.jar:
+				${resources.path}/commons-codec-1.3.jar:${resources.path}/commons-httpclient-3.1.jar:${resources.path}/commons-logging-1.1.1.jar"/>
+		<!-- run common api-jar target -->
+		<antcall target="-make-api-jar">
+			<param name="JAR_OUTPUT" value="${build-temp.path}/WEB-INF/lib" />
+			<param name="API-CLASSPATH" value="${classpath-build.string}"/>
+		</antcall>
+		
+		<!-- obsfucate the classes -->
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/WEB-INF/lib/JCAT_API.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}/WEB-INF/lib" />
+		</antcall>
+		
+		<!-- copy in all other files, no need to generate these files -->
+		<copy todir="${build-temp.path}">
+			<fileset dir="jcws"/>
+		</copy>
+
+		<!-- include documents -->
+		<copy todir="${build-temp.path}">
+			<fileset dir="docs" includes="JCWS*.pdf"/>
+		</copy>
+		
+		<!-- zip the stuff for the final build -->
+		<zip basedir="${build-temp.path}" destfile="${build.path}/JCWS_Server.zip"/>
+		
+		<!-- cleanup -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+			</fileset>
+		</delete>
+		
+		<!-- make JCWS client                             -->
+		<!-- run common api-jar target -->
+		<mkdir dir="${build-temp.path}/resources"/>
+		<mkdir dir="${build-temp.path}/bin"/>
+		<property name="classpath-build.string" value="${resources.path}/dom4j-full.jar:${resources.path}/jug.jar:${resources.path}/log4j_1.2.14.jar:${resources.path}/JWhiteBoard.jar:
+				${resources.path}/commons-codec-1.3.jar:${resources.path}/commons-httpclient-3.1.jar:${resources.path}/commons-logging-1.1.1.jar"/>
+		<antcall target="-make-api-jar">
+			<param name="JAR_OUTPUT" value="${build-temp.path}/resources" />
+			<param name="API-CLASSPATH" value="${classpath-build.string}"/>
+		</antcall>
+		
+		<!-- obsfucate the classes -->
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/resources/JCAT_API.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}/resources" />
+		</antcall> 
+		
+		<copy todir="${build-temp.path}/resources">
+			<fileset dir="${resources.path}" includes="commons-codec-1.3.jar, commons-httpclient-3.1.jar, commons-logging-1.1.1.jar"/>
+		</copy>
+		
+		<mkdir dir="${build-temp.path}/src"/>
+		<copy todir="${build-temp.path}/src">
+			<fileset dir="${src.path}" includes="mil/af/rl/jcat/integration/soa/*Example*"/>
+		</copy>
+		
+		<copy todir="${build-temp.path}/resources">
+			<fileset dir="${resources.path}/config" includes="config.xml"/>
+		</copy>
+		
+		<!-- generate eclipse project filez for convenience -->
+		<jcat-tasks type="eclipse-project" out="${build-temp.path}">
+			<Param name="name" value="JCWS_Client"/>
+			<Param name="classpath" value="resources/dom4j-full.jar:resources/jug.jar:resources/log4j_1.2.14.jar:resources/JCAT_API.jar:
+				resources/commons-codec-1.3.jar:resources/commons-httpclient-3.1.jar:resources/commons-logging-1.1.1.jar:resources"/>
+		</jcat-tasks>
+		
+		<!-- include documents -->
+		<copy todir="${build-temp.path}">
+			<fileset dir="docs" includes="JCWS*.pdf"/>
+		</copy>
+		
+		<!-- zip the stuff for the final build -->
+		<zip basedir="${build-temp.path}" destfile="${build.path}/JCWS_Client.zip"/>
+		
+	</target>
+	
+	
+	<target name="build-webstart" depends="compile" description="Build JCAT Java WebStart">
+		
+		<!-- compile of full source is done already by dependent compile target-->
+		<!-- make main jar of bin -->
+		<!-- create a jar of the compiled source -->
+		<jar jarfile="${build-temp.path}/JCAT_jnlp.jar" basedir="${build-temp.path}/bin"/>
+		
+		<antcall target="-obsfucate">
+			<param name="OBSFUC_CLASSES" value="${build-temp.path}/JCAT_jnlp.jar" />
+			<param name="OBSFUC_OUTPUT" value="${build-temp.path}" />
+		</antcall> 
+		
+		<!-- make jar of all classpath resource jars (combine into 1), the desired jars are in resources still from compile -->
+		<mkdir dir="${build-temp.path}/resjar"/>
+		<mkdir dir="${build-temp.path}/resjar/resources"/>
+		<unjar dest="${build-temp.path}/resjar">
+			<fileset dir="${build-temp.path}/resources" includes="*.jar, *.zip"/>
+		</unjar>
+		<delete>
+			<fileset dir="${build-temp.path}/resjar">
+				<include name="META-INF/**"/>
+				<include name="*"/>
+				<exclude name="*.properties"/>
+			</fileset>
+		</delete>
+		<!-- <copy todir="${build-temp.path}/resjar/com/c3i/jwb">
+			<fileset file="wstart/JWBDefaults*"/>
+		</copy> -->
+		<copy todir="${build-temp.path}/resjar/resources">
+			<fileset dir="${build-temp.path}/resources" excludes="*.jar, *.zip"/>
+		</copy>
+		<move flatten="true" todir="${build-temp.path}/resjar">
+			<fileset dir="${build-temp.path}/resjar/resources" includes="**"/>
+		</move>
+		
+		<jar destfile="${build-temp.path}/JCAT_res.jar" basedir="${build-temp.path}/resjar"/>
+		
+		<!-- cleanup -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+				<exclude name="*.jar"/>
+			</fileset>
+		</delete>
+		
+		<!-- sign the jars using keys in project -->
+		<signjar jar="${build-temp.path}/JCAT_jnlp.jar" alias="jcat" keystore="${resources.path}/config/jcat_keystore" storepass="primate"/>
+		<signjar jar="${build-temp.path}/JCAT_res.jar" alias="jcat" keystore="${resources.path}/config/jcat_keystore" storepass="primate"/>
+		
+		<!-- generate jnlp file -->
+		<jcat-tasks type="jnlp" out="${build-temp.path}/jcat.jnlp">
+			<Param name="codebase" value="http://yourwebserver/"/>
+			<Param name="title" value="Java Causal Analysis Tool"/>
+			<Param name="vendor" value="Air Force Research Lab"/>
+			<Param name="homepage" value="http://yourwebserver/"/>
+			<Param name="description" value="A Bayesian causal analysis tool in Java"/>
+			<Param name="java-version" value="${jcat.minjava}"/>
+			<Param name="main-class" value="mil.af.rl.jcat.gui.MainFrm"/>
+			<Param name="icon" value="logo.jpg"/>
+			<Param name="jar" value="JCAT_jnlp.jar"/>
+			<Param name="jar" value="JCAT_res.jar"/>
+		</jcat-tasks>
+		
+		<!-- copy other stuffs (sample web stuff) -->
+		<copy todir="${build-temp.path}">
+			<fileset dir="wstart"/>
+		</copy>
+		
+		<!-- zip it all -->
+		<zip basedir="${build-temp.path}" destfile="${build.path}/JCAT_WebStart.zip"/>
+		
+	</target>
+	
+	
+	<!-- designed to be called by another target, classpath.string must be set for classpath, 
+			target won't run unless OBSFUC_CLASSES is set -->
+	<target name="-obsfucate" if="OBSFUC_CLASSES">
+		
+		<property name="OBSFUC_CLASSPATH" value="${classpath-build.string}"/>
+		<obsfucate scriptFileName="zkm-script.txt" isParseOnly="false" isVerbose="true"></obsfucate>
+		
+		<delete>
+			<fileset dir="${OBSFUC_OUTPUT}" includes="*.BACKUP"/>
+		</delete>
+		
+	</target>
+
+	
+	<target name="-make-api-jar" if="JAR_OUTPUT">
+		
+		<mkdir dir="${build-temp.path}/src"/>
+		<!-- perhaps put api-classpath in properties -->
+		<!-- some gui jar refs in classes in util, should be changed prolly 
+		excludes="mil/af/rl/jcat/bayesnet/parallel/**, mil/af/rl/jcat/integration/soa/**" 
+		LibProcessArg from control package and such are needed cause of copy/paste ref in Event unfortunately -->
+		<copy todir="${build-temp.path}/src">
+			<fileset dir="${src.path}"
+				includes="mil/af/rl/jcat/bayesnet/*, mil/af/rl/jcat/bayesnet/explaination/*, mil/af/rl/jcat/exceptions/**, 
+				mil/af/rl/jcat/plan/**, mil/af/rl/jcat/processlibrary/**, mil/af/rl/jcat/integration/*, mil/af/rl/jcat/integration/api/*, mil/af/rl/jcat/integration/soa/*,
+				mil/af/rl/jcat/util/EnvUtils*, mil/af/rl/jcat/util/Guid*,	mil/af/rl/jcat/util/MaskedFloat*, mil/af/rl/jcat/util/MaskedValue*, 
+				mil/af/rl/jcat/util/MultiMap*, mil/af/rl/jcat/util/PIComparable*, mil/af/rl/jcat/util/Resource*, mil/af/rl/jcat/util/ResourceData*, 
+				mil/af/rl/jcat/util/SortedMultiMap*, mil/af/rl/jcat/util/FormattedDocument*, mil/af/rl/jcat/util/FileUtils*,
+				mil/af/rl/jcat/control/LibProcessArg*, mil/af/rl/jcat/util/ProcessC*, mil/af/rl/jcat/util/ElicitationC*, mil/af/rl/jcat/util/SignalC*"
+				
+				excludes="**/integration/IbcConnector*"
+			/>
+		</copy>
+		
+		<javac srcdir="${build-temp.path}/src" destdir="${build-temp.path}/bin"	classpath="${API-CLASSPATH}"/>
+		
+		<unjar src="${resources.path}/JWhiteBoard.jar" dest="${build-temp.path}/bin">
+		    <patternset>
+		        <include name="com/c3i/jwb/JWBAttachment.class"/>
+		    	<include name="com/c3i/jwb/JWBUID.class"/>
+		    </patternset>
+		</unjar>
+		
+		<!-- create a jar of the compiled source -->
+		<jar jarfile="${JAR_OUTPUT}/JCAT_API.jar" basedir="${build-temp.path}/bin"/>
+		
+		<!-- clean up the junk -->
+		<echo taskname="delete" message="Cleaning up build-temp..."/>
+		<delete includeemptydirs="true">
+			<fileset dir="${build-temp.path}">
+				<include name="**"/>
+				<exclude name="**/JCAT_API*.jar"/>
+			</fileset>
+		</delete>
+		
+		<copy todir="${JAR_OUTPUT}">
+			<fileset dir="${resources.path}" includes="dom4j-full.jar, jug.jar, log4j_1.2.14.jar"/>
+		</copy>
+		
+	</target>
+	
+	
+	<target name="clean" description="Clean up build directory, removing temp files and such">
+
+		<delete dir="${build-temp.path}"/>
+		<delete dir="${build.path}/installertmp"/>
+
+	</target>
+	
+	
+	<target name="full-clean" description="Clean up build directory, remove all files">
+
+		<delete dir="${build-temp.path}"/>
+		<delete dir="${build.path}/installertmp"/>
+		<delete includeemptydirs="true" >
+			<fileset dir="${build.path}">
+				<include name="*/**"/>
+			</fileset>
+		</delete>
+
+	</target>
+	
+
+</project>

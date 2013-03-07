@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2495"
+   name=""
+   committed-date="2008-06-11T14:46:53.587364Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/util"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2414"
+   name="FileUtils.java"
+   text-time="2008-12-04T18:17:15.157050Z"
+   committed-date="2008-05-09T21:03:02.224174Z"
+   checksum="0a5e16501fa9532562a847ae75ef4e3a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.703838Z"/>
+<entry
+   committed-rev="1563"
+   name="DefaultDialogPage.java"
+   text-time="2007-09-25T15:36:11.329673Z"
+   committed-date="2006-09-13T18:21:37.356078Z"
+   checksum="0cc2dd05d6903eef6b7b3a4b24b716c9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.314074Z"/>
+<entry
+   committed-rev="1"
+   name="SearchResult.java"
+   text-time="2007-09-25T15:36:11.360923Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="70f61b20730db4b015f7f74d2c02466b"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.329699Z"/>
+<entry
+   committed-rev="2125"
+   name="JTextComponentSpellChecker.java"
+   text-time="2008-12-04T18:17:15.188306Z"
+   committed-date="2007-10-02T15:25:02.976684Z"
+   checksum="0d60badc5f626e96ce47191ff101c041"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.735094Z"/>
+<entry
+   committed-rev="1759"
+   name="IntegerTextField.java"
+   text-time="2007-09-25T15:36:11.423421Z"
+   committed-date="2006-11-16T19:03:28.490536Z"
+   checksum="9de2bc5c28994961a4bd3fde6f08c784"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.376573Z"/>
+<entry
+   committed-rev="886"
+   name="SortedMultiMap.java"
+   text-time="2007-09-25T15:36:11.439046Z"
+   committed-date="2006-01-03T20:18:25.618409Z"
+   checksum="6bf6091fe43ec7f91686600efeed46be"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.407822Z"/>
+<entry
+   committed-rev="1267"
+   name="NodeSearch.java"
+   text-time="2007-09-25T15:36:11.470295Z"
+   committed-date="2006-06-08T16:57:59.460953Z"
+   checksum="5e04687d5ebcea402c3d7a57611bf63f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.423447Z"/>
+<entry
+   committed-rev="2184"
+   name="CatFileFilter.java"
+   text-time="2008-12-04T18:17:15.203934Z"
+   committed-date="2007-10-23T18:23:09.227035Z"
+   checksum="b915fb1de8ed7837380d0a3d0121e9b0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.766350Z"/>
+<entry
+   committed-rev="256"
+   name="PlanItemSelection.java"
+   text-time="2007-09-25T15:36:11.517169Z"
+   committed-date="2005-08-02T17:22:13.211583Z"
+   checksum="7e2495304383a67d8ea38e4a5efa5c41"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.470320Z"/>
+<entry
+   committed-rev="1563"
+   name="ProcessC.java"
+   text-time="2007-09-25T15:36:11.548418Z"
+   committed-date="2006-09-13T18:21:37.356078Z"
+   checksum="fc13b9c3c19347b4de1e67cb471ea67e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.517194Z"/>
+<entry
+   committed-rev="2190"
+   name="JColoredIndexList.java"
+   text-time="2008-12-04T18:17:15.219562Z"
+   committed-date="2007-10-23T18:44:26.150348Z"
+   checksum="a6db0113bb3d80d3e3534cc012a7c33a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.766350Z"/>
+<entry
+   committed-rev="2363"
+   name="XTree.java"
+   text-time="2008-12-04T18:17:15.235190Z"
+   committed-date="2008-04-10T18:42:22.822617Z"
+   checksum="fee41ff409d2b3b65a453ef1fa1fd37b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.828862Z"/>
+<entry
+   committed-rev="1"
+   name="GraphicalDocument.java"
+   text-time="2007-09-25T15:36:11.595292Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="8d9d2510761bed55942230e367a7d6c8"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.564068Z"/>
+<entry
+   committed-rev="2317"
+   name="MaskedFloat.java"
+   text-time="2008-12-04T18:17:15.250818Z"
+   committed-date="2008-01-11T17:17:38.918373Z"
+   checksum="91a7ee7e63e049a428b72f1ffda5a705"
+   last-author="verenice"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.875746Z"/>
+<entry
+   committed-rev="2474"
+   name="COAComparator.java"
+   text-time="2008-12-04T18:17:15.282074Z"
+   committed-date="2008-05-30T17:15:27.527884Z"
+   checksum="faace35d455430d63d263aa7ec835f8f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.891374Z"/>
+<entry
+   committed-rev="1909"
+   name="XMLUtil.java"
+   text-time="2007-09-25T15:36:11.704664Z"
+   committed-date="2007-01-18T18:21:20.874431Z"
+   checksum="ea105de74066544a002c9714d509bcfe"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.657816Z"/>
+<entry
+   committed-rev="2414"
+   name="MaskedValue.java"
+   text-time="2008-12-04T18:17:15.297702Z"
+   committed-date="2008-05-09T21:03:02.224174Z"
+   checksum="dbe71419a2b68eecf9e13d17ada1ffb3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.907002Z"/>
+<entry
+   committed-rev="2300"
+   name="DNDFileHandler.java"
+   text-time="2008-12-04T18:17:15.313330Z"
+   committed-date="2007-12-17T18:58:32.612375Z"
+   checksum="75d314b126cab9869c72b067058c5c07"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.922630Z"/>
+<entry
+   committed-rev="1909"
+   name="ExplainChain.java"
+   text-time="2007-09-25T15:36:11.782787Z"
+   committed-date="2007-01-18T18:21:20.874431Z"
+   checksum="5f07d82cb1652f7683c9ca1c67db26d8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.720314Z"/>
+<entry
+   committed-rev="715"
+   name="IndexManagement.java"
+   text-time="2007-09-25T15:36:11.798411Z"
+   committed-date="2005-10-24T18:01:56.282386Z"
+   checksum="f08d00bbe41710661426863ea20dcf46"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.751563Z"/>
+<entry
+   committed-rev="2414"
+   name="SpellChecker.java"
+   text-time="2008-12-04T18:17:15.328958Z"
+   committed-date="2008-05-09T21:03:02.224174Z"
+   checksum="606c2c0489995edeb7231a166130f84a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.938258Z"/>
+<entry
+   committed-rev="2299"
+   name="AutoSaveAgent.java"
+   text-time="2008-12-04T18:17:15.360214Z"
+   committed-date="2007-12-17T18:56:54.859872Z"
+   checksum="0958b042f10cf5cdae46ff348813a2dc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.969514Z"/>
+<entry
+   committed-rev="960"
+   name="ElicitationC.java"
+   text-time="2007-09-25T15:36:11.876534Z"
+   committed-date="2006-03-01T14:03:57.673247Z"
+   checksum="9f03772b29ed564c28695f34d1d0eb51"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.814062Z"/>
+<entry
+   committed-rev="778"
+   name="PlanItemSorter.java"
+   text-time="2007-09-25T15:36:11.907784Z"
+   committed-date="2005-11-14T20:43:03.319601Z"
+   checksum="96ebdb98958797f62e6841af565b4860"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.876560Z"/>
+<entry
+   committed-rev="2242"
+   name="PlanStats.java"
+   text-time="2008-12-04T18:17:15.375842Z"
+   committed-date="2007-11-13T18:21:45.998904Z"
+   checksum="4d7dbffd6a535c483f45ba8bd6ba4662"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.000770Z"/>
+<entry
+   committed-rev="2102"
+   name="EnvUtils.java"
+   text-time="2007-09-25T15:36:11.954657Z"
+   committed-date="2007-09-21T20:00:00.045811Z"
+   checksum="bcf793fdd4f51ec156040b4cb4e99507"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.907809Z"/>
+<entry
+   committed-rev="1909"
+   name="Encrypter.java"
+   text-time="2007-09-25T15:36:11.985907Z"
+   committed-date="2007-01-18T18:21:20.874431Z"
+   checksum="9dd41ffa2e2ac8ec94ab9f80ec1889c5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:10.939058Z"/>
+<entry
+   committed-rev="2220"
+   name="ProcessUtil.java"
+   text-time="2008-12-04T18:17:15.391470Z"
+   committed-date="2007-11-06T18:37:44.706741Z"
+   checksum="72de7e34aaf6ee9fea116f5a36ca10b6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.032026Z"/>
+<entry
+   committed-rev="2193"
+   name="ShapeHighlighter.java"
+   text-time="2008-12-04T18:17:15.407098Z"
+   committed-date="2007-10-23T18:48:02.718392Z"
+   checksum="093b2a13c8e8d3c7bc7dcb69d575e9a9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.063282Z"/>
+<entry
+   committed-rev="961"
+   name="SignalC.java"
+   text-time="2007-09-25T15:36:12.064030Z"
+   committed-date="2006-03-01T14:04:14.057460Z"
+   checksum="6e0f407a5ced2e2167704ea175eb086d"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.001557Z"/>
+<entry
+   committed-rev="1902"
+   name="ResourceData.java"
+   text-time="2007-09-25T15:36:12.095279Z"
+   committed-date="2007-01-16T18:36:24.421643Z"
+   checksum="ce39ec44f089a6a1b94b4a1fa30604dc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.017181Z"/>
+<entry
+   committed-rev="2300"
+   name="FormattedDocument.java"
+   text-time="2008-12-04T18:17:15.438354Z"
+   committed-date="2007-12-17T18:58:32.612375Z"
+   checksum="42fd073e6638135f10bebab0e74d3aa8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.078910Z"/>
+<entry
+   committed-rev="1267"
+   name="SearchResultModel.java"
+   text-time="2007-09-25T15:36:12.142153Z"
+   committed-date="2006-06-08T16:57:59.460953Z"
+   checksum="b8a34b585efacc34ebaa321b42c95510"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.064055Z"/>
+<entry
+   committed-rev="1490"
+   name="TextEntryTableCellEditor.java"
+   text-time="2007-09-25T15:36:12.173402Z"
+   committed-date="2006-08-22T19:38:49.968337Z"
+   checksum="20d1a50ff08723df937322c748325509"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.079680Z"/>
+<entry
+   committed-rev="1909"
+   name="TextLog.java"
+   text-time="2007-09-25T15:36:12.189026Z"
+   committed-date="2007-01-18T18:21:20.874431Z"
+   checksum="389d324e92ab81d5034a1916b517e2aa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.110929Z"/>
+<entry
+   committed-rev="1759"
+   name="Resource.java"
+   text-time="2007-09-25T15:36:12.220276Z"
+   committed-date="2006-11-16T19:03:28.490536Z"
+   checksum="360d341d18210b3c9bec4b5222fe8485"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.126554Z"/>
+<entry
+   committed-rev="2300"
+   name="MultiMap.java"
+   text-time="2008-12-04T18:17:15.453982Z"
+   committed-date="2007-12-17T18:58:32.612375Z"
+   checksum="b7af5b3b8f1b4a23e93c599b113f05b3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.094538Z"/>
+<entry
+   committed-rev="2362"
+   name="Guid.java"
+   text-time="2008-12-04T18:17:15.469610Z"
+   committed-date="2008-04-10T18:41:28.461850Z"
+   checksum="b28e1b285f2fc26a67b5adf04adfb99f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.125794Z"/>
+<entry
+   committed-rev="1267"
+   name="TableEntryTableCellEditor.java"
+   text-time="2007-09-25T15:36:12.298399Z"
+   committed-date="2006-06-08T16:57:59.460953Z"
+   checksum="7c5a6da1923c4223cea27aecc95b41ba"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.204677Z"/>
+<entry
+   committed-rev="1267"
+   name="CustomFocusPolicy.java"
+   text-time="2007-09-25T15:36:12.314023Z"
+   committed-date="2006-06-08T16:57:59.460953Z"
+   checksum="7b8486d913531c221d306e80014c6ba5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.220301Z"/>
+<entry
+   committed-rev="1031"
+   name="ExplainPathItem.java"
+   text-time="2007-09-25T15:36:12.345272Z"
+   committed-date="2006-04-14T20:17:14.586680Z"
+   checksum="0282dba6dff3bd9c59147a85e08d1c62"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.235926Z"/>
+<entry
+   committed-rev="2495"
+   name="CustomHTMLLayout.java"
+   text-time="2008-12-04T18:17:15.500866Z"
+   committed-date="2008-06-11T14:46:53.587364Z"
+   checksum="411ef089b65da7d65dd04d74eb7bb6f4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.141422Z"/>
+<entry
+   committed-rev="1267"
+   name="EventInfo.java"
+   text-time="2007-09-25T15:36:12.392146Z"
+   committed-date="2006-06-08T16:57:59.460953Z"
+   checksum="15f7dce6c70a150d9766070e068bb7a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.282800Z"/>
+<entry
+   committed-rev="778"
+   name="PIComparable.java"
+   text-time="2007-09-25T15:36:12.439020Z"
+   committed-date="2005-11-14T20:43:03.319601Z"
+   checksum="ad1847d893b17df20ad7821bbe827c5a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:11.314049Z"/>
+</wc-entries>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2478"
+   name=""
+   committed-date="2008-06-04T19:04:07.873445Z"
+   url="svn://128.132.53.159/JCat/head/JCat/docs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2478"
+   name="security.pdf"
+   text-time="2008-12-04T18:17:20.626850Z"
+   committed-date="2008-06-04T19:04:07.873445Z"
+   checksum="ad4e34aa284ef37ea85565c56e3f2460"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.892334Z"/>
+<entry
+   committed-rev="2386"
+   name="artifact.pdf"
+   text-time="2008-12-04T18:17:20.658106Z"
+   committed-date="2008-04-29T19:12:47.061390Z"
+   checksum="0c90648bc224d6e29c947e5b09d20c5f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.111126Z"/>
+<entry
+   committed-rev="2388"
+   name="rnor.pdf"
+   text-time="2008-12-04T18:17:20.704990Z"
+   committed-date="2008-04-29T19:27:52.459568Z"
+   checksum="80e03c7343bc6784a880301df391ed29"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.298662Z"/>
+<entry
+   committed-rev="2428"
+   name="jcat.pdf"
+   text-time="2008-12-04T18:17:20.751874Z"
+   committed-date="2008-05-15T20:25:23.483906Z"
+   checksum="0a8204caa91ed76b69eec887fa7aa60f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.548710Z"/>
+<entry
+   committed-rev="2389"
+   name="evidence.pdf"
+   text-time="2008-12-04T18:17:20.767502Z"
+   committed-date="2008-04-29T19:45:41.971322Z"
+   checksum="f80848d5cd2f60694b89d82b4e68c99e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.579966Z"/>
+<entry
+   committed-rev="2387"
+   name="uncertainty.pdf"
+   text-time="2008-12-04T18:17:20.798758Z"
+   committed-date="2008-04-29T19:25:16.236819Z"
+   checksum="0fcac68230c2a850b958ff2a35b33cdb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.595594Z"/>
+</wc-entries>

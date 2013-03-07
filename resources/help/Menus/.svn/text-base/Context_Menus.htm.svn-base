@@ -1,0 +1,150 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Context Menus</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+table.hcp2 { x-cell-content-align:top; border-spacing:0px; }
+p.hcp3 { text-align:justify; }
+p.hcp4 { font-weight:bold; }
+td.hcp5 { padding-right:10px; padding-left:10px; border-left-style:none; border-right-style:none; border-bottom-style:none; }
+p.hcp6 { font-weight:normal; }
+td.hcp7 { padding-right:10px; padding-left:10px; border-right-style:none; border-bottom-style:none; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Model Context Menus</td></tr>
+</table>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">While in the Model Layout Frame there are 
+ additional options available to the user when a right click is performed 
+ within an open space of the background. &nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col ><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	bgcolor=#C0C0C0
+	width=18.255%>
+<p class="hcp4">Option</td>
+<td border="0" border="0"
+	
+
+	bgcolor=#C0C0C0
+	width=81.745%>
+<p class="hcp4">Description</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Reset View</p>
+<p class="hcp6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This will reset the view of a Model to 
+ it's unedited version. &nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Paste</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This operation will paste nodes which have 
+ been copied from the Model.</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Show Signal Names</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This allows the user to display the signal 
+ names along the edges.</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Start Model Server</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This displays the Collaboration Host dialog 
+ to start a session.</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Stop Model Server</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This terminates the Collaboration session.</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Save Model Image</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">Saving a Model image allows the user to 
+ capture a image of the current Model.</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"  width="18.255%" class="hcp5"><p class="hcp6">&nbsp;</p>
+<p class="hcp6">Create COA</td>
+<td border="0" border="0"  width="81.745%" class="hcp7"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">This allows the user to create a new course 
+ of action. &nbsp;<a href="../COA/What_Is_a_Course_of_Action.htm"
+												>See  COA</a> section.</td></tr>
+</table>
+<p class="hcp3">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

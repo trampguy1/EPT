@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="civil_war.jcat" guid="73244ead-2a56-488d-9ef2-46e252b4fb8b" version="1.1.1" default_probability_set="standard">
+  <documentation>
+    <description></description>
+  </documentation>
+  <Graph>
+    <Shape id="-5123fa80:11103af5b7e:-7ffa:128.132.53.149" type="event">
+      <itemguid>88737729-4644-4e3a-bda9-1aa648cdd5af</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>180.0</xpos>
+      <ypos>320.0</ypos>
+      <text>Removal of Leadership:Saddam Hussein</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ff7:128.132.53.149" type="mechanism">
+      <itemguid>e8625bae-0637-4ee4-b8e0-2094b284f8bb</itemguid>
+      <startkey>-5123fa80:11103af5b7e:-7ffa:128.132.53.149</startkey>
+      <endkey>-5123fa80:11103af5b7e:-7ffb:128.132.53.149</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>289 322 360 270 431 218 </controlPoints>
+      <text>Power Vacume</text>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ff9:128.132.53.149" type="event">
+      <itemguid>cee9906c-5d8e-4891-b223-2b2f7ac6e120</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>620.0</xpos>
+      <ypos>320.0</ypos>
+      <text>Ethnic Favoritism:Ethnic Group</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ff5:128.132.53.149" type="mechanism">
+      <itemguid>20e4f871-e7a2-49d3-9587-a6993ff7acef</itemguid>
+      <startkey>-5123fa80:11103af5b7e:-7ff8:128.132.53.149</startkey>
+      <endkey>-5123fa80:11103af5b7e:-7ffb:128.132.53.149</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>470 320 470 270 470 220 </controlPoints>
+      <text>Outside Military Intervention</text>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ffb:128.132.53.149" type="event">
+      <itemguid>439abfdd-9b3d-4285-a74e-db87062801bc</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>400.0</xpos>
+      <ypos>160.0</ypos>
+      <text>Civil War:Iraq</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ff6:128.132.53.149" type="mechanism">
+      <itemguid>3a22df3e-7d47-4758-9dfd-d22f7886b0c7</itemguid>
+      <startkey>-5123fa80:11103af5b7e:-7ff9:128.132.53.149</startkey>
+      <endkey>-5123fa80:11103af5b7e:-7ffb:128.132.53.149</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>651 322 580 270 509 218 </controlPoints>
+      <text>Ethnic Clash</text>
+    </Shape>
+    <Shape id="-5123fa80:11103af5b7e:-7ff8:128.132.53.149" type="event">
+      <itemguid>5afa81c4-dfbe-4691-8ad9-8ba8f62983ab</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>400.0</xpos>
+      <ypos>320.0</ypos>
+      <text>Military Occupation:Iraq</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Removal of Leadership" label="Saddam Hussein" guid="88737729-4644-4e3a-bda9-1aa648cdd5af" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">1.0</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="e8625bae-0637-4ee4-b8e0-2094b284f8bb"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>04773e01-5d01-4421-ac4e-8bd6b6bb4e58</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Military Occupation" label="Iraq" guid="5afa81c4-dfbe-4691-8ad9-8ba8f62983ab" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="1">0.97</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="20e4f871-e7a2-49d3-9587-a6993ff7acef"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>3</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>885d633e-474c-4144-b763-452053482443</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Outside Military Intervention" label="" guid="20e4f871-e7a2-49d3-9587-a6993ff7acef" type="mechanism">
+      <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+      <ToEvent>439abfdd-9b3d-4285-a74e-db87062801bc </ToEvent>
+      <FromEvent>5afa81c4-dfbe-4691-8ad9-8ba8f62983ab</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Ethnic Favoritism" label="Ethnic Group" guid="cee9906c-5d8e-4891-b223-2b2f7ac6e120" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="1">1.0</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="3a22df3e-7d47-4758-9dfd-d22f7886b0c7"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>09d94ad8-825b-4666-a42d-4bf3d6eb5e09</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Civil War" label="Iraq" guid="439abfdd-9b3d-4285-a74e-db87062801bc" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="e8625bae-0637-4ee4-b8e0-2094b284f8bb"/>
+        <Mech guid="3a22df3e-7d47-4758-9dfd-d22f7886b0c7"/>
+        <Mech guid="20e4f871-e7a2-49d3-9587-a6993ff7acef"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>488eec92-76e2-40a8-8362-7551a1e53aac</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Ethnic Clash" label="" guid="3a22df3e-7d47-4758-9dfd-d22f7886b0c7" type="mechanism">
+      <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+      <ToEvent>439abfdd-9b3d-4285-a74e-db87062801bc </ToEvent>
+      <FromEvent>cee9906c-5d8e-4891-b223-2b2f7ac6e120</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Power Vacume" label="" guid="e8625bae-0637-4ee4-b8e0-2094b284f8bb" type="mechanism">
+      <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+      <ToEvent>439abfdd-9b3d-4285-a74e-db87062801bc </ToEvent>
+      <FromEvent>88737729-4644-4e3a-bda9-1aa648cdd5af</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>6</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+  </Logic>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="04773e01-5d01-4421-ac4e-8bd6b6bb4e58" name="Removal of Leadership" defaultsSubType="-1">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="09d94ad8-825b-4666-a42d-4bf3d6eb5e09" name="Ethnic Favoritism" defaultsSubType="-1">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="488eec92-76e2-40a8-8362-7551a1e53aac" name="Civil War" defaultsSubType="-1">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+              <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+              <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+                <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+                <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.05" group-name="">
+                  <SignalSet>
+                    <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.95" group-name="war">
+                  <SignalSet>
+                    <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+                    <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+                    <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="885d633e-474c-4144-b763-452053482443" name="Military Occupation" defaultsSubType="-1">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="ef50f7b8-07d2-4e90-bdff-2cd27bae8eab" name="Power Vacume"/>
+      <Signal guid="90284553-2f47-4e6e-a851-60ad38499d9e" name="Outside Military Intervention"/>
+      <Signal guid="2cfc6636-7e41-4bf5-ba31-fce90d7d9cb8" name="Ethnic Clash"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name=""/>
+  <SamplingOptions>
+    <Option PlanLength="10"/>
+  </SamplingOptions>
+  <PlanCOAs/>
+</Plan>

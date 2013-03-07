@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="DARPA.demo.model.jcat" guid="a36232e8-4e33-473f-b9e4-f9a289b37414" version="1.0.5">
+  <documentation>
+    <description>This plan is a causal model with the result node of Insurgency. The plan was created by Robinson Ihle AFRL/IFSA. Robinson Ihle is Deputy Chief of Analysis 152 AOG/IN.</description>
+  </documentation>
+  <Graph>
+    <Shape id="522ad40b:10790754ade:-7ff8:128.132.53.158" type="event">
+      <itemguid>f39ad72b-7cc8-4224-9a60-f1b24a969210</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>540.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Schools</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fec:128.132.53.158" type="mechanism">
+      <itemguid>fffaa9ac-5a16-4f8c-a073-a1df945af260</itemguid>
+      <startkey>522ad40b:10790754ade:-7ffc:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff1:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>654 542 618 490 582 437</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff7:128.132.53.158" type="event">
+      <itemguid>757ab9e6-7656-4eac-8d39-9ad73262e9f6</itemguid>
+      <rcolor>229</rcolor>
+      <gcolor>30</gcolor>
+      <bcolor>30</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>100</width>
+      <xpos>400.0</xpos>
+      <ypos>20.0</ypos>
+      <text>Insurgency:</text>
+      <font>Arial:1:14</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff4:128.132.53.158" type="event">
+      <itemguid>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</itemguid>
+      <rcolor>153</rcolor>
+      <gcolor>153</gcolor>
+      <bcolor>153</bcolor>
+      <alpha>255</alpha>
+      <height>100</height>
+      <width>100</width>
+      <xpos>160.0</xpos>
+      <ypos>340.0</ypos>
+      <text>US Occuptation negitively interacts with locals:Religeous Level</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe1:128.132.53.158" type="mechanism">
+      <itemguid>352ef103-c7b6-42db-9d4a-c32bb011c32c</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff1:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff0:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>534 342 524 311 513 279</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff9:128.132.53.158" type="event">
+      <itemguid>0344cdda-4f3b-455a-ad5c-7d7d223c522d</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>100</width>
+      <xpos>420.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Neighborhoods</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe5:128.132.53.158" type="mechanism">
+      <itemguid>920de5e2-e623-4cb1-9468-a6ed4abc61d8</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff2:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff7:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>318 202 366 150 414 98</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7feb:128.132.53.158" type="mechanism">
+      <itemguid>fd749c28-9a33-47e6-b083-1e6b44b5a46f</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff6:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff4:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>106 542 142 490 178 437</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fee:128.132.53.158" type="mechanism">
+      <itemguid>8a0cc933-c1d3-4971-b9d8-85c80c90637c</itemguid>
+      <startkey>522ad40b:10790754ade:-7ffa:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff4:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>202 541 205 490 208 439</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff1:128.132.53.158" type="event">
+      <itemguid>846628db-e34f-4745-8144-55b87e911165</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>100</height>
+      <width>100</width>
+      <xpos>500.0</xpos>
+      <ypos>340.0</ypos>
+      <text>US Occuptation negitively interacts with locals:Secular Level</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ffa:128.132.53.158" type="event">
+      <itemguid>3cc18534-efcf-4b5e-8b6d-1c477825814a</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>160.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Religeous Leader Dwellings</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff5:128.132.53.158" type="event">
+      <itemguid>b0a884ed-94a5-4435-bf20-7ee998e86827</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>740.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Relief Effort for Public</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff2:128.132.53.158" type="event">
+      <itemguid>5dbc0d70-025f-4834-a51d-926184245c2a</itemguid>
+      <rcolor>153</rcolor>
+      <gcolor>153</gcolor>
+      <bcolor>153</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>240.0</xpos>
+      <ypos>200.0</ypos>
+      <text>Public becomes sympathetic of insurgents:</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe3:128.132.53.158" type="mechanism">
+      <itemguid>617c17fa-ba8f-4c51-b8b4-da1dcc72701e</itemguid>
+      <startkey>522ad40b:10790754ade:-7ffb:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff4:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>330 540 330 465 330 390 295 390 260 390</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff6:128.132.53.158" type="event">
+      <itemguid>4198a8c4-835a-467c-9d88-f064a36eacdf</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>40.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Mosque</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fea:128.132.53.158" type="mechanism">
+      <itemguid>0ecc31d2-a61c-446f-b9c8-b42ad960d6f8</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff0:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff7:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>490 201 475 150 460 99</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ffc:128.132.53.158" type="event">
+      <itemguid>4426dcd5-99fa-48ed-bdac-4e84bfdc9c09</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>640.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Hospitals</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe7:128.132.53.158" type="mechanism">
+      <itemguid>de02d8c2-3c33-402c-bbdd-a0edbff14bdc</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff3:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff7:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>862 542 673 320 483 98</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe4:128.132.53.158" type="mechanism">
+      <itemguid>dc63c33f-a1b8-4eca-a5a8-16b12418abe0</itemguid>
+      <startkey>522ad40b:10790754ade:-7ffb:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff1:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>330 540 330 465 330 390 415 390 500 390</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fed:128.132.53.158" type="mechanism">
+      <itemguid>4f33b495-4c31-47b5-bab3-4cb777b0841e</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff4:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff0:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>258 365 360 313 462 260</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe6:128.132.53.158" type="mechanism">
+      <itemguid>93cdfe44-a450-46b2-8076-c5538fccf1fa</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff8:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff1:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>574 541 566 490 557 439</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff0:128.132.53.158" type="event">
+      <itemguid>d8c74178-8eee-4032-81c5-01ebe2b17100</itemguid>
+      <rcolor>153</rcolor>
+      <gcolor>153</gcolor>
+      <bcolor>153</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>460.0</xpos>
+      <ypos>200.0</ypos>
+      <text>Public recruited to insurgents:</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe9:128.132.53.158" type="mechanism">
+      <itemguid>a59161ed-1bee-497c-8ec2-ae66454db520</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff5:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff1:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>742 542 670 490 597 437</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe2:128.132.53.158" type="mechanism">
+      <itemguid>d44961ee-8a6a-4dc8-96d4-5dfe28dabcf5</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff9:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff1:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>486 541 508 490 530 438</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ff3:128.132.53.158" type="event">
+      <itemguid>bdaec7d4-f0ad-402b-aa3d-afb94c655a71</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>860.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Trend analysis shows insurgency in press reporting:</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fef:128.132.53.158" type="mechanism">
+      <itemguid>5fd48395-968b-4135-9f10-8729f6bfc881</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff4:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff2:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>232 342 247 311 262 279</controlPoints>
+      <text></text>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7ffb:128.132.53.158" type="event">
+      <itemguid>0c96bfe0-d63e-4960-af8d-f434b0de6d40</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>100</width>
+      <xpos>280.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Local Operations:Cultural and/or Historical Site</text>
+      <font>Arial:1:11</font>
+    </Shape>
+    <Shape id="522ad40b:10790754ade:-7fe8:128.132.53.158" type="mechanism">
+      <itemguid>a6d4c6cb-34c2-44b8-b323-f5058a6e455a</itemguid>
+      <startkey>522ad40b:10790754ade:-7ff1:128.132.53.158</startkey>
+      <endkey>522ad40b:10790754ade:-7ff2:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>502 364 410 313 318 261</controlPoints>
+      <text></text>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Local Operations" label="Schools" guid="f39ad72b-7cc8-4224-9a60-f1b24a969210" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding schools then the node should not be scheduled. If non-relief military operations are in the vicinity** of schools the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy a schools the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="93cdfe44-a450-46b2-8076-c5538fccf1fa"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>68053269-1a13-4cb0-a11d-47fe04fb0524</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Interaction with Hospitals" label="signal" guid="fffaa9ac-5a16-4f8c-a073-a1df945af260" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+      <ToEvent>846628db-e34f-4745-8144-55b87e911165</ToEvent>
+      <FromEvent>4426dcd5-99fa-48ed-bdac-4e84bfdc9c09</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Insurgency" label="" guid="757ab9e6-7656-4eac-8d39-9ad73262e9f6" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node depicts the probability of the occurence of insurgency in Iraq.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="0ecc31d2-a61c-446f-b9c8-b42ad960d6f8"/>
+        <Mech guid="de02d8c2-3c33-402c-bbdd-a0edbff14bdc"/>
+        <Mech guid="920de5e2-e623-4cb1-9468-a6ed4abc61d8"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>5522161c-7340-451a-966e-328d13d32034</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="US Occuptation negitively interacts with locals" label="Religeous Level" guid="9b86f658-2d4c-47d3-9e41-bf31f5f861aa" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="8a0cc933-c1d3-4971-b9d8-85c80c90637c"/>
+        <Mech guid="fd749c28-9a33-47e6-b083-1e6b44b5a46f"/>
+        <Mech guid="617c17fa-ba8f-4c51-b8b4-da1dcc72701e"/>
+      </Causes>
+      <Effects>
+        <Mech guid="5fd48395-968b-4135-9f10-8729f6bfc881"/>
+        <Mech guid="4f33b495-4c31-47b5-bab3-4cb777b0841e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>99317a29-2a6b-48e4-9a72-82a83b53dd22</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="secular unrest" label="signal" guid="352ef103-c7b6-42db-9d4a-c32bb011c32c" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+      <ToEvent>d8c74178-8eee-4032-81c5-01ebe2b17100</ToEvent>
+      <FromEvent>846628db-e34f-4745-8144-55b87e911165</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Neighborhoods" guid="0344cdda-4f3b-455a-ad5c-7d7d223c522d" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding neighborhoods then the node should not be scheduled. If non-relief military operations are in the vicinity** of neighborhoods the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy a neighborhood the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="d44961ee-8a6a-4dc8-96d4-5dfe28dabcf5"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>27a31777-9dba-434b-bbcb-d02b1ec7963c</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Insurgents receive local support" label="signal" guid="920de5e2-e623-4cb1-9468-a6ed4abc61d8" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+      <ToEvent>757ab9e6-7656-4eac-8d39-9ad73262e9f6</ToEvent>
+      <FromEvent>5dbc0d70-025f-4834-a51d-926184245c2a</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interaction with Mosque" label="signal" guid="fd749c28-9a33-47e6-b083-1e6b44b5a46f" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+      <ToEvent>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</ToEvent>
+      <FromEvent>4198a8c4-835a-467c-9d88-f064a36eacdf</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interaction with residence" label="signal" guid="8a0cc933-c1d3-4971-b9d8-85c80c90637c" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+      <ToEvent>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</ToEvent>
+      <FromEvent>3cc18534-efcf-4b5e-8b6d-1c477825814a</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="US Occuptation negitively interacts with locals" label="Secular Level" guid="846628db-e34f-4745-8144-55b87e911165" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="fffaa9ac-5a16-4f8c-a073-a1df945af260"/>
+        <Mech guid="93cdfe44-a450-46b2-8076-c5538fccf1fa"/>
+        <Mech guid="dc63c33f-a1b8-4eca-a5a8-16b12418abe0"/>
+        <Mech guid="d44961ee-8a6a-4dc8-96d4-5dfe28dabcf5"/>
+      </Causes>
+      <Effects>
+        <Mech guid="a6d4c6cb-34c2-44b8-b323-f5058a6e455a"/>
+        <Mech guid="352ef103-c7b6-42db-9d4a-c32bb011c32c"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="a59161ed-1bee-497c-8ec2-ae66454db520"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>cc077e72-293c-495b-9b83-3c2016b6c676</PGuid>
+      <SchemeAttribute>Lemons</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Religeous Leader Dwellings" guid="3cc18534-efcf-4b5e-8b6d-1c477825814a" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding Religeous Leader Dwellings. then the node should not be scheduled. If non-relief military operations are in the vicinity** of Religeous Leader Dwellings the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy Religeous Leader Dwellings the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="8a0cc933-c1d3-4971-b9d8-85c80c90637c"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>57213ec5-96bf-44eb-aaee-2c79ed5d8709</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Relief Effort for Public" guid="b0a884ed-94a5-4435-bf20-7ee998e86827" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If public relief efforts are not in the vicinity of operations the node should not be scheduled. If relief efforts are in the vicinity** of operations the node should be scheduled with a probability of 0.25. If public relief efforts take place in concert with operations the node should be schuduled with a probability of 0.5. Definitions: **Vicinity of: 400 meters.</description>
+        <comment>
+          <commenttext></commenttext>
+          <originator></originator>
+          <date>Jun 16, 2005</date>
+        </comment>
+        <comment>
+          <commenttext></commenttext>
+          <originator></originator>
+          <date>Jun 16, 2005</date>
+        </comment>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="a59161ed-1bee-497c-8ec2-ae66454db520"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>7c635413-a9b4-4253-a00c-2820c85587cd</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Public becomes sympathetic of insurgents" label="" guid="5dbc0d70-025f-4834-a51d-926184245c2a" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="5fd48395-968b-4135-9f10-8729f6bfc881"/>
+        <Mech guid="a6d4c6cb-34c2-44b8-b323-f5058a6e455a"/>
+      </Causes>
+      <Effects>
+        <Mech guid="920de5e2-e623-4cb1-9468-a6ed4abc61d8"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>4105f1a6-e53e-485d-912b-0012457d5875</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Interaction with Site" label="signal" guid="617c17fa-ba8f-4c51-b8b4-da1dcc72701e" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+      <ToEvent>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</ToEvent>
+      <FromEvent>0c96bfe0-d63e-4960-af8d-f434b0de6d40</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Mosque" guid="4198a8c4-835a-467c-9d88-f064a36eacdf" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding mosques then the node should not be scheduled. If non-relief military operations are in the vicinity** of mosques the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy a mosque the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="fd749c28-9a33-47e6-b083-1e6b44b5a46f"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>b634c5f7-08fb-4aec-bdad-b925fd7fc9fe</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Insurgents increase manpower" label="signal" guid="0ecc31d2-a61c-446f-b9c8-b42ad960d6f8" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+      <ToEvent>757ab9e6-7656-4eac-8d39-9ad73262e9f6</ToEvent>
+      <FromEvent>d8c74178-8eee-4032-81c5-01ebe2b17100</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Hospitals" guid="4426dcd5-99fa-48ed-bdac-4e84bfdc9c09" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding hospitals then the node should not be scheduled. If non-relief military operations are in the vicinity** of hospitals the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy a hospitals the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="fffaa9ac-5a16-4f8c-a073-a1df945af260"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>1e5f5a22-1090-4c9c-83f9-1e328169071f</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Insurgency activity in press reporting" label="signal" guid="de02d8c2-3c33-402c-bbdd-a0edbff14bdc" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+      <ToEvent>757ab9e6-7656-4eac-8d39-9ad73262e9f6</ToEvent>
+      <FromEvent>bdaec7d4-f0ad-402b-aa3d-afb94c655a71</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interaction with Site" label="signal" guid="dc63c33f-a1b8-4eca-a5a8-16b12418abe0" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+      <ToEvent>846628db-e34f-4745-8144-55b87e911165</ToEvent>
+      <FromEvent>0c96bfe0-d63e-4960-af8d-f434b0de6d40</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="religeous unrest" label="signal" guid="4f33b495-4c31-47b5-bab3-4cb777b0841e" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+      <ToEvent>d8c74178-8eee-4032-81c5-01ebe2b17100</ToEvent>
+      <FromEvent>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interaction with Schools" label="signal" guid="93cdfe44-a450-46b2-8076-c5538fccf1fa" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+      <ToEvent>846628db-e34f-4745-8144-55b87e911165</ToEvent>
+      <FromEvent>f39ad72b-7cc8-4224-9a60-f1b24a969210</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Public recruited to insurgents" label="" guid="d8c74178-8eee-4032-81c5-01ebe2b17100" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+        <keyword></keyword>
+        <keyword></keyword>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="4f33b495-4c31-47b5-bab3-4cb777b0841e"/>
+        <Mech guid="352ef103-c7b6-42db-9d4a-c32bb011c32c"/>
+      </Causes>
+      <Effects>
+        <Mech guid="0ecc31d2-a61c-446f-b9c8-b42ad960d6f8"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>32b1d5fc-bc31-44fb-9788-bd9500d60574</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Public Mollified" label="signal" guid="a59161ed-1bee-497c-8ec2-ae66454db520" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+      <ToEvent>846628db-e34f-4745-8144-55b87e911165</ToEvent>
+      <FromEvent>b0a884ed-94a5-4435-bf20-7ee998e86827</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interaction with residential area" label="signal" guid="d44961ee-8a6a-4dc8-96d4-5dfe28dabcf5" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+      <ToEvent>846628db-e34f-4745-8144-55b87e911165</ToEvent>
+      <FromEvent>0344cdda-4f3b-455a-ad5c-7d7d223c522d</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Trend analysis shows insurgency in press reporting" label="" guid="bdaec7d4-f0ad-402b-aa3d-afb94c655a71" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="de02d8c2-3c33-402c-bbdd-a0edbff14bdc"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>33a07963-792c-480b-a7ed-148430f66248</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="religeous unrest" label="signal" guid="5fd48395-968b-4135-9f10-8729f6bfc881" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+      <ToEvent>5dbc0d70-025f-4834-a51d-926184245c2a</ToEvent>
+      <FromEvent>9b86f658-2d4c-47d3-9e41-bf31f5f861aa</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Operations" label="Cultural and/or Historical Site" guid="0c96bfe0-d63e-4960-af8d-f434b0de6d40" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description>This node should be scheduled as follows: If non-relief military operations are completely avoiding cultural or historical sites. then the node should not be scheduled. If non-relief military operations are in the vicinity** of cultural or historical sites the node should be scheduled with a probability of 0.33. If non-relief military operations damage or destroy cultural or historical sites the node should be schuduled with a probability of 0.99. Definitions: **Vicinity of: 400 meters.</description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">0.5</Probability>
+        <Probability time="1">0.4</Probability>
+        <Probability time="3">0.3</Probability>
+      </Schedule>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="dc63c33f-a1b8-4eca-a5a8-16b12418abe0"/>
+        <Mech guid="617c17fa-ba8f-4c51-b8b4-da1dcc72701e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.3f</Continuation>
+      <PGuid>370ebf70-d975-4f48-bd53-3ec6bf6094cc</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="secular unrest" label="signal" guid="a6d4c6cb-34c2-44b8-b323-f5058a6e455a" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+      <ToEvent>5dbc0d70-025f-4834-a51d-926184245c2a</ToEvent>
+      <FromEvent>846628db-e34f-4745-8144-55b87e911165</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+  </Logic>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="68053269-1a13-4cb0-a11d-47fe04fb0524" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="5522161c-7340-451a-966e-328d13d32034" name="Insurgency">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+              <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+              <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+                <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+                <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.7">
+                  <SignalSet>
+                    <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8">
+                  <SignalSet>
+                    <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+                    <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.049999997">
+                  <SignalSet>
+                    <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.59999996">
+                  <SignalSet>
+                    <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="99317a29-2a6b-48e4-9a72-82a83b53dd22" name="US Occuptation negitively interacts with locals">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+              <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+              <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+                <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.8">
+                  <SignalSet>
+                    <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.99">
+                  <SignalSet>
+                    <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                    <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+                    <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8">
+                  <SignalSet>
+                    <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.90000004">
+                  <SignalSet>
+                    <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="27a31777-9dba-434b-bbcb-d02b1ec7963c" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="cc077e72-293c-495b-9b83-3c2016b6c676" name="US Occuptation negitively interacts with locals">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+              <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+              <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+              <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+                <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+                <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.90000004">
+                  <SignalSet>
+                    <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.99">
+                  <SignalSet>
+                    <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+                    <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+                    <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+                    <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.7">
+                  <SignalSet>
+                    <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.75">
+                  <SignalSet>
+                    <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.84999996">
+                  <SignalSet>
+                    <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.35">
+                  <SignalSet>
+                    <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="57213ec5-96bf-44eb-aaee-2c79ed5d8709" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="7c635413-a9b4-4253-a00c-2820c85587cd" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="4105f1a6-e53e-485d-912b-0012457d5875" name="Public becomes sympathetic of insurgents">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+              <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.65">
+                  <SignalSet>
+                    <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.95">
+                  <SignalSet>
+                    <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                    <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.5">
+                  <SignalSet>
+                    <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="b634c5f7-08fb-4aec-bdad-b925fd7fc9fe" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="1e5f5a22-1090-4c9c-83f9-1e328169071f" name="Local Operations">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="32b1d5fc-bc31-44fb-9788-bd9500d60574" name="Public recruited to insurgents">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+              <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.5">
+                  <SignalSet>
+                    <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.7">
+                  <SignalSet>
+                    <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+                    <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.39999998">
+                  <SignalSet>
+                    <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="33a07963-792c-480b-a7ed-148430f66248" name="Insurgency activity in press reporting">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="370ebf70-d975-4f48-bd53-3ec6bf6094cc" name="Undefined">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="717b3a60-6059-4f30-9a5e-e7bad3570fbb" name="Public Mollified"/>
+      <Signal guid="9e807ad7-f44a-41f9-90d1-864f248a2b23" name="secular unrest"/>
+      <Signal guid="11a90c66-1980-47e5-87be-e6fa0e289180" name="Insurgents receive local support"/>
+      <Signal guid="4c600dac-0537-47d8-affc-fb93049ddb12" name="Insurgency activity in press reporting"/>
+      <Signal guid="f514b63b-bcbb-435c-a460-dcfbe1ccfc27" name="Interaction with Mosque"/>
+      <Signal guid="2ef0b4b2-62d2-41a4-b801-a3fba60123f3" name="religeous unrest"/>
+      <Signal guid="c05af333-34ae-402b-86f9-aa525158039f" name="Insurgents increase manpower"/>
+      <Signal guid="abfe409b-2031-4337-a4d7-9244dff0d647" name="Interaction with Hospitals"/>
+      <Signal guid="38747832-f582-48fd-98a2-e6c8cb5df44b" name="Interaction with residential area"/>
+      <Signal guid="e28ef339-2397-4311-9827-d5b4351744be" name="Interaction with Schools"/>
+      <Signal guid="d639135d-5ae2-4f30-90be-48e334dadc6c" name="Interaction with residence"/>
+      <Signal guid="35d2395a-8390-46b1-a568-d10b5aaffcaf" name="Interaction with Site"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name="Fruity">
+    <Attrib color="-16737844">Default Node Color</Attrib>
+    <Attrib color="-16777216">Default Node Text Color</Attrib>
+    <Attrib color="-26368">Oranges</Attrib>
+    <Attrib color="-3407872">Apples</Attrib>
+    <Attrib color="-256">Lemons</Attrib>
+    <Attrib color="-16724992">Limes</Attrib>
+    <Attrib color="-13159">Peaches</Attrib>
+    <Attrib color="-10092442">Plumbs</Attrib>
+  </ColorScheme>
+  <SamplingOptions/>
+</Plan>

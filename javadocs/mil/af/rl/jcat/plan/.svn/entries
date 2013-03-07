@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/mil/af/rl/jcat/plan"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   committed-rev="2373"
+   name="AbstractPlan.html"
+   text-time="2008-12-04T18:17:22.158394Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="c0febc57ec2a4930b18931d3783d775b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.048998Z"/>
+<entry
+   committed-rev="2373"
+   name="Event.html"
+   text-time="2008-12-04T18:17:22.174022Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="f7dca67cb77624d066bba44b8cb90edf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.064626Z"/>
+<entry
+   committed-rev="2373"
+   name="package-frame.html"
+   text-time="2008-12-04T18:17:22.189650Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="8544258069a67ddf866ebd5341e1e38e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.064626Z"/>
+<entry
+   committed-rev="2373"
+   name="Mechanism.html"
+   text-time="2008-12-04T18:17:22.220906Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="5cceb0d64bf245fcdcd6d50c619089cd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.080254Z"/>
+<entry
+   committed-rev="2373"
+   name="package-use.html"
+   text-time="2008-12-04T18:17:22.236534Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="63a57aa05f39d00c07f6fb2bfccd29ad"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.095882Z"/>
+<entry
+   committed-rev="2373"
+   name="package-summary.html"
+   text-time="2008-12-04T18:17:22.252162Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="ad3b20253965b964086248c771b5814f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.111510Z"/>
+<entry
+   committed-rev="2373"
+   name="package-tree.html"
+   text-time="2008-12-04T18:17:22.267790Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="bbaef17cf56a3eecf93ff925668835a2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.111510Z"/>
+<entry
+   committed-rev="2373"
+   name="PlanItem.html"
+   text-time="2008-12-04T18:17:22.283418Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="c7de6b8cc51eebbefa8e608ff442f209"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.127138Z"/>
+</wc-entries>

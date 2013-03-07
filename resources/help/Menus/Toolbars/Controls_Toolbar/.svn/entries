@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Menus/Toolbars/Controls_Toolbar"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="ControlsToolbarex1.htm"
+   text-time="2008-12-04T18:17:32.269710Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="6d390277b36c62c42df31b724655aaa1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:32.238454Z"/>
+<entry
+   committed-rev="2467"
+   name="Controls_Toolbar.htm"
+   text-time="2008-12-04T18:17:32.300966Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="320b0a6213e638da32d782d35e5fb0d4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:32.254082Z"/>
+</wc-entries>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2475"
+   name=""
+   committed-date="2008-06-02T15:01:16.370766Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Evidence_Manager"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Sensor_Evidence.htm"
+   text-time="2008-12-04T18:17:34.379490Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="deb54d23f07f44e93eedbea78162d517"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.285722Z"/>
+<entry
+   committed-rev="2467"
+   name="Evidence_Manager.htm"
+   text-time="2008-12-04T18:17:34.410746Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="84f138511206770b8c7b34a5192279dd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.301350Z"/>
+<entry
+   committed-rev="2467"
+   name="EvidenceTip.htm"
+   text-time="2008-12-04T18:17:34.426374Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="b5671c859ffdf187ef600f6ad52b0c58"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.301350Z"/>
+<entry
+   committed-rev="2475"
+   name="Absolute_Evidence.htm"
+   text-time="2008-12-04T18:17:34.442002Z"
+   committed-date="2008-06-02T15:01:16.370766Z"
+   checksum="4f1a74afedde817d73f4a3f544600df9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.316978Z"/>
+<entry
+   committed-rev="2467"
+   name="Application_of_Scheduling_and_Evidence.htm"
+   text-time="2008-12-04T18:17:34.457630Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="06d2758eca0469007121b8e8db67af22"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.348234Z"/>
+<entry
+   committed-rev="2467"
+   name="Methods_for_Scheduling_an_Event_or_Mechanism.htm"
+   text-time="2008-12-04T18:17:34.473258Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="01f01e21d6d033d2877e8c1e1e50e99e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.363862Z"/>
+</wc-entries>

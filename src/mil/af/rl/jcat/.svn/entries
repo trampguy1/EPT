@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2510"
+   name=""
+   committed-date="2008-09-23T15:41:38.721909Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="control"
+   kind="dir"/>
+<entry
+   name="exceptions"
+   kind="dir"/>
+<entry
+   name="ant"
+   kind="dir"/>
+<entry
+   name="integration"
+   kind="dir"/>
+<entry
+   name="processlibrary"
+   kind="dir"/>
+<entry
+   name="gui"
+   kind="dir"/>
+<entry
+   name="siamtransform"
+   kind="dir"/>
+<entry
+   name="bayesnet"
+   kind="dir"/>
+<entry
+   name="plan"
+   kind="dir"/>
+<entry
+   name="MMC"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/jcws/WEB-INF"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="web.xml"
+   text-time="2008-12-04T18:17:17.438738Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="2cec4f44b0add0ac86e6446abb26b2e5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.423110Z"/>
+</wc-entries>

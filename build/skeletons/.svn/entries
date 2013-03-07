@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/skeletons"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="console-wrapper"
+   kind="dir"/>
+<entry
+   name="windowed-wrapper"
+   kind="dir"/>
+</wc-entries>

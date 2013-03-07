@@ -1,0 +1,57 @@
+# Use this properties file to configure JWhiteBoard defaults and to specify available JWBShapes.
+
+# Format Name=Value
+
+# Shape Base Attributes; Can be overridden in shape constructor.
+width=80
+height=80
+color=0,128,255,255
+hidden=false
+fill=true
+outline=true
+shadow=false
+font=Arial-BOLD-11
+text=
+textColor=0,0,0,255
+linkable=true
+magnifiable=true
+markup=true
+stroke=1
+
+# JWBPanel Attributes
+size=1280,1024
+# 0 = no grid, 1 = dots, 2 = lines
+grid=0
+snapToGrid=true
+transparentEditing=false
+# repaint canvas on external updates (attachment modifications)
+repaintOnPutExternalUpdate=true
+# if zoomToFit is false then zoomFactor will be used
+zoomToFit=false
+# zoomfactor 2 - 18, 10 = default
+zoomFactor=10
+
+# Format: Key=Package.Class
+# Note: The shape keys must be unique and begin with "JWBShape".
+
+# Provided with JWhiteBoard
+JWBShape1=com.c3i.jwb.shapes.JWBActor
+JWBShape2=com.c3i.jwb.shapes.JWBDiamond
+JWBShape3=com.c3i.jwb.shapes.JWBEllipse
+JWBShape4=com.c3i.jwb.shapes.JWBImage
+JWBShape5=com.c3i.jwb.shapes.JWBOctagon
+JWBShape6=com.c3i.jwb.shapes.JWBRectangle
+JWBShape7=com.c3i.jwb.shapes.JWBRoundedRectangle
+JWBShape8=com.c3i.jwb.shapes.JWBStar
+JWBShape9=com.c3i.jwb.shapes.JWBTriangle
+
+# The following is an example of how you may extend this file.
+
+# User Created Shapes
+#JWBShapeUser1=com.user.shapes.MyRectangle
+#JWBShapeUser2=com.user.shapes.MyPentagon
+#...
+
+# Third Party Shapes
+#JWBShapeACME1=org.acme.shapes.ACMECircle
+#...

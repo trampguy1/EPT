@@ -1,0 +1,100 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Events2</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+img.hcp3 { border:none; border-style:none; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=100%>
+<p style="font-weight: bold;
+			font-size: 18pt;
+			color: #0000ff;">Event Editor Dialog (<span ><font size=3 style="font-size:12pt;">Continued</font></span>)</td></tr></table>
+<p>&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The <span style="font-weight: bold;"><B>Specified 
+ Probabilities Pane</B></span> 
+ deals with the signals that the Event is already receiving or sending.</p>
+<p class="hcp2"><img src="image18.gif" style="width:640px; height:420px;" width="640" height="420" border="0" class="hcp3"></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">There are 3 tabs in this pane: “Causal,” 
+ “Inhibit,” and “Effect.” &nbsp;The 
+ first two tabs modify incoming Cause and Inhibitor signals respectively. 
+ &nbsp;The last 
+ tab modifies the Effect signals sent out by the Event. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The above image shows the “Causal” tab. 
+ &nbsp;The table 
+ in this tab displays all incoming Causal signals. &nbsp;The 
+ probabilities in the “alone” column specify the probability that the Event 
+ will occur when it receives the signal associated with the row.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Sometimes, Events occur differently when 
+ a specific group of causes is present. &nbsp;To 
+ specify a new group, click on the New Group button <img src="image16.gif"  width="80" height="20" border="0" class="hcp3">.</p><p class="hcp2">&nbsp;</p>
+<p>&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

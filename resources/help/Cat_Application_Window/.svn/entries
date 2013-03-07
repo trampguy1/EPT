@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Cat_Application_Window"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Main_GUI.htm"
+   text-time="2008-12-04T18:17:33.629346Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="0df9e361a752d8bafaae02776e2dd69f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.316786Z"/>
+<entry
+   name="Plan_Layout_Frame"
+   kind="dir"/>
+<entry
+   committed-rev="2467"
+   name="Application_Window.htm"
+   text-time="2008-12-04T18:17:33.644974Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="38db370c16e0aab3400fcb44f314745a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.332414Z"/>
+<entry
+   committed-rev="2467"
+   name="Profile_Legend.htm"
+   text-time="2008-12-04T18:17:33.660602Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="0fb4223b710e062716b39f0d5db7db87"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.551206Z"/>
+<entry
+   committed-rev="2467"
+   name="Cat_Application_Window.htm"
+   text-time="2008-12-04T18:17:33.691858Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="be91c6ee55836aa2a6c8e2e524b07ab5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.551206Z"/>
+<entry
+   committed-rev="2467"
+   name="Plan_Layout_Frame.htm"
+   text-time="2008-12-04T18:17:33.707486Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="f8023deefa6009af414b5ed4399c0009"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.566834Z"/>
+<entry
+   committed-rev="2467"
+   name="Show_Chain.htm"
+   text-time="2008-12-04T18:17:33.723114Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="918ec5634d2940bea85926b18ac7d862"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.582462Z"/>
+<entry
+   committed-rev="2467"
+   name="Status_Bar.htm"
+   text-time="2008-12-04T18:17:33.738742Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="187414bca60ab076f1a9f7efc95631a9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.613718Z"/>
+</wc-entries>

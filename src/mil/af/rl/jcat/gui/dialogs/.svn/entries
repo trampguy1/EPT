@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2509"
+   name=""
+   committed-date="2008-09-23T15:41:00.552722Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/gui/dialogs"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2272"
+   name="COASummaryDialog.java"
+   text-time="2008-12-04T18:17:10.640558Z"
+   committed-date="2007-12-17T18:20:17.866131Z"
+   checksum="3578072a270473427c8afc3b1efd9f12"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.827518Z"/>
+<entry
+   committed-rev="2280"
+   name="ResourceCountsDialog.java"
+   text-time="2008-12-04T18:17:10.671814Z"
+   committed-date="2007-12-17T18:35:48.452453Z"
+   checksum="a0693cc901f944a73955e672addd16c0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.921286Z"/>
+<entry
+   committed-rev="2346"
+   name="JCatColorChooser.java"
+   text-time="2008-12-04T18:17:10.687442Z"
+   committed-date="2008-03-24T16:54:20.796333Z"
+   checksum="d61720e0b3dcb7fe73e605e0f1420c72"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.952542Z"/>
+<entry
+   committed-rev="2083"
+   name="ResourcePriorityDialog.java"
+   text-time="2007-09-25T15:36:03.642370Z"
+   committed-date="2007-08-03T18:54:57.916677Z"
+   checksum="cd46349584c1176714c2ad6e003d851d"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:02.345528Z"/>
+<entry
+   committed-rev="2485"
+   name="SignalLibraryEditor.java"
+   text-time="2008-12-04T18:17:10.703070Z"
+   committed-date="2008-06-06T18:18:20.129066Z"
+   checksum="43d3fefb3b681bdf9d002184cb38125f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.046310Z"/>
+<entry
+   committed-rev="2061"
+   name="ProgressBox.java"
+   text-time="2007-09-25T15:36:03.673619Z"
+   committed-date="2007-05-25T13:43:25.599391Z"
+   checksum="1cfe6e6ca3f1969eb68515b66c4f7fab"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:02.361153Z"/>
+<entry
+   committed-rev="2470"
+   name="ColorSchemePanel.java"
+   text-time="2008-12-04T18:17:10.718698Z"
+   committed-date="2008-05-29T18:57:39.211142Z"
+   checksum="197bf1d1b8116b003bdc8f9769268d1e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.311986Z"/>
+<entry
+   committed-rev="2485"
+   name="MechanismDialog.java"
+   text-time="2008-12-04T18:17:10.749954Z"
+   committed-date="2008-06-06T18:18:20.129066Z"
+   checksum="f24581811b1fe555230603b728a9bf45"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.343242Z"/>
+<entry
+   committed-rev="1868"
+   name="EventValueListener.java"
+   text-time="2007-09-25T15:36:03.751742Z"
+   committed-date="2007-01-12T16:46:12.229150Z"
+   checksum="950a7e0fbeac9442fc66aebe2547342f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:02.423651Z"/>
+<entry
+   committed-rev="2405"
+   name="COACompareOptions.java"
+   text-time="2008-12-04T18:17:10.765582Z"
+   committed-date="2008-05-09T20:58:19.168241Z"
+   checksum="06e0788871478f33305c33db00fbac8b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.655802Z"/>
+<entry
+   committed-rev="2474"
+   name="SamplingOptions.java"
+   text-time="2008-12-04T18:17:10.796838Z"
+   committed-date="2008-05-30T17:15:27.527884Z"
+   checksum="30e51de2b787673c4cf3e541fed36531"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.733942Z"/>
+<entry
+   committed-rev="2278"
+   name="PlanTrackerDialog.java"
+   text-time="2008-12-04T18:17:10.812466Z"
+   committed-date="2007-12-17T18:31:32.695906Z"
+   checksum="8a3583821bda36aaa4d038954a1dab7d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.765198Z"/>
+<entry
+   committed-rev="1253"
+   name="TextEntryDialog.java"
+   text-time="2007-09-25T15:36:03.845490Z"
+   committed-date="2006-06-08T16:53:14.632870Z"
+   checksum="e7e9f637cc9cc21b4f3e5c7233c740a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:02.517399Z"/>
+<entry
+   committed-rev="2165"
+   name="ResourceSetSelectionDialog.java"
+   text-time="2008-12-04T18:17:10.828094Z"
+   committed-date="2007-10-23T17:28:30.314972Z"
+   checksum="1a6f02348ffd268c1fca95ec8f174870"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.780826Z"/>
+<entry
+   committed-rev="2272"
+   name="COACompareDialog.java"
+   text-time="2008-12-04T18:17:10.843722Z"
+   committed-date="2007-12-17T18:20:17.866131Z"
+   checksum="83e16cdf5a354f58112b346c49f65d33"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.796454Z"/>
+<entry
+   committed-rev="2282"
+   name="ResourcesDialog.java"
+   text-time="2008-12-04T18:17:10.874978Z"
+   committed-date="2007-12-17T18:39:19.395353Z"
+   checksum="c4a07baec706d6a9e59148f56ccec595"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.812082Z"/>
+<entry
+   committed-rev="2423"
+   name="AboutDialog.java"
+   text-time="2008-12-04T18:17:10.890606Z"
+   committed-date="2008-05-13T19:06:01.882267Z"
+   checksum="c7ffa1ec642c72e99214141719f3fa62"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.827710Z"/>
+<entry
+   committed-rev="2463"
+   name="NodeSearchDialog.java"
+   text-time="2008-12-04T18:17:10.906234Z"
+   committed-date="2008-05-22T17:48:11.467181Z"
+   checksum="b70e075157fefe3a1bac08cbd5e99550"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.952734Z"/>
+<entry
+   committed-rev="2405"
+   name="PswdDialog.java"
+   text-time="2008-12-04T18:17:10.921862Z"
+   committed-date="2008-05-09T20:58:19.168241Z"
+   checksum="d098a0dda37714b407c6bf89feb357fd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:08.983990Z"/>
+<entry
+   committed-rev="2167"
+   name="SchedulerDialog.java"
+   text-time="2008-12-04T18:17:10.953118Z"
+   committed-date="2007-10-23T17:39:25.237987Z"
+   checksum="a1c29ce292193e46b419ec532652c360"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.015246Z"/>
+<entry
+   committed-rev="2173"
+   name="XYLayout.java"
+   text-time="2008-12-04T18:17:10.968746Z"
+   committed-date="2007-10-23T17:45:16.309474Z"
+   checksum="eaf9fd6e00eea772f12a3cb8c7fd14e6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.046502Z"/>
+<entry
+   committed-rev="2469"
+   name="PrefsDialog.java"
+   text-time="2008-12-04T18:17:11.000002Z"
+   committed-date="2008-05-29T18:54:39.784674Z"
+   checksum="cc370a69684dedfd0d9b82be400ba90c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.093386Z"/>
+<entry
+   committed-rev="2450"
+   name="EventDialog.java"
+   text-time="2008-12-04T18:17:11.015630Z"
+   committed-date="2008-05-19T18:28:52.835494Z"
+   checksum="e2f33b8d03f0b34907dfad348c75cef0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.155898Z"/>
+<entry
+   committed-rev="2473"
+   name="EvidenceDialog.java"
+   text-time="2008-12-04T18:17:11.031258Z"
+   committed-date="2008-05-30T17:05:01.949370Z"
+   checksum="67b12bdf535fda123c261e221b1094aa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.312178Z"/>
+<entry
+   committed-rev="2450"
+   name="TimingDialog.java"
+   text-time="2008-12-04T18:17:11.062514Z"
+   committed-date="2008-05-19T18:28:52.835494Z"
+   checksum="fee74a50e2d30f23fc480b3710540b4b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.343434Z"/>
+<entry
+   committed-rev="2044"
+   name="WhyDiegoWhy.java"
+   text-time="2007-09-25T15:36:04.173607Z"
+   committed-date="2007-04-23T17:18:09.593460Z"
+   checksum="7ca6c463d4035e7b26bfc54c192c5fcf"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:02.814266Z"/>
+<entry
+   committed-rev="2283"
+   name="StatisticsDialog.java"
+   text-time="2008-12-04T18:17:11.078142Z"
+   committed-date="2007-12-17T18:39:39.739624Z"
+   checksum="3076fecb8e74c4dcfcd4052df066ca1c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.359062Z"/>
+<entry
+   committed-rev="2205"
+   name="GroupDialog.java"
+   text-time="2008-12-04T18:17:11.109398Z"
+   committed-date="2007-11-06T16:24:47.283774Z"
+   checksum="c400a4bdc6fb12e09afc09c57f281532"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.421574Z"/>
+<entry
+   committed-rev="2509"
+   name="HistogramDialog.java"
+   text-time="2008-12-04T18:17:11.125026Z"
+   committed-date="2008-09-23T15:41:00.552722Z"
+   checksum="dd11ceb9e7be991765ff5df9f1f9b329"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.452830Z"/>
+<entry
+   committed-rev="2405"
+   name="COAReportDialog.java"
+   text-time="2008-12-04T18:17:11.140654Z"
+   committed-date="2008-05-09T20:58:19.168241Z"
+   checksum="f2b39b0a9b3fcb81131cb029c9f101eb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.499714Z"/>
+<entry
+   committed-rev="2277"
+   name="LeakerCountsDialog.java"
+   text-time="2008-12-04T18:17:11.156282Z"
+   committed-date="2007-12-17T18:30:07.349971Z"
+   checksum="03abafd3e2fd1a1ee948a377acc5d2ee"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.530970Z"/>
+<entry
+   name="wizard"
+   kind="dir"/>
+<entry
+   committed-rev="2405"
+   name="ExplainDialog.java"
+   text-time="2008-12-04T18:17:11.187538Z"
+   committed-date="2008-05-09T20:58:19.168241Z"
+   checksum="fc76091317b61c6cfed3435b1355f1fd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.577854Z"/>
+<entry
+   committed-rev="1757"
+   name="DefineResourceDialog.java"
+   text-time="2007-09-25T15:36:04.361102Z"
+   committed-date="2006-11-14T15:38:43.939560Z"
+   checksum="7f9527cb3d9e95c94a0ba2fdb1b785f9"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:03.283004Z"/>
+<entry
+   committed-rev="2278"
+   name="PlanTreeViewDialog.java"
+   text-time="2008-12-04T18:17:11.203166Z"
+   committed-date="2007-12-17T18:31:32.695906Z"
+   checksum="3d3f8ddaf45160d2a397566bcedeb2c0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.156090Z"/>
+<entry
+   committed-rev="2405"
+   name="SecurityDialog.java"
+   text-time="2008-12-04T18:17:11.218794Z"
+   committed-date="2008-05-09T20:58:19.168241Z"
+   checksum="e5a9d2325f61adb7101891af79dbd813"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.171718Z"/>
+<entry
+   committed-rev="1478"
+   name="OptionDialog.java"
+   text-time="2007-09-25T15:36:04.439225Z"
+   committed-date="2006-08-22T19:25:16.858990Z"
+   checksum="0242d11890bea9ccfc7b8e985fd3e98a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:03.345503Z"/>
+<entry
+   committed-rev="1253"
+   name="XYConstraints.java"
+   text-time="2007-09-25T15:36:04.454849Z"
+   committed-date="2006-06-08T16:53:14.632870Z"
+   checksum="d1d193b2d9a95f0d201f532e3e02ea53"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:03.376752Z"/>
+<entry
+   committed-rev="2500"
+   name="DocumentationDialog.java"
+   text-time="2008-12-04T18:17:11.250050Z"
+   committed-date="2008-06-20T16:58:08.348896Z"
+   checksum="790821b2467467b148bd6724b1dc757f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.218602Z"/>
+<entry
+   committed-rev="2171"
+   name="TableEntryDialog.java"
+   text-time="2008-12-04T18:17:11.265678Z"
+   committed-date="2007-10-23T17:43:20.853394Z"
+   checksum="53dc121699f4dbbc59d385103c6b1d37"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.249858Z"/>
+<entry
+   committed-rev="2321"
+   name="FontSelectionDialog.java"
+   text-time="2008-12-04T18:17:11.281306Z"
+   committed-date="2008-01-15T20:06:36.710674Z"
+   checksum="801b7b144319e13c0bfa66682af38ddf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.249858Z"/>
+<entry
+   committed-rev="2282"
+   name="SelectSignalDialog.java"
+   text-time="2008-12-04T18:17:11.312562Z"
+   committed-date="2007-12-17T18:39:19.395353Z"
+   checksum="aa002d6e63fe66a1c6830a01d6c454d4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.296742Z"/>
+<entry
+   committed-rev="2348"
+   name="MiscDialogs.java"
+   text-time="2008-12-04T18:17:11.328190Z"
+   committed-date="2008-03-24T16:55:35.783588Z"
+   checksum="419cef476a160836cc39db3e74d579c4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.312370Z"/>
+<entry
+   committed-rev="2283"
+   name="ThreatResourceScheduler.java"
+   text-time="2008-12-04T18:17:11.343818Z"
+   committed-date="2007-12-17T18:39:39.739624Z"
+   checksum="eb79e439e9664645627c36ec7b812e72"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:10.624930Z"/>
+</wc-entries>

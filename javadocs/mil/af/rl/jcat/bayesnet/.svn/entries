@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/mil/af/rl/jcat/bayesnet"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   committed-rev="2373"
+   name="package-frame.html"
+   text-time="2008-12-04T18:17:21.752066Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="d770987b3ce024004b47a4262457da1e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.658298Z"/>
+<entry
+   committed-rev="2373"
+   name="package-use.html"
+   text-time="2008-12-04T18:17:21.767694Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="51fddd5232b463e9fb13ab56ccb6b1eb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.673926Z"/>
+<entry
+   committed-rev="2373"
+   name="package-summary.html"
+   text-time="2008-12-04T18:17:21.783322Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="8fd781983651e7b6a6489ed682084187"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.689554Z"/>
+<entry
+   committed-rev="2373"
+   name="package-tree.html"
+   text-time="2008-12-04T18:17:21.798950Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="f64996663d8626ceda8dce15eeb30f32"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.705182Z"/>
+<entry
+   committed-rev="2373"
+   name="BayesNet.html"
+   text-time="2008-12-04T18:17:21.814578Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="d19ee5e69e638b5fc6860d01cf6678c9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.720810Z"/>
+</wc-entries>

@@ -1,0 +1,97 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Continuation Probability</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<p>&nbsp;</p>
+
+
+ <table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 
+ 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Continuation Probability</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">If an Event or Mechanism gradually becomes 
+ less likely to occur as time progresses, this field should be set. &nbsp;The 
+ value set for continuation multiplies the probability of an Event or Mechanism's 
+ every timestep until the probability gets closer to zero. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">For instance, if Continuation for an Event 
+ is set to 0.25, and the Event initially has the probability of 1.0, then 
+ after 1 timestep, it will have probability 0.25 (this is 1.0 * 0.25). 
+ &nbsp;After another 
+ timestep, it will have the probability 0.0625 ( 1.0 * 0.25), and after 
+ another, the probability will be 0.015625 (1.0 * 0.25 * 0.25 * 0.25).</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

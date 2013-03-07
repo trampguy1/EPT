@@ -1,0 +1,91 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Reset View</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" border="0" border="0" x-use-null-cells 
+ width="425" cellspacing="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" 
+
+	width=100%>
+
+ <table border="1" border="1"  border="1"  x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0" 
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0" 
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" border="0"  border="0"  x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" 
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Resetting the Model View</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Selecting this option will reset the view 
+ to its default setting. &nbsp;This 
+ is typically done to return to the original view for more simplified viewing 
+ of nodes in a particular Model. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><img src="../../reset_view.bmp"
+									x-maintain-ratio=TRUE
+									style="border: none;
+											width: 153px;
+											height: 232px;
+											float: none;
+											border-style: none;"
+									width=153
+									height=232
+									border="0"></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+
+Occationally when John starts JCAT in Eclipse:
+- John figured out that this happens only when he launches 2 instances from IDE
+2006-08-23 15:05:54.893 java[218] CFLog (0): CFMessagePort: bootstrap_register(): failed 1103 (0x44f), port = 0x11a03, name = 'java.ServiceProvider'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2006-08-23 15:05:54.894 java[218] CFLog (99): CFMessagePortCreateLocal(): failed to name Mach port (java.ServiceProvider)

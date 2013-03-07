@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/jcws/models"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="Tony_coa.jpeg"
+   text-time="2008-12-04T18:17:17.298086Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="bd8b3e70256d65775fa6540913c7e66b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.235574Z"/>
+<entry
+   committed-rev="2396"
+   name="Baghdad.jcat"
+   text-time="2008-12-04T18:17:17.313714Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="4ce519caec844ce1e7cc7715fcb5967c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.251202Z"/>
+<entry
+   committed-rev="2396"
+   name="Tony_coa.jcat"
+   text-time="2008-12-04T18:17:17.344970Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="98b1a6f9fa4abd50d5f1715e61151039"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.251202Z"/>
+<entry
+   committed-rev="2391"
+   name="Baghdad.jpeg"
+   text-time="2008-12-04T18:17:17.360598Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="44f76234307e715ece0061d4778e83f2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.266830Z"/>
+</wc-entries>

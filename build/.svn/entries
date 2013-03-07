@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2499"
+   name=""
+   committed-date="2008-06-20T16:56:40.581024Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   prop-time="2008-12-04T18:17:19.314098Z"
+   revision="2532"/>
+<entry
+   committed-rev="2391"
+   name="jcat-tasks.jar"
+   text-time="2008-12-04T18:17:19.329726Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="45c8f3a865bf99068d3c700530a5d67b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.766542Z"/>
+<entry
+   committed-rev="2391"
+   name="web-link.desktop"
+   text-time="2008-12-04T18:17:19.345354Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="4372e207cfb16ea609f7cee154e4bdd3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.782170Z"/>
+<entry
+   committed-rev="2421"
+   name="zkm-script.txt"
+   text-time="2008-12-04T18:17:19.360982Z"
+   committed-date="2008-05-13T19:05:29.709774Z"
+   checksum="5918b513d2f202c48f5fd65d1174aa8c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.782170Z"/>
+<entry
+   committed-rev="2391"
+   name="jcat_setup.png"
+   text-time="2008-12-04T18:17:19.376610Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="437935409077a23c282c43581e2b1aec"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.797798Z"/>
+<entry
+   name="wstart"
+   kind="dir"/>
+<entry
+   committed-rev="2391"
+   name="UncertainReasoning.com.webloc"
+   text-time="2008-12-04T18:17:19.392238Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="4f273584d231af0c132c3ef956c2b7b2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:15.969706Z"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   name="Theme"
+   kind="dir"/>
+<entry
+   committed-rev="2391"
+   name="jcat.jsmooth"
+   text-time="2008-12-04T18:17:19.423494Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="942930f73c46b7d6389de7e8560736fd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.032410Z"/>
+<entry
+   name="jres"
+   kind="dir"/>
+<entry
+   committed-rev="2391"
+   name="JCAT.mpi"
+   text-time="2008-12-04T18:17:19.439122Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="7ba73630b33ce53efd44d2dc301d852e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.048038Z"/>
+<entry
+   name="jcws"
+   kind="dir"/>
+<entry
+   name="skeletons"
+   kind="dir"/>
+<entry
+   committed-rev="2391"
+   name="jsmoothgen-ant.jar"
+   text-time="2008-12-04T18:17:19.501634Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="3e776ec3c82be07f74e011006599c3c4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:18.329534Z"/>
+<entry
+   committed-rev="2499"
+   name="jcat-build.properties"
+   text-time="2008-12-04T18:17:19.517262Z"
+   committed-date="2008-06-20T16:56:40.581024Z"
+   checksum="62e0653ccdf3fcab8efa498ac08c389f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:18.345162Z"/>
+<entry
+   committed-rev="2391"
+   name="web-link.url"
+   text-time="2008-12-04T18:17:19.532890Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="5be6af2410e04a20b8bb4b4ea5d4add7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:18.360790Z"/>
+<entry
+   name="acrobat"
+   kind="dir"/>
+<entry
+   committed-rev="2391"
+   name="ZKM.jar"
+   text-time="2008-12-04T18:17:19.673542Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="8acd1b56c979e3da90c43b6511ec1532"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:18.985910Z"/>
+<entry
+   committed-rev="2427"
+   name="jcat-build.xml"
+   text-time="2008-12-04T18:17:19.704798Z"
+   committed-date="2008-05-15T20:25:13.514901Z"
+   checksum="2cfb977e46722c845de36794431967f2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.017166Z"/>
+<entry
+   name="examples"
+   kind="dir"/>
+</wc-entries>

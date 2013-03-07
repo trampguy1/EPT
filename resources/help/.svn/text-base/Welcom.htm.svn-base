@@ -1,0 +1,89 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Welcome</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="default.css"><style title="hcp" type="text/css">
+<!--
+p.hcp1 { text-align:center; }
+-->
+</style>
+</head>
+<body>
+<p>&nbsp;</p>
+
+<p Align="center" class="hcp1">&nbsp;</p>
+
+<p Align="center" class="hcp1">&nbsp;</p>
+
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0"
+		valign=top>
+<td border="0" border="0"
+	
+
+	width=100%>
+<p>&nbsp;</p>
+<p style="color: #ffffff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h1 id="h12" 
+ Align="center">Welcome to JCAT Help</h1>
+
+
+
+
+ <h1 id="h13" 
+ Align="center"><img src="banner.jpg"
+						x-maintain-ratio=TRUE
+						
+
+						width=555
+						height=243
+						border="0"></h1>
+
+
+
+
+ <p Align="center" class="hcp1">&nbsp;</p>
+<p id="p2" style="text-align: center;
+			x-on-pageload: flyin(direction=left);
+			/*begin!kadov{{*/ position: relative; /*}}end!kadov*/ " Align="center">Contact Information:</p>
+
+
+
+
+ <p id="p3" style="text-align: center;
+			x-on-pageload: flyin();
+			/*begin!kadov{{*/ position: relative; /*}}end!kadov*/ " Align="center">Dr. John Lemmer</p>
+
+
+
+
+ <p id="p4" style="text-align: center;
+			x-on-pageload: flyin();
+			/*begin!kadov{{*/ position: relative; /*}}end!kadov*/ " Align="center">lemmerj@rl.af.mil</p>
+
+
+
+
+ <p Align="center" class="hcp1">&nbsp;</p>
+<p Align="center" class="hcp1">&nbsp;</p>
+<p Align="center" class="hcp1">&nbsp;</td></tr>
+</table>
+
+<p Align="center" class="hcp1">&nbsp;</p>
+
+</body>
+</html>

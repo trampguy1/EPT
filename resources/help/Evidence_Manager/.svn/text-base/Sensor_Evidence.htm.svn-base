@@ -1,0 +1,117 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Sensor Evidence</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">About Sensor Evidence</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p>Sensor Evidence simulates data coming from Radar or some other sensor. 
+ &nbsp;You can 
+ modify Sensor Evidence though the first tab in the Evidence dialog.</p>
+<p>&nbsp;</p>
+<p><img src="../image62.gif"
+		
+
+		width=560
+		height=340
+		border="0"></p>
+<p>&nbsp;</p>
+<p class="hcp2">This tab displays the Sensor Evidence table. 
+ &nbsp;The table 
+ lists any set Sensor Evidence. &nbsp;Sensor 
+ Evidence has 2 parameters, the False Alarm Rate (FAR) and the Missed Detection 
+ Rate (MDR).</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The FAR specifies the proportion of “target 
+ detected” responses in which no targets were actually present. &nbsp;The 
+ MDR specifies the proportion of “target not detected” responses in which 
+ the target was, in fact, present.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To add a piece of Sensor Evidence, enter 
+ in the timestep in which the report was made in the “Time” text field. 
+ &nbsp;You must 
+ also enter in the FAR and MDR in the appropriate text fields. &nbsp;Finally, 
+ you must specify whether the report was a “target detected” or “target 
+ not detected” by toggling the “Report Was True” checkbox. &nbsp;When 
+ you have set up all of the fields for the piece of Sensor Evidence, click 
+ the “Add Report” button to add it to the Sensor Evidence table.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To remove a piece of Evidence, click on 
+ the row in the table corresponding to the desired report, and click the 
+ “Delete Report” button. &nbsp;To 
+ remove all Sensor Evidence data, click the “Delete All” button.</p>
+<p>&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

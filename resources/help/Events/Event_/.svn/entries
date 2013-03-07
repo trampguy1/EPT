@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Events/Event_"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Event_Color_Options.htm"
+   text-time="2008-12-04T18:17:30.753794Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="71fa285e0f433e411e17e0a3179e4d36"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.722538Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Color_Options_popup_topic.htm"
+   text-time="2008-12-04T18:17:30.769422Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="71fa285e0f433e411e17e0a3179e4d36"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.722538Z"/>
+</wc-entries>

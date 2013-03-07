@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2339"
+   name=""
+   committed-date="2008-03-24T16:43:45.428186Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/images/collaboration"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   prop-time="2008-12-04T18:17:25.330878Z"
+   revision="2532"/>
+<entry
+   committed-rev="2339"
+   name="starts_sm.png"
+   text-time="2008-12-04T18:17:25.346506Z"
+   committed-date="2008-03-24T16:43:45.428186Z"
+   checksum="eb35bda2798f0ef0f1883dafb6f485c1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.330878Z"/>
+<entry
+   committed-rev="1"
+   name="starts.png"
+   text-time="2007-09-25T15:36:15.610814Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="1781b1517d34a1b2916dc34576a5104c"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.485817Z"/>
+<entry
+   committed-rev="1"
+   name="startserver.png"
+   text-time="2007-09-25T15:36:15.626438Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="4f211204280410ded27b2442e9920070"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.501442Z"/>
+<entry
+   committed-rev="1"
+   name="cancel.png"
+   text-time="2007-09-25T15:36:15.642063Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="f5e63586e18a9038d618dd5fe3c84b3e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.532691Z"/>
+<entry
+   committed-rev="1"
+   name="connect.png"
+   text-time="2007-09-25T15:36:15.657688Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="bd9ec7ef0a0a4915cbd234ec867c9178"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.563940Z"/>
+<entry
+   committed-rev="1"
+   name="disconnect.png"
+   text-time="2007-09-25T15:36:15.673312Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="8dceb72cff22729a2a6b2f900988343e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:15.595189Z"/>
+</wc-entries>

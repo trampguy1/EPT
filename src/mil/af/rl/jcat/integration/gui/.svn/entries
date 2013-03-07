@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1261"
+   name=""
+   committed-date="2006-06-08T16:55:51.733469Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration/gui"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="905"
+   name="SourceDialog.java"
+   text-time="2007-09-25T15:36:00.611198Z"
+   committed-date="2006-01-23T21:26:35.953388Z"
+   checksum="95780f27288f8181030f2cbe6c6c140a"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.454952Z"/>
+<entry
+   committed-rev="890"
+   name="AgentMonitor.java"
+   text-time="2007-09-25T15:36:00.626822Z"
+   committed-date="2006-01-06T21:02:57.252438Z"
+   checksum="c77761aebf4ccfb30190ee086a8c3b80"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.470576Z"/>
+<entry
+   committed-rev="1261"
+   name="AgentTableModel.java"
+   text-time="2007-09-25T15:36:00.658072Z"
+   committed-date="2006-06-08T16:55:51.733469Z"
+   checksum="72e147d6471fbe6cacf75d2628ffc7f3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.533075Z"/>
+<entry
+   committed-rev="1261"
+   name="SourceTable.java"
+   text-time="2007-09-25T15:36:00.689321Z"
+   committed-date="2006-06-08T16:55:51.733469Z"
+   checksum="ce6bc002e6c51438b6aa5bdf5518b149"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.548699Z"/>
+<entry
+   committed-rev="1261"
+   name="SourceTableModel.java"
+   text-time="2007-09-25T15:36:00.704945Z"
+   committed-date="2006-06-08T16:55:51.733469Z"
+   checksum="564c3255235ca952802294da8898f90c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.564324Z"/>
+</wc-entries>

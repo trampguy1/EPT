@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="Tony_coa.jcat" guid="7660fc40-c3a8-414c-82e4-cb3de959bd50" version="1.1.0" default_probability_set="standard">
+  <documentation>
+    <description>A behavior model of Tony Soprano from hit HBO television series The Sopranos modeling the likelyhood of Tony commiting murder over the course of a week.</description>
+  </documentation>
+  <Graph>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ff8:127.0.1.1" type="event">
+      <itemguid>65361472-5bea-4325-b981-c3ccff5f3a34</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>600.0</xpos>
+      <ypos>80.0</ypos>
+      <text>Missing Person Report
+
+S's wife</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ff6:127.0.1.1" type="mechanism">
+      <itemguid>002a2746-46e6-446e-a1e2-91e13f8d0acd</itemguid>
+      <startkey>17bf4d56:1163f9c1a3b:-7ffa:127.0.1.1</startkey>
+      <endkey>17bf4d56:1163f9c1a3b:-7ff8:127.0.1.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>440 120 520 120 600 120 </controlPoints>
+      <text>Not Seen</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ff9:127.0.1.1" type="event">
+      <itemguid>6ebf43b1-864f-4282-9c1b-5e0ad2bad483</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>520.0</xpos>
+      <ypos>280.0</ypos>
+      <text>Boat Ride Together
+
+T &amp; S</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ff5:127.0.1.1" type="mechanism">
+      <itemguid>5f8a8c7b-8617-4c96-9690-633a042a1096</itemguid>
+      <startkey>17bf4d56:1163f9c1a3b:-7ffb:127.0.1.1</startkey>
+      <endkey>17bf4d56:1163f9c1a3b:-7ffa:127.0.1.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>218 277 290 218 362 158 </controlPoints>
+      <text>Motivation</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ffb:127.0.1.1" type="event">
+      <itemguid>8f694949-5d3d-4201-9690-4259096033c0</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>100</height>
+      <width>80</width>
+      <xpos>140.0</xpos>
+      <ypos>260.0</ypos>
+      <text>Caught Wearing Wire
+
+Salvatore Bonpensiero</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ff7:127.0.1.1" type="mechanism">
+      <itemguid>d246f5e2-2879-4db9-a4dd-4b4830ab7793</itemguid>
+      <startkey>17bf4d56:1163f9c1a3b:-7ff9:127.0.1.1</startkey>
+      <endkey>17bf4d56:1163f9c1a3b:-7ffa:127.0.1.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>522 282 480 220 438 158 </controlPoints>
+      <text>Opportunity</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="17bf4d56:1163f9c1a3b:-7ffa:127.0.1.1" type="event">
+      <itemguid>3babc4e0-2445-42ed-8609-cd111a82e2ff</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>80</width>
+      <xpos>360.0</xpos>
+      <ypos>80.0</ypos>
+      <text>Committ Murder
+
+Tony Soprano</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Caught Wearing Wire" label="Salvatore Bonpensiero" guid="8f694949-5d3d-4201-9690-4259096033c0" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="5f8a8c7b-8617-4c96-9690-633a042a1096"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>62d19848-62f2-4392-9dba-171d92378a5a</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Motivation" label="" guid="5f8a8c7b-8617-4c96-9690-633a042a1096" type="mechanism">
+      <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+      <ToEvent>3babc4e0-2445-42ed-8609-cd111a82e2ff </ToEvent>
+      <FromEvent>8f694949-5d3d-4201-9690-4259096033c0</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>4</Persistence>
+      <Continuation>0.8f</Continuation>
+    </PlanItem>
+    <PlanItem name="Missing Person Report" label="S&apos;s wife" guid="65361472-5bea-4325-b981-c3ccff5f3a34" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="002a2746-46e6-446e-a1e2-91e13f8d0acd"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>6e85c808-00e0-4b14-9c55-52804c78051e</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Boat Ride Together" label="T &amp; S" guid="6ebf43b1-864f-4282-9c1b-5e0ad2bad483" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="d246f5e2-2879-4db9-a4dd-4b4830ab7793"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>b2adb5fe-3619-40f1-94e9-36d22bc7730d</PGuid>
+      <SchemeAttribute>Resource Pool</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Opportunity" label="" guid="d246f5e2-2879-4db9-a4dd-4b4830ab7793" type="mechanism">
+      <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+      <ToEvent>3babc4e0-2445-42ed-8609-cd111a82e2ff </ToEvent>
+      <FromEvent>6ebf43b1-864f-4282-9c1b-5e0ad2bad483</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Not Seen" label="" guid="002a2746-46e6-446e-a1e2-91e13f8d0acd" type="mechanism">
+      <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+      <ToEvent>65361472-5bea-4325-b981-c3ccff5f3a34 </ToEvent>
+      <FromEvent>3babc4e0-2445-42ed-8609-cd111a82e2ff</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>5</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Committ Murder" label="Tony Soprano" guid="3babc4e0-2445-42ed-8609-cd111a82e2ff" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="5f8a8c7b-8617-4c96-9690-633a042a1096"/>
+        <Mech guid="d246f5e2-2879-4db9-a4dd-4b4830ab7793"/>
+      </Causes>
+      <Effects>
+        <Mech guid="002a2746-46e6-446e-a1e2-91e13f8d0acd"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>6f5cebcb-309e-4b47-bb78-95107be18dad</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+  </Logic>
+  <Policies/>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="62d19848-62f2-4392-9dba-171d92378a5a" name="Undefined" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.0">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="6e85c808-00e0-4b14-9c55-52804c78051e" name="Missing Person Report" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.0">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.9" group-name="">
+                  <SignalSet>
+                    <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="b2adb5fe-3619-40f1-94e9-36d22bc7730d" name="Undefined" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.0">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="6f5cebcb-309e-4b47-bb78-95107be18dad" name="Committ Murder" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.0">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+              <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.19999999" group-name="">
+                  <SignalSet>
+                    <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.95" group-name="">
+                  <SignalSet>
+                    <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+                    <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.01" group-name="">
+                  <SignalSet>
+                    <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+            <ProtocolSet protocol="6">
+              <SignalSet/>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+      <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+      <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name="BaselineAttack">
+    <Attrib color="-16744193">Default Node Color</Attrib>
+    <Attrib color="-16777216">Default Node Text Color</Attrib>
+    <Attrib color="-65332">Surveillance</Attrib>
+    <Attrib color="-16711936">Friendly Resources</Attrib>
+    <Attrib color="-256">Resource Pool</Attrib>
+  </ColorScheme>
+  <SamplingOptions/>
+  <DefaultProbabilities set="standard"/>
+  <PlanCOAs>
+    <COA name="Test 1" clearUntracked="true" trackSched="true" trackRes="false" trackElicit="true">
+      <PlanItem guid="d246f5e2-2879-4db9-a4dd-4b4830ab7793" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="002a2746-46e6-446e-a1e2-91e13f8d0acd" delay="5" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="5f8a8c7b-8617-4c96-9690-633a042a1096" delay="0" persistance="4" continuation="0.8">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="65361472-5bea-4325-b981-c3ccff5f3a34" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet>
+            <ElicitedProbability causalprobability="0.9" group-name="">
+              <SignalSet>
+                <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+              </SignalSet>
+            </ElicitedProbability>
+          </ElicitationSet>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="6ebf43b1-864f-4282-9c1b-5e0ad2bad483" delay="0" persistance="1" continuation="0.0">
+        <schedule>
+          <probability time="5">0.9</probability>
+        </schedule>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet/>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="8f694949-5d3d-4201-9690-4259096033c0" delay="0" persistance="1" continuation="0.0">
+        <schedule>
+          <probability time="2">0.9</probability>
+        </schedule>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet/>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="3babc4e0-2445-42ed-8609-cd111a82e2ff" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet>
+            <ElicitedProbability causalprobability="0.19999999" group-name="">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+              </SignalSet>
+            </ElicitedProbability>
+            <ElicitedProbability causalprobability="0.95" group-name="">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+            </ElicitedProbability>
+            <ElicitedProbability causalprobability="0.01" group-name="">
+              <SignalSet>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+            </ElicitedProbability>
+          </ElicitationSet>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+    </COA>
+    <COA name="Test 2" clearUntracked="true" trackSched="true" trackRes="false" trackElicit="true">
+      <PlanItem guid="d246f5e2-2879-4db9-a4dd-4b4830ab7793" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="002a2746-46e6-446e-a1e2-91e13f8d0acd" delay="5" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="5f8a8c7b-8617-4c96-9690-633a042a1096" delay="0" persistance="4" continuation="0.8">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+      </PlanItem>
+      <PlanItem guid="65361472-5bea-4325-b981-c3ccff5f3a34" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet>
+            <ElicitedProbability causalprobability="0.9" group-name="">
+              <SignalSet>
+                <Signal guid="29df4ab3-9591-4f23-8e6b-845c9a3ff400" name="Not Seen"/>
+              </SignalSet>
+            </ElicitedProbability>
+          </ElicitationSet>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="6ebf43b1-864f-4282-9c1b-5e0ad2bad483" delay="0" persistance="1" continuation="0.0">
+        <schedule>
+          <probability time="5">0.9</probability>
+        </schedule>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet/>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="8f694949-5d3d-4201-9690-4259096033c0" delay="0" persistance="1" continuation="0.0">
+        <schedule>
+          <probability time="2">0.9</probability>
+        </schedule>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet/>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+      <PlanItem guid="3babc4e0-2445-42ed-8609-cd111a82e2ff" delay="0" persistance="1" continuation="0.0">
+        <schedule/>
+        <Resources/>
+        <ThreatResources/>
+        <CauseElicitations>
+          <ElicitationSet>
+            <ElicitedProbability causalprobability="0.3" group-name="">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+              </SignalSet>
+            </ElicitedProbability>
+            <ElicitedProbability causalprobability="0.95" group-name="grp 1">
+              <SignalSet>
+                <Signal guid="72395763-7425-4467-9352-03beb68f5587" name="Motivation"/>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+            </ElicitedProbability>
+            <ElicitedProbability causalprobability="0.02" group-name="">
+              <SignalSet>
+                <Signal guid="99664bcf-f713-4a74-862e-b2315b250789" name="Opportunity"/>
+              </SignalSet>
+            </ElicitedProbability>
+          </ElicitationSet>
+        </CauseElicitations>
+        <InhibitElicitations>
+          <ElicitationSet/>
+        </InhibitElicitations>
+        <EffectElicitations>
+          <ElicitationSet/>
+        </EffectElicitations>
+      </PlanItem>
+    </COA>
+  </PlanCOAs>
+</Plan>

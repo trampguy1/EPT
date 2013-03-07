@@ -1,0 +1,112 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Sampler</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Starting the Sampler</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">When you have finished constructing your 
+ Model, the Sampler is needed to determine the probability of the different 
+ Events. &nbsp;The 
+ Sampler creates many instances of the world modeled by the Model. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Events are randomly set to either have 
+ occurred or not occurred based on their Scheduling, Evidence, and any 
+ signals they receive or send. &nbsp;A 
+ running tally is kept of the proportion of cases in which each Event occurs. 
+ &nbsp;When a 
+ sufficiently large number of samples is generated, the probability of 
+ an Event can be given as the proportion of samples in which the Event 
+ had occurred.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To start the Sampler, simply click on the 
+ Start Sampler button <img src="../image64.gif" 
+ width="21" height="23" border="0"> &nbsp;&nbsp;in 
+ the Model Toolbar. &nbsp;JCAT 
+ will then begin generating samples, and you can monitor the number of 
+ samples created by looking at the Status Bar at the bottom of the Application 
+ Window.</p>
+<p class="hcp2">&nbsp;</p>
+<p style="text-align: justify;
+			font-weight: bold;
+			x-text-underline: normal;
+			/*begin!kadov{{*/ text-decoration: underline; /*}}end!kadov*/ "><a 
+ href="Sampler_Dialog.htm"
+	id=a1>See more on the Sampler Dialog</a></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p class="hcp2">&nbsp;</p>
+
+</body>
+</html>

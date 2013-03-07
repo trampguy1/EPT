@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1967"
+   name=""
+   committed-date="2007-02-05T17:54:07.528012Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration/parser"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1928"
+   name="TimelineParser.java"
+   text-time="2007-09-25T15:36:01.079936Z"
+   committed-date="2007-01-29T19:01:34.459198Z"
+   checksum="4d2b9287054b69d2266dd9dcb4fa67bb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.845567Z"/>
+<entry
+   committed-rev="1967"
+   name="TimelinePublisher.java"
+   text-time="2007-09-25T15:36:01.111185Z"
+   committed-date="2007-02-05T17:54:07.528012Z"
+   checksum="c5dc108a6abb9e8056edcf3b7f24d707"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.861191Z"/>
+<entry
+   committed-rev="1928"
+   name="CapesInputParser.java"
+   text-time="2007-09-25T15:36:01.126810Z"
+   committed-date="2007-01-29T19:01:34.459198Z"
+   checksum="717fc9c280ebe2438ef2e8462c097476"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.892441Z"/>
+<entry
+   committed-rev="1561"
+   name="PlanPublisher.java"
+   text-time="2007-09-25T15:36:01.158059Z"
+   committed-date="2006-09-13T18:17:29.410644Z"
+   checksum="aa03ab61816bb5dabf8e0d86c61e56ab"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.908065Z"/>
+<entry
+   committed-rev="1928"
+   name="ReflexIndexParser.java"
+   text-time="2007-09-25T15:36:01.189308Z"
+   committed-date="2007-01-29T19:01:34.459198Z"
+   checksum="266c8c490413aa0967c5b6ec86fb7b66"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.939314Z"/>
+<entry
+   committed-rev="1928"
+   name="CapesTaskParser.java"
+   text-time="2007-09-25T15:36:01.204933Z"
+   committed-date="2007-01-29T19:01:34.459198Z"
+   checksum="664d63297b628c194cf95397ed490a9c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.954939Z"/>
+<entry
+   committed-rev="1804"
+   name="InputParser.java"
+   text-time="2007-09-25T15:36:01.236182Z"
+   committed-date="2006-12-27T19:47:43.078483Z"
+   checksum="85f11f45ea83ddcbaae6b5dab2c1d945"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.986188Z"/>
+<entry
+   committed-rev="1262"
+   name="OutputParser.java"
+   text-time="2007-09-25T15:36:01.267431Z"
+   committed-date="2006-06-08T16:56:03.270403Z"
+   checksum="9808b47afbb8d24fcfbe539a6ab31ecf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.001813Z"/>
+<entry
+   committed-rev="1928"
+   name="ATACSIMParser.java"
+   text-time="2007-09-25T15:36:01.298680Z"
+   committed-date="2007-01-29T19:01:34.459198Z"
+   checksum="7f7d6cbb537726a8df8a88d2c2f39d64"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.033062Z"/>
+<entry
+   committed-rev="1262"
+   name="Agent.java"
+   text-time="2007-09-25T15:36:01.329929Z"
+   committed-date="2006-06-08T16:56:03.270403Z"
+   checksum="ce7d5b228a6a5cf0ea92e81815657844"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.048687Z"/>
+</wc-entries>

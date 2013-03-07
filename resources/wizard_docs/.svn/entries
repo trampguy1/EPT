@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2460"
+   name=""
+   committed-date="2008-05-19T19:24:29.655290Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/wizard_docs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1243"
+   name="event.html"
+   text-time="2008-12-04T18:17:39.239798Z"
+   committed-date="2006-06-08T15:17:09.140036Z"
+   checksum="8c28845e4e4921b22157cafc1f1627f6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:39.005378Z"/>
+<entry
+   committed-rev="1312"
+   name="mechanism.html"
+   text-time="2008-12-04T18:17:39.255426Z"
+   committed-date="2006-06-22T14:54:23.712638Z"
+   checksum="d0a7ac5443da6531c7c8cd1d436978e0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:39.005378Z"/>
+<entry
+   committed-rev="1243"
+   name="timing.html"
+   text-time="2008-12-04T18:17:39.271054Z"
+   committed-date="2006-06-08T15:17:09.140036Z"
+   checksum="6d99b00a48c677240c36702a2ac4a481"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:39.208542Z"/>
+</wc-entries>

@@ -1,0 +1,33 @@
+<config>
+	<connection name ='coweb' driver='com.mysql.jdbc.Driver' url ='jdbc:mysql://66.92.161.216/ibc' user='ibc' pswd ='ibcIXiiIII'/>
+	<applications>
+		<app name = 'BIRM'/>
+		<app name = 'CAPES'/>
+		<app name = 'ATACSIM'/>
+		<app name = 'ReflexInsurgencyModel2'/>
+	</applications>
+	<sql>
+		<query name='Get Insurgency Endaround' text = 'SELECT value, time FROM ibc.element WHERE application = ? AND variable = ?' parser='mil.af.rl.jcat.integration.parser.CapesTaskParser'>
+			<values/>
+		</query>
+		<query name='Get Reflex Infrastructure Index' text = 'SELECT value, time FROM ibc.element WHERE application = ? AND variable = ?' parser='mil.af.rl.jcat.integration.parser.ReflexIndexParser'>
+			<values/>
+		</query>
+		<query name='Get Insurgency direct' text = 'SELECT value, time FROM ibc.element WHERE application = ? AND variable = ?' parser='mil.af.rl.jcat.integration.parser.CapesTaskParser'>
+			<values/>
+		</query>
+		<query name='ATACSIM insurgent attacks' text='SELECT * FROM ibc.element WHERE application=? AND variable=? AND instance=?' parser='mil.af.rl.jcat.integration.parser.ATACSIMParser'>
+			<values/>
+		</query>
+		<query name='ATACSIM agent count' text='SELECT value, time FROM ibc.element WHERE application=? AND varibale=?' parser='mil.af.rl.jcat.integration.parser.ATACSIMCountParser'>
+			<values/>
+		</query>
+		<query name='Publish Result Timeline' text='UPDATE ibc.element SET time=UNIX_TIMESTAMP(),value = ? WHERE application="BIRM" AND variable = ? AND instance = ?' parser='mil.af.rl.jcat.integration.parser.TimelinePublisher'>
+			<values/>
+		</query>
+		<query name='Publish BIRM' text='UPDATE ibc.element SET time=UNIX_TIMESTAMP(),value = ? WHERE application="BIRM" AND variable = "Reaction Model"' parser='mil.af.rl.jcat.integration.parser.PlanPublisher'>
+			<values/>
+		</query>
+
+	</sql>
+</config>

@@ -1,0 +1,36 @@
+NAME=Application Menu
+A menu located along the top of the of the JCAT window which is used to achieve functionality within JCAT.
+NAME=Application Window
+The Application Window is where a user can find a variety of windows, toolbars, and menus necessary to build a plan.
+NAME=Bayesian Networks
+Bayesian networks are based on a  mathematical probability theorythat allows us to model uncertainty about the world and outcomes of interest by combiningcommon-sense knowledge and observational evidence.
+NAME=Delay
+Delay determines how long after a signal or Scheduling is received by the Event or Mechanism that the Event or Mechanism will react
+NAME=Event
+Something that occurs in the real world that is also of importance to the situational model simulated by JCAT.
+NAME=Evidence Manager
+This feature is used to introduce information from a detection or deduction into the model.
+NAME=File Toolbar
+The File Toolbar provides the user with functions needed to create a new plan, open a plan, close a plan, save a plan, paste documents, and display help documentation.
+NAME=Mechanism
+Mechanisms are explanations of the causal relationship between two Events.
+NAME=Navigation Tree
+This dialog is an additional method for accessing the properties of Events and Mechanisms.
+NAME=Plan Context Menu
+A menu available to the modeler to perform various operations throughout the modeling process.
+NAME=Plan Toolbar
+This toolbar provides users with the tools necessary to build a model.
+NAME=Plotting
+Plotting is used In JCAT to observe how an Event behaves over time.  In this case time can be represented by minutes, hours, days and so forth.
+NAME=Probability Profiles
+This feature is used to display the graphs for plotted Events and Mechanisms.
+NAME=Profile Legend
+The Profile Legend displays the Events and Mechanisms that are plotted on the ProbabilityProfiles graph.
+NAME=Property Viewer
+The Property Viewer displays the values for an Event’s or Mechanism’s various fields.
+NAME=Resources
+This function is used to maintain counts of resource usage.
+NAME=Sampler
+The Sampler is used to determine the probability of the different Events based on their Scheduling, Evidence, and any signals they receive or send.
+NAME=Timing Dialog
+This dialog is used to modify the  temporal progression of a plan.

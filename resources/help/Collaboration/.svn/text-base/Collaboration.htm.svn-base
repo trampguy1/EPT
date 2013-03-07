@@ -1,0 +1,103 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Collaboration</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Collaboration</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The feature of collaboration has been incorporated 
+ into JCAT to provide the option of composing Models by multiple users. 
+ &nbsp;When modifications 
+ are performed in a Model by one of the users, the results are updated instantly. 
+ &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Using collaboration is handy because it 
+ allows users from various locations to collaborate and create one common 
+ Model.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">When initializing a collaboration session 
+ you are able to select from a list of options within the<span >  <B><OBJECT classid="java:com.sun.java.help.impl.JHSecondaryViewer"  id="2556" ><param name="content" value="Collaboration_Host_Options_popup_topic.htm"><param name="viewerActivator" value="javax.help.LinkLabel"><param name="viewerSize" value="400,450"><param name="viewerStyle" value="javax.help.Popup"><param name="text" value="Collaboration Host Options dialog box"></OBJECT> 
+ </B></span>to authenticate a session. &nbsp;With 
+ the first form of authentication, a user may set whether or not the session 
+ will be password protected. &nbsp;The 
+ second option provides a user list that records which users are granted 
+ permission for the current session. &nbsp;The 
+ third form of authentication lists the IP addresses of individuals who 
+ will be granted access to the current session. &nbsp;<span 
+ >Finally, a user  may select which port will be used to host the collaboration session. 
+ &nbsp;</span></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

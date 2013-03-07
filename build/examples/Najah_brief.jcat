@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="Najah_Redone.jcat" guid="de1f665b-c84d-4879-8f8b-9a81ff9f0541" version="1.1.0">
+  <documentation>
+    <description></description>
+  </documentation>
+  <Graph>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff8:128.132.53.158" type="event">
+      <itemguid>e06f6e69-6447-4f28-ad76-c0887d514beb</itemguid>
+      <rcolor>200</rcolor>
+      <gcolor>200</gcolor>
+      <bcolor>200</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>500.0</xpos>
+      <ypos>260.0</ypos>
+      <text>Police power vacuum:TA Military Motivation</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fec:128.132.53.158" type="event">
+      <itemguid>8b062d13-2597-4cfc-a271-3a910436c063</itemguid>
+      <rcolor>171</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>215</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>320.0</xpos>
+      <ypos>440.0</ypos>
+      <text>Influx of Money:COA</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ffb:128.132.53.158" type="event">
+      <itemguid>6f34cebd-6e58-485b-b0a2-19b73e8829f7</itemguid>
+      <rcolor>200</rcolor>
+      <gcolor>200</gcolor>
+      <bcolor>200</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>140.0</xpos>
+      <ypos>260.0</ypos>
+      <text>Perceived Political State:TA Political Motivation</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fda:128.132.53.158" type="mechanism">
+      <itemguid>38196025-c8c3-4127-ab7d-b2779e8d59e5</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7fec:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>400 440 400 380 400 320</controlPoints>
+      <text>Improve Economy</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fee:128.132.53.158" type="mechanism">
+      <itemguid>7f88fc3b-1230-4855-9390-358e5b28031b</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ffa:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff6:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>684 262 470 210 256 158</controlPoints>
+      <text>Social &amp; Cult Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff4:128.132.53.158" type="mechanism">
+      <itemguid>352fe67b-dd8e-40e9-ab05-53e2a1ecd290</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff7:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>877 158 760 210 643 262</controlPoints>
+      <text>Effect of Occupation</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7feb:128.132.53.158" type="event">
+      <itemguid>21e4147e-68d6-4d42-8f8c-11496a730b0c</itemguid>
+      <rcolor>171</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>215</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>500.0</xpos>
+      <ypos>440.0</ypos>
+      <text>Increase Coalition Patrols:COA</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fdb:128.132.53.158" type="mechanism">
+      <itemguid>91c85b64-16a2-4253-a64e-8610943f3dfe</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7fec:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>436 441 494 380 553 319</controlPoints>
+      <text>Money goes to military groups</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe1:128.132.53.158" type="mechanism">
+      <itemguid>6ced94e0-b90b-467a-ad9d-4b5eca7bda16</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ffa:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe9:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>744 261 670 180 595 99</controlPoints>
+      <text>Social &amp; Cult Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fef:128.132.53.158" type="mechanism">
+      <itemguid>e1f545d9-0a9e-4e2d-8c68-47011faec7b6</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff6:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>504 262 380 210 256 158</controlPoints>
+      <text>Military Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe4:128.132.53.158" type="mechanism">
+      <itemguid>e33414e7-6e25-4c05-8571-978b94f47d56</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe8:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>600 261 656 180 713 99</controlPoints>
+      <text>Military Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fdf:128.132.53.158" type="mechanism">
+      <itemguid>595b2aae-58bb-4a57-b6a9-43c30092c6e9</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe8:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>442 262 563 180 684 98</controlPoints>
+      <text>Economic Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe2:128.132.53.158" type="mechanism">
+      <itemguid>d9820062-6be9-475b-b2a6-0047b6894f55</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ffa:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fea:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>722 262 589 180 456 98</controlPoints>
+      <text>Social &amp; Cult Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff9:128.132.53.158" type="event">
+      <itemguid>1d81a72b-9a1c-4938-ba03-155d1f34602e</itemguid>
+      <rcolor>200</rcolor>
+      <gcolor>200</gcolor>
+      <bcolor>200</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>320.0</xpos>
+      <ypos>260.0</ypos>
+      <text>Poor Economic Condition:TA Economic Motivation</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fde:128.132.53.158" type="mechanism">
+      <itemguid>27fdd0ca-44bd-434b-9b75-960f36ae376f</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ffb:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe8:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>296 262 480 180 664 98</controlPoints>
+      <text>Political Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff6:128.132.53.158" type="event">
+      <itemguid>0734b6c1-1bf3-4483-9b16-044e00e08d6c</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>0</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>100.0</xpos>
+      <ypos>100.0</ypos>
+      <text>Interethnic Violence:Part-Time NMB</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe8:128.132.53.158" type="event">
+      <itemguid>000a4594-054c-41e7-837e-91a0abb8269e</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>660.0</xpos>
+      <ypos>20.0</ypos>
+      <text>Kidnapping &amp; Assassination:High Level Leaders</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff0:128.132.53.158" type="mechanism">
+      <itemguid>e9a79fe8-35c7-4038-b609-6daa55a6ab82</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff6:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>361 262 290 210 219 158</controlPoints>
+      <text>Economic Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fdc:128.132.53.158" type="mechanism">
+      <itemguid>e642fb59-5aa6-4577-adb2-85dca2000ef9</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7fed:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ffa:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>296 442 490 380 684 318</controlPoints>
+      <text>Religious violence not justified</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff5:128.132.53.158" type="mechanism">
+      <itemguid>b9cfe70a-af6d-46c1-9cbb-d216707aead2</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff7:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ffa:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>909 159 855 210 801 261</controlPoints>
+      <text>Effect of Occupation</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ffa:128.132.53.158" type="event">
+      <itemguid>19a29f55-38f3-4cf4-861b-ed941d77bfec</itemguid>
+      <rcolor>200</rcolor>
+      <gcolor>200</gcolor>
+      <bcolor>200</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>180</width>
+      <xpos>680.0</xpos>
+      <ypos>260.0</ypos>
+      <text>Social and Cultural Predjudices:TA Social Motivation</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe7:128.132.53.158" type="mechanism">
+      <itemguid>f83cf069-5b9d-4a57-9d5a-7db29a8c4f1e</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fea:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>398 261 391 180 383 99</controlPoints>
+      <text>Economic Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fd8:128.132.53.158" type="mechanism">
+      <itemguid>c14f20c2-1666-4493-a8e7-2d6c5a57c2ca</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7feb:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ffb:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>504 442 389 380 274 318</controlPoints>
+      <text>Increase animosity towards authorities</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe6:128.132.53.158" type="mechanism">
+      <itemguid>ed02c766-0cce-4e37-9394-1645b7532b0f</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe9:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>578 261 571 180 563 99</controlPoints>
+      <text>Military Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe3:128.132.53.158" type="mechanism">
+      <itemguid>45c0998c-6e32-4259-b7bf-558df7fb73fd</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fe9:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>420 261 476 180 533 99</controlPoints>
+      <text>Economic Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff1:128.132.53.158" type="mechanism">
+      <itemguid>8c84cc9e-9b39-43f2-95ed-916631cd8ee6</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ffb:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff6:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>213 261 200 210 187 159</controlPoints>
+      <text>Political Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fea:128.132.53.158" type="event">
+      <itemguid>3236c273-2b1c-4da9-8fbc-8717b47fa1a5</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>300.0</xpos>
+      <ypos>20.0</ypos>
+      <text>Attacks on Individuals:Sunni Men</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fd9:128.132.53.158" type="mechanism">
+      <itemguid>b0af9736-9915-45de-a7c4-eb66d8f485fc</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7feb:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>580 440 580 380 580 320</controlPoints>
+      <text>Reduce opportunities</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe5:128.132.53.158" type="mechanism">
+      <itemguid>6e020375-9235-4db7-8905-2ebcda0bf0d3</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff8:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7fea:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>555 261 485 180 414 99</controlPoints>
+      <text>Military Motive</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff3:128.132.53.158" type="mechanism">
+      <itemguid>ea89ed1c-f821-42f3-9472-3ea71ff81386</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff7:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ff9:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>864 158 670 210 476 262</controlPoints>
+      <text>Effect of Occupation</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff7:128.132.53.158" type="event">
+      <itemguid>b11111a3-df50-4197-92e7-68382e88d563</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>165</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>860.0</xpos>
+      <ypos>100.0</ypos>
+      <text>Initial Occupation:Coalition Forces</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fdd:128.132.53.158" type="mechanism">
+      <itemguid>d3f997c6-db22-40fd-9048-6cd1297c458f</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7fed:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ffb:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>220 440 220 380 220 320</controlPoints>
+      <text>Alienate Local Community</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7ff2:128.132.53.158" type="mechanism">
+      <itemguid>bd21edbc-d84f-41e8-8c3e-90cda7f633cd</itemguid>
+      <startkey>6dd38d3b:114d0cf344b:-7ff7:128.132.53.158</startkey>
+      <endkey>6dd38d3b:114d0cf344b:-7ffb:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>864 158 580 210 296 262</controlPoints>
+      <text>Effect of Occupation</text>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fe9:128.132.53.158" type="event">
+      <itemguid>96aa1a1c-24d2-47c4-826a-9618d00eceeb</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>480.0</xpos>
+      <ypos>20.0</ypos>
+      <text>Attacks on Infrastructure:Sunni Businesses</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="6dd38d3b:114d0cf344b:-7fed:128.132.53.158" type="event">
+      <itemguid>7439b01f-63cb-47be-8f7b-140a46f5e308</itemguid>
+      <rcolor>171</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>215</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>160</width>
+      <xpos>140.0</xpos>
+      <ypos>440.0</ypos>
+      <text>Convince Leader to Condemn Violence:PSYOP</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Police power vacuum" label="TA Military Motivation" guid="e06f6e69-6447-4f28-ad76-c0887d514beb" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="352fe67b-dd8e-40e9-ab05-53e2a1ecd290"/>
+        <Mech guid="91c85b64-16a2-4253-a64e-8610943f3dfe"/>
+      </Causes>
+      <Effects>
+        <Mech guid="e1f545d9-0a9e-4e2d-8c68-47011faec7b6"/>
+        <Mech guid="ed02c766-0cce-4e37-9394-1645b7532b0f"/>
+        <Mech guid="6e020375-9235-4db7-8905-2ebcda0bf0d3"/>
+        <Mech guid="e33414e7-6e25-4c05-8571-978b94f47d56"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="b0af9736-9915-45de-a7c4-eb66d8f485fc"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>d9620470-8505-4714-ac76-4c804828d42b</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Influx of Money" label="COA" guid="8b062d13-2597-4cfc-a271-3a910436c063" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="91c85b64-16a2-4253-a64e-8610943f3dfe"/>
+        <Mech guid="38196025-c8c3-4127-ab7d-b2779e8d59e5"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.75f</Continuation>
+      <PGuid>62cf9f0f-7e17-4860-979f-8fd334c2ed6c</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Perceived Political State" label="TA Political Motivation" guid="6f34cebd-6e58-485b-b0a2-19b73e8829f7" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="bd21edbc-d84f-41e8-8c3e-90cda7f633cd"/>
+        <Mech guid="d3f997c6-db22-40fd-9048-6cd1297c458f"/>
+        <Mech guid="c14f20c2-1666-4493-a8e7-2d6c5a57c2ca"/>
+      </Causes>
+      <Effects>
+        <Mech guid="8c84cc9e-9b39-43f2-95ed-916631cd8ee6"/>
+        <Mech guid="27fdd0ca-44bd-434b-9b75-960f36ae376f"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>60f62afe-2622-48c7-8a85-78a49959bf9e</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Improve Economy" label="signal" guid="38196025-c8c3-4127-ab7d-b2779e8d59e5" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+      <ToEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</ToEvent>
+      <FromEvent>8b062d13-2597-4cfc-a271-3a910436c063</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Social &amp; Cult Motive" label="signal" guid="7f88fc3b-1230-4855-9390-358e5b28031b" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+      <ToEvent>0734b6c1-1bf3-4483-9b16-044e00e08d6c</ToEvent>
+      <FromEvent>19a29f55-38f3-4cf4-861b-ed941d77bfec</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Effect of Occupation" label="signal" guid="352fe67b-dd8e-40e9-ab05-53e2a1ecd290" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+      <ToEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</ToEvent>
+      <FromEvent>b11111a3-df50-4197-92e7-68382e88d563</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Increase Coalition Patrols" label="COA" guid="21e4147e-68d6-4d42-8f8c-11496a730b0c" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="2">1.0</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="b0af9736-9915-45de-a7c4-eb66d8f485fc"/>
+        <Mech guid="c14f20c2-1666-4493-a8e7-2d6c5a57c2ca"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.8f</Continuation>
+      <PGuid>2545828a-32f7-4cb5-970a-06b079f1c030</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Money goes to military groups" label="signal" guid="91c85b64-16a2-4253-a64e-8610943f3dfe" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+      <ToEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</ToEvent>
+      <FromEvent>8b062d13-2597-4cfc-a271-3a910436c063</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Social &amp; Cult Motive" label="signal" guid="6ced94e0-b90b-467a-ad9d-4b5eca7bda16" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+      <ToEvent>96aa1a1c-24d2-47c4-826a-9618d00eceeb</ToEvent>
+      <FromEvent>19a29f55-38f3-4cf4-861b-ed941d77bfec</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Military Motive" label="signal" guid="e1f545d9-0a9e-4e2d-8c68-47011faec7b6" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+      <ToEvent>0734b6c1-1bf3-4483-9b16-044e00e08d6c</ToEvent>
+      <FromEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Military Motive" label="signal" guid="e33414e7-6e25-4c05-8571-978b94f47d56" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+      <ToEvent>000a4594-054c-41e7-837e-91a0abb8269e</ToEvent>
+      <FromEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Economic Motive" label="signal" guid="595b2aae-58bb-4a57-b6a9-43c30092c6e9" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+      <ToEvent>000a4594-054c-41e7-837e-91a0abb8269e</ToEvent>
+      <FromEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Social &amp; Cult Motive" label="signal" guid="d9820062-6be9-475b-b2a6-0047b6894f55" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+      <ToEvent>3236c273-2b1c-4da9-8fbc-8717b47fa1a5</ToEvent>
+      <FromEvent>19a29f55-38f3-4cf4-861b-ed941d77bfec</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Poor Economic Condition" label="TA Economic Motivation" guid="1d81a72b-9a1c-4938-ba03-155d1f34602e" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="ea89ed1c-f821-42f3-9472-3ea71ff81386"/>
+      </Causes>
+      <Effects>
+        <Mech guid="e9a79fe8-35c7-4038-b609-6daa55a6ab82"/>
+        <Mech guid="f83cf069-5b9d-4a57-9d5a-7db29a8c4f1e"/>
+        <Mech guid="45c0998c-6e32-4259-b7bf-558df7fb73fd"/>
+        <Mech guid="595b2aae-58bb-4a57-b6a9-43c30092c6e9"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="38196025-c8c3-4127-ab7d-b2779e8d59e5"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>52b4b5e6-bc06-411a-b74e-345c32596ac4</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Political Motive" label="signal" guid="27fdd0ca-44bd-434b-9b75-960f36ae376f" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+      <ToEvent>000a4594-054c-41e7-837e-91a0abb8269e</ToEvent>
+      <FromEvent>6f34cebd-6e58-485b-b0a2-19b73e8829f7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Interethnic Violence" label="Part-Time NMB" guid="0734b6c1-1bf3-4483-9b16-044e00e08d6c" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="8c84cc9e-9b39-43f2-95ed-916631cd8ee6"/>
+        <Mech guid="e9a79fe8-35c7-4038-b609-6daa55a6ab82"/>
+        <Mech guid="e1f545d9-0a9e-4e2d-8c68-47011faec7b6"/>
+        <Mech guid="7f88fc3b-1230-4855-9390-358e5b28031b"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>87b5aeaf-7cec-4377-a567-07638073430b</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Kidnapping &amp; Assassination" label="High Level Leaders" guid="000a4594-054c-41e7-837e-91a0abb8269e" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="e33414e7-6e25-4c05-8571-978b94f47d56"/>
+        <Mech guid="595b2aae-58bb-4a57-b6a9-43c30092c6e9"/>
+        <Mech guid="27fdd0ca-44bd-434b-9b75-960f36ae376f"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>94b890c9-6690-4a3c-9244-ba650fd287ed</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Economic Motive" label="signal" guid="e9a79fe8-35c7-4038-b609-6daa55a6ab82" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+      <ToEvent>0734b6c1-1bf3-4483-9b16-044e00e08d6c</ToEvent>
+      <FromEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Religious violence not justified" label="signal" guid="e642fb59-5aa6-4577-adb2-85dca2000ef9" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+      <ToEvent>19a29f55-38f3-4cf4-861b-ed941d77bfec</ToEvent>
+      <FromEvent>7439b01f-63cb-47be-8f7b-140a46f5e308</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Effect of Occupation" label="signal" guid="b9cfe70a-af6d-46c1-9cbb-d216707aead2" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+      <ToEvent>19a29f55-38f3-4cf4-861b-ed941d77bfec</ToEvent>
+      <FromEvent>b11111a3-df50-4197-92e7-68382e88d563</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Social and Cultural Predjudices" label="TA Social Motivation" guid="19a29f55-38f3-4cf4-861b-ed941d77bfec" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.1</DefLeak>
+      <Causes>
+        <Mech guid="b9cfe70a-af6d-46c1-9cbb-d216707aead2"/>
+      </Causes>
+      <Effects>
+        <Mech guid="7f88fc3b-1230-4855-9390-358e5b28031b"/>
+        <Mech guid="d9820062-6be9-475b-b2a6-0047b6894f55"/>
+        <Mech guid="6ced94e0-b90b-467a-ad9d-4b5eca7bda16"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="e642fb59-5aa6-4577-adb2-85dca2000ef9"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>509ca42f-e35f-44d7-8686-bdc04ae72547</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Economic Motive" label="signal" guid="f83cf069-5b9d-4a57-9d5a-7db29a8c4f1e" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+      <ToEvent>3236c273-2b1c-4da9-8fbc-8717b47fa1a5</ToEvent>
+      <FromEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Increase animosity towards authorities" label="signal" guid="c14f20c2-1666-4493-a8e7-2d6c5a57c2ca" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+      <ToEvent>6f34cebd-6e58-485b-b0a2-19b73e8829f7</ToEvent>
+      <FromEvent>21e4147e-68d6-4d42-8f8c-11496a730b0c</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Military Motive" label="signal" guid="ed02c766-0cce-4e37-9394-1645b7532b0f" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+      <ToEvent>96aa1a1c-24d2-47c4-826a-9618d00eceeb</ToEvent>
+      <FromEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Economic Motive" label="signal" guid="45c0998c-6e32-4259-b7bf-558df7fb73fd" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+      <ToEvent>96aa1a1c-24d2-47c4-826a-9618d00eceeb</ToEvent>
+      <FromEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Political Motive" label="signal" guid="8c84cc9e-9b39-43f2-95ed-916631cd8ee6" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+      <ToEvent>0734b6c1-1bf3-4483-9b16-044e00e08d6c</ToEvent>
+      <FromEvent>6f34cebd-6e58-485b-b0a2-19b73e8829f7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Attacks on Individuals" label="Sunni Men" guid="3236c273-2b1c-4da9-8fbc-8717b47fa1a5" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="f83cf069-5b9d-4a57-9d5a-7db29a8c4f1e"/>
+        <Mech guid="6e020375-9235-4db7-8905-2ebcda0bf0d3"/>
+        <Mech guid="d9820062-6be9-475b-b2a6-0047b6894f55"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>c3cf0406-1c33-400e-8513-8c99eea7f1c7</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Reduce opportunities" label="signal" guid="b0af9736-9915-45de-a7c4-eb66d8f485fc" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+      <ToEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</ToEvent>
+      <FromEvent>21e4147e-68d6-4d42-8f8c-11496a730b0c</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Military Motive" label="signal" guid="6e020375-9235-4db7-8905-2ebcda0bf0d3" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+      <ToEvent>3236c273-2b1c-4da9-8fbc-8717b47fa1a5</ToEvent>
+      <FromEvent>e06f6e69-6447-4f28-ad76-c0887d514beb</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Effect of Occupation" label="signal" guid="ea89ed1c-f821-42f3-9472-3ea71ff81386" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+      <ToEvent>1d81a72b-9a1c-4938-ba03-155d1f34602e</ToEvent>
+      <FromEvent>b11111a3-df50-4197-92e7-68382e88d563</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Initial Occupation" label="Coalition Forces" guid="b11111a3-df50-4197-92e7-68382e88d563" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">1.0</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="b9cfe70a-af6d-46c1-9cbb-d216707aead2"/>
+        <Mech guid="352fe67b-dd8e-40e9-ab05-53e2a1ecd290"/>
+        <Mech guid="ea89ed1c-f821-42f3-9472-3ea71ff81386"/>
+        <Mech guid="bd21edbc-d84f-41e8-8c3e-90cda7f633cd"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>fec0a0f1-e7a5-4e0f-a936-47e118126559</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Alienate Local Community" label="signal" guid="d3f997c6-db22-40fd-9048-6cd1297c458f" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+      <ToEvent>6f34cebd-6e58-485b-b0a2-19b73e8829f7</ToEvent>
+      <FromEvent>7439b01f-63cb-47be-8f7b-140a46f5e308</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Effect of Occupation" label="signal" guid="bd21edbc-d84f-41e8-8c3e-90cda7f633cd" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+      <ToEvent>6f34cebd-6e58-485b-b0a2-19b73e8829f7</ToEvent>
+      <FromEvent>b11111a3-df50-4197-92e7-68382e88d563</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Attacks on Infrastructure" label="Sunni Businesses" guid="96aa1a1c-24d2-47c4-826a-9618d00eceeb" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute>
+          <Probability time="3">1.0</Probability>
+          <Probability time="7">1.0</Probability>
+        </Absolute>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="ed02c766-0cce-4e37-9394-1645b7532b0f"/>
+        <Mech guid="45c0998c-6e32-4259-b7bf-558df7fb73fd"/>
+        <Mech guid="6ced94e0-b90b-467a-ad9d-4b5eca7bda16"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>e0520e58-e84a-4b0c-be93-5cb187310f9b</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Convince Leader to Condemn Violence" label="PSYOP" guid="7439b01f-63cb-47be-8f7b-140a46f5e308" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="2">1.0</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="d3f997c6-db22-40fd-9048-6cd1297c458f"/>
+        <Mech guid="e642fb59-5aa6-4577-adb2-85dca2000ef9"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>6</Persistence>
+      <Continuation>0.5f</Continuation>
+      <PGuid>d39f2aa5-ea7d-4262-85fd-7f02c6e7dedb</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+  </Logic>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="d9620470-8505-4714-ac76-4c804828d42b" name="Police power vacuum">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+              <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+                <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="62cf9f0f-7e17-4860-979f-8fd334c2ed6c" name="Influx of Money">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+              <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+                <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="60f62afe-2622-48c7-8a85-78a49959bf9e" name="Perceived Political State">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+              <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+              <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+                <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+                <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="2545828a-32f7-4cb5-970a-06b079f1c030" name="Increase Coalition Patrols">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+              <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+                <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="52b4b5e6-bc06-411a-b74e-345c32596ac4" name="Poor Economic Condition">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="87b5aeaf-7cec-4377-a567-07638073430b" name="Interethnic Violence">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+              <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+              <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+              <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.01" group-name="">
+                  <SignalSet>
+                    <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8" group-name="p3">
+                  <SignalSet>
+                    <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.01" group-name="">
+                  <SignalSet>
+                    <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.7" group-name="p1">
+                  <SignalSet>
+                    <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8" group-name="p2">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.01" group-name="">
+                  <SignalSet>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="94b890c9-6690-4a3c-9244-ba650fd287ed" name="Kidnapping &amp; Assassination">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+              <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+              <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8" group-name="gp1">
+                  <SignalSet>
+                    <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.2" group-name="">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.05" group-name="">
+                  <SignalSet>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="509ca42f-e35f-44d7-8686-bdc04ae72547" name="Social and Cultural Predjudices">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="c3cf0406-1c33-400e-8513-8c99eea7f1c7" name="Attacks on Individuals">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+              <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+              <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.2" group-name="">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="fec0a0f1-e7a5-4e0f-a936-47e118126559" name="Initial Occupation">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="e0520e58-e84a-4b0c-be93-5cb187310f9b" name="Attacks on Infrastructure">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+              <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+              <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.1" group-name="">
+                  <SignalSet>
+                    <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.7" group-name="grp2">
+                  <SignalSet>
+                    <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.3" group-name="">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8" group-name="grp1">
+                  <SignalSet>
+                    <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.3" group-name="">
+                  <SignalSet>
+                    <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="d39f2aa5-ea7d-4262-85fd-7f02c6e7dedb" name="Convince Leader to Condemn Violence">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+              <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+                <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="c7b494a8-4148-4e6c-9a2c-9a31480f3b54" name="Economic Motive"/>
+      <Signal guid="b59b4386-ed85-44cc-9995-8e3f874af1eb" name="Alienate Local Community"/>
+      <Signal guid="02a11e80-2c52-41e9-ba7f-7a322bcaa048" name="Money goes to military groups"/>
+      <Signal guid="b5891dcc-9dde-4462-a587-6f2c1d275764" name="Military Motive"/>
+      <Signal guid="e8e872a1-2f5a-4f1d-806e-a6683283da42" name="Increase animosity towards authorities"/>
+      <Signal guid="076de567-94b7-406c-927f-0b587e28e947" name="Reduce opportunities"/>
+      <Signal guid="a6744cbc-abd6-475c-9aec-4b8d6b97473e" name="Improve Economy"/>
+      <Signal guid="0f542d76-613e-4cfe-89ed-b63ac611ebb8" name="Political Motive"/>
+      <Signal guid="0e66d58b-49be-4aaf-9697-94aa32d8b2ba" name="Social &amp; Cult Motive"/>
+      <Signal guid="3c785d69-9db4-40fe-9623-6dd9d4615ee1" name="Effect of Occupation"/>
+      <Signal guid="80f246f8-062b-4883-b603-28f44cc26bae" name="Religious violence not justified"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name=""/>
+  <SamplingOptions>
+    <Option PlanLength="30"/>
+  </SamplingOptions>
+</Plan>

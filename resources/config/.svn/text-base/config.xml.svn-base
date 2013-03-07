@@ -1,0 +1,3 @@
+<config>
+	<connection name='jcws' url='http://yourwebserverhere.com/JCWSMain'/>
+</config>

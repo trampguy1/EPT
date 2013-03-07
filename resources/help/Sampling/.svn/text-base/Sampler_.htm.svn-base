@@ -1,0 +1,88 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Sampler_</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../w95help.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Sampler Dialog</td></tr>
+</table>
+<p class="hcp2">The <span style="font-weight: bold;"><B><OBJECT classid="java:com.sun.java.help.impl.JHSecondaryViewer"  id="4291" ><param name="content" value="Sampler_Dialog_Image_popup_topic.htm"><param name="viewerActivator" value="javax.help.LinkLabel"><param name="viewerSize" value="400,270"><param name="viewerStyle" value="javax.help.Popup"><param name="text" value="sampler dialog"></OBJECT> 
+ </B></span>allows the user to specify the number of timesteps the simulation 
+ will last.</p>
+<p class="hcp2">Enter in the number of timesteps you would 
+ like the simulation to last in “Estimated Model Length.” &nbsp;If 
+ you would like JCAT to group several timesteps together in one sample 
+ slice, you can enter in an integer in “Simulation Slice Count” that is 
+ a factor of the number you put in for “Estimated Model Length.”</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

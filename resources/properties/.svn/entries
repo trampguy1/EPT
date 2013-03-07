@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2399"
+   name=""
+   committed-date="2008-05-09T20:49:04.619246Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/properties"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2399"
+   name="maskedvalues.properties"
+   text-time="2008-12-04T18:17:38.395886Z"
+   committed-date="2008-05-09T20:49:04.619246Z"
+   checksum="843cf20693a96f104a13d416a2a5d3e1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.364630Z"/>
+<entry
+   committed-rev="2399"
+   name="jwhiteboard.properties"
+   text-time="2008-12-04T18:17:38.411514Z"
+   committed-date="2008-05-09T20:49:04.619246Z"
+   checksum="da88e0b7c320324d69daa4c408e53942"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.380258Z"/>
+</wc-entries>

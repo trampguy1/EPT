@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2510"
+   name=""
+   committed-date="2008-09-23T15:41:38.721909Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="af"
+   kind="dir"/>
+</wc-entries>

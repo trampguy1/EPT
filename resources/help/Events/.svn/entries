@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Events"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Combined_Probabilities.htm"
+   text-time="2008-12-04T18:17:30.941330Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="2f290734e277772eb4a8c207106ff8c3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.675654Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Popup_Menu.htm"
+   text-time="2008-12-04T18:17:30.925702Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="67893c9b0f30b634d06b261fdf095634"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.660026Z"/>
+<entry
+   committed-rev="2467"
+   name="Getting_Started_Quickly.htm"
+   text-time="2008-12-04T18:17:30.910074Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="602149a7242e07ded4efe63de4beb81c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.644398Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Probabilities.htm"
+   text-time="2008-12-04T18:17:30.972586Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="45129650092310f0a76e25fe69baa77b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.675654Z"/>
+<entry
+   name="Event_"
+   kind="dir"/>
+<entry
+   committed-rev="2467"
+   name="Alone_Prob_Column.htm"
+   text-time="2008-12-04T18:17:31.003842Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="5acab9690afd96ba214f174bc2bb4f14"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.800678Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Default_Probabilities.htm"
+   text-time="2008-12-04T18:17:30.988214Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="ce60da70116a74fba332a5d1f511c3bc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.785050Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Editor_Dialog_Box_text0.htm"
+   text-time="2008-12-04T18:17:31.019470Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c8ee0685b97c94f6285f619787af8ce0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.816306Z"/>
+<entry
+   committed-rev="2467"
+   name="Schedule_Timing.htm"
+   text-time="2008-12-04T18:17:31.035098Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="16e91d6ac42d00afb99e9bb699214f09"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.816306Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Menu.htm"
+   text-time="2008-12-04T18:17:31.050726Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e1c5343a9de670d506308e89d9e69616"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.831934Z"/>
+<entry
+   committed-rev="2467"
+   name="Popup_Menu_popup_topic.htm"
+   text-time="2008-12-04T18:17:31.066354Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e1df7975b6dde4b79ae2931121f8cf5c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.847562Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Editor_Dialog_Box.htm"
+   text-time="2008-12-04T18:17:31.081982Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="71421d1e8cc4aae32be829f9b84b58de"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.847562Z"/>
+<entry
+   committed-rev="2467"
+   name="Specified_Prob_of_an_Event.htm"
+   text-time="2008-12-04T18:17:31.113238Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e135ec9d2684f61a97952fdd6ed38b99"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.863190Z"/>
+<entry
+   committed-rev="2467"
+   name="Event_Editor_Dialog_Box_text0_popup_topic.htm"
+   text-time="2008-12-04T18:17:31.128866Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c8ee0685b97c94f6285f619787af8ce0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.863190Z"/>
+<entry
+   committed-rev="2467"
+   name="Popup_Menu.htm"
+   text-time="2008-12-04T18:17:31.144494Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e1df7975b6dde4b79ae2931121f8cf5c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.878818Z"/>
+<entry
+   committed-rev="2467"
+   name="CreatingNewActions.htm"
+   text-time="2008-12-04T18:17:31.160122Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="4e2922af18ef7b8d5362d1ba3f6d6348"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.894446Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<JVMSearchPath>registry</JVMSearchPath>
+<JVMSearchPath>javahome</JVMSearchPath>
+<JVMSearchPath>jrepath</JVMSearchPath>
+<JVMSearchPath>jdkpath</JVMSearchPath>
+<JVMSearchPath>exepath</JVMSearchPath>
+<JVMSearchPath>jview</JVMSearchPath>
+<arguments></arguments>
+<currentDirectory>.</currentDirectory>
+<embeddedJar>true</embeddedJar>
+<executableName>JCat.exe</executableName>
+<iconLocation>resources/jcat-main.ico</iconLocation>
+<initialMemoryHeap>33554432</initialMemoryHeap>
+<jarLocation>JCat.jar</jarLocation>
+<mainClassName>mil.af.rl.jcat.gui.MainFrm</mainClassName>
+<maximumMemoryHeap>268435456</maximumMemoryHeap>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>Java was not found on your computer. Would you like to download it?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://java.sun.com/javase/downloads/index.jsp</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>

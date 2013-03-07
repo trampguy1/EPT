@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2481"
+   name=""
+   committed-date="2008-06-04T19:26:16.704338Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/examples"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2393"
+   name="civil_war.jcat"
+   text-time="2008-12-04T18:17:19.157818Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="4ea99f3b1ebf3fd628d6a71248d522ec"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.064050Z"/>
+<entry
+   committed-rev="2393"
+   name="InsurgentKidnapping.jcat"
+   text-time="2008-12-04T18:17:19.173446Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="b9db926c220b29394f50d3ab435e5c7f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.064050Z"/>
+<entry
+   committed-rev="2393"
+   name="FundLoop.jcat"
+   text-time="2008-12-04T18:17:19.204702Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="1543341ad6f5219eb25b107344ebc1a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.079678Z"/>
+<entry
+   committed-rev="2393"
+   name="Najah_brief.jcat"
+   text-time="2008-12-04T18:17:19.220330Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="2b89a83309f39fb63aeb8348273a6109"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.095306Z"/>
+<entry
+   committed-rev="2393"
+   name="DARPA.demo.model.jcat"
+   text-time="2008-12-04T18:17:19.251586Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="e72d863cb31d9da1c467de9f405f6b18"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.110934Z"/>
+<entry
+   committed-rev="2393"
+   name="Tony Soprano.jcat"
+   text-time="2008-12-04T18:17:19.267214Z"
+   committed-date="2008-05-09T20:44:40.938934Z"
+   checksum="9c48b1b9c355f36c6afd7f052f657585"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.126562Z"/>
+<entry
+   committed-rev="2481"
+   name="Baghdad_Adel_Situation.jcat"
+   text-time="2008-12-04T18:17:19.282842Z"
+   committed-date="2008-06-04T19:26:16.704338Z"
+   checksum="c5a1393258dceded310940bcf30fd378"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.142190Z"/>
+</wc-entries>

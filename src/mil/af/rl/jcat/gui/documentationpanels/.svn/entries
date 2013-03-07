@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2494"
+   name=""
+   committed-date="2008-06-11T14:46:04.601735Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/gui/documentationpanels"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2494"
+   name="GraphicalDocPanel.java"
+   text-time="2008-12-04T18:17:13.328574Z"
+   committed-date="2008-06-11T14:46:04.601735Z"
+   checksum="18cf6abf081a4bab480678525996bcb4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.187922Z"/>
+<entry
+   committed-rev="2175"
+   name="URLDialog.java"
+   text-time="2008-12-04T18:17:13.344202Z"
+   committed-date="2007-10-23T18:11:57.491089Z"
+   checksum="4ed657a11aa86aeb0285f201e3e3131c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.219178Z"/>
+<entry
+   committed-rev="2407"
+   name="DescriptionPanel.java"
+   text-time="2008-12-04T18:17:13.375458Z"
+   committed-date="2008-05-09T20:58:54.591250Z"
+   checksum="ee335f5dd595cf34e9ab341c0668a32a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.234806Z"/>
+<entry
+   committed-rev="2175"
+   name="KeyWordPanel.java"
+   text-time="2008-12-04T18:17:13.391086Z"
+   committed-date="2007-10-23T18:11:57.491089Z"
+   checksum="ce6eb5059aba030606b25b575a1629ef"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.250434Z"/>
+<entry
+   committed-rev="2175"
+   name="CommentsPanel.java"
+   text-time="2008-12-04T18:17:13.406714Z"
+   committed-date="2007-10-23T18:11:57.491089Z"
+   checksum="488b88ed01c8d3f98e4d02e21ea7a6af"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.281690Z"/>
+<entry
+   committed-rev="1755"
+   name="ReferenceCellEditor.java"
+   text-time="2007-09-25T15:36:07.079782Z"
+   committed-date="2006-11-14T15:36:56.826757Z"
+   checksum="b83fcece716561f7bc213052da79789e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:06.829789Z"/>
+<entry
+   committed-rev="1255"
+   name="MultiLineCellEditor.java"
+   text-time="2007-09-25T15:36:07.111031Z"
+   committed-date="2006-06-08T16:53:48.312306Z"
+   checksum="04aeb0a57b783bec65847aa2a9edebfe"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:06.861038Z"/>
+<entry
+   committed-rev="1255"
+   name="MultiLineCellRenderer.java"
+   text-time="2007-09-25T15:36:07.126656Z"
+   committed-date="2006-06-08T16:53:48.312306Z"
+   checksum="e5db2a603e0e083296986595a626c98a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:06.876662Z"/>
+<entry
+   committed-rev="2208"
+   name="ReferencePanel.java"
+   text-time="2008-12-04T18:17:13.422342Z"
+   committed-date="2007-11-06T17:31:48.699220Z"
+   checksum="46a5ff4dd622cb7069e3d38e7e2f89bc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.297318Z"/>
+</wc-entries>

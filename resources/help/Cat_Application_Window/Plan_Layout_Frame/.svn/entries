@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Cat_Application_Window/Plan_Layout_Frame"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Paste.htm"
+   text-time="2008-12-04T18:17:33.457438Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="163451896a4db625b0ccf4bd879603f9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.410554Z"/>
+<entry
+   committed-rev="2467"
+   name="Plan_Layout_Frame_Options.htm"
+   text-time="2008-12-04T18:17:33.504322Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="94c4e42f6b09e480116d38feda105138"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.426182Z"/>
+<entry
+   committed-rev="2467"
+   name="Reset_View.htm"
+   text-time="2008-12-04T18:17:33.519950Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="a4fbb1a8cbaad769b1387ed551357060"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.441810Z"/>
+</wc-entries>

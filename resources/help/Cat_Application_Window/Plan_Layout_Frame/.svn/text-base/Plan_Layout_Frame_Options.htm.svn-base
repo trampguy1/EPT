@@ -1,0 +1,91 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Model Layout Frame Options</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+font.hcp3 { font-size:12pt; }
+-->
+</style>
+</head>
+<body>
+<p>&nbsp;</p>
+
+
+ <table border="0" border="0" border="0" x-use-null-cells 
+ cellspacing="0" width="447">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" 
+
+	width=100%>
+
+ <table border="1" border="1"  border="1"  x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0" 
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0" 
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" border="0"  border="0"  x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" 
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Model Layout Frame Options</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">When working within the Model layout frame 
+ there are a number of different options available to<span >  <font size="3" class="hcp3"><B></B></font></span><span ><font size="3" class="hcp3">the user for Modelning purposes.  &nbsp;</font></span></p>
+<p class="hcp2">&nbsp;</p>
+<p style="font-size: 12pt; text-align: justify;">While in the Model layout 
+ frame, a user can right click to display a list of options available. 
+ &nbsp;You can 
+ <a href="Reset_View.htm"
+	>reset the view</a>, Paste, show signal names,  start and stop the Model Server, select the layout of nodes, view a Model 
+ Tree, save a Model Image, &nbsp;view 
+ an Agent List, and create new COA's. &nbsp;&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

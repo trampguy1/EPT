@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Resources"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Ensemble.htm"
+   text-time="2008-12-04T18:17:29.644206Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="eb85bc453888016527a488dbeba367fe"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.534810Z"/>
+<entry
+   committed-rev="2467"
+   name="Resources.htm"
+   text-time="2008-12-04T18:17:29.675462Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="d1163e3b5d37be91fdc79a16781ddffa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.550438Z"/>
+<entry
+   committed-rev="2467"
+   name="Ensemble_popup_topic.htm"
+   text-time="2008-12-04T18:17:29.691090Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="eb85bc453888016527a488dbeba367fe"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.566066Z"/>
+<entry
+   committed-rev="2467"
+   name="AND_OR_Expenditure.htm"
+   text-time="2008-12-04T18:17:29.706718Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="bb17ac322d7bb3cd67f2703dc1a4b396"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.566066Z"/>
+<entry
+   committed-rev="2467"
+   name="Adding_Resources.htm"
+   text-time="2008-12-04T18:17:29.722346Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="75a09c864db037dbcda1f62b4c22bf85"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.581694Z"/>
+<entry
+   committed-rev="2467"
+   name="Simple_Resource.htm"
+   text-time="2008-12-04T18:17:29.737974Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="4f67318665fc4632743cedcaa714a8e6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.597322Z"/>
+<entry
+   committed-rev="2467"
+   name="Threat_Resource_Image.htm"
+   text-time="2008-12-04T18:17:29.753602Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="89e6e02b66345bceaabcfd520963d771"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.597322Z"/>
+<entry
+   committed-rev="2467"
+   name="Simple_Resource1.htm"
+   text-time="2008-12-04T18:17:29.769230Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="fc49cd03edafc52faf7fb3a7ad6e3dc5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.612950Z"/>
+<entry
+   committed-rev="2467"
+   name="ThreatResourceAllocation.htm"
+   text-time="2008-12-04T18:17:29.784858Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="5f4f218bd92b8a1b36e34a11646d2afd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.628578Z"/>
+<entry
+   committed-rev="2467"
+   name="Adding_Threat_Resources.htm"
+   text-time="2008-12-04T18:17:29.816114Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="736bd40963bae7944115999fcd703b6d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.628578Z"/>
+</wc-entries>

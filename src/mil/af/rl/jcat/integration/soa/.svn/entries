@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2424"
+   name=""
+   committed-date="2008-05-13T19:06:11.116819Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration/soa"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2424"
+   name="Control.java"
+   text-time="2008-12-04T18:17:06.624162Z"
+   committed-date="2008-05-13T19:06:11.116819Z"
+   checksum="c2bf02768d8439733fb95be20f17fb04"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.436626Z"/>
+<entry
+   name="server"
+   kind="dir"/>
+<entry
+   committed-rev="2424"
+   name="SOAClientExample.java"
+   text-time="2008-12-04T18:17:06.639790Z"
+   committed-date="2008-05-13T19:06:11.116819Z"
+   checksum="ccad21a569b019486af58d2da5c5b6aa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.608534Z"/>
+</wc-entries>

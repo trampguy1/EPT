@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Advanced_Tutorials"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Probabilities.htm"
+   text-time="2008-12-04T18:17:28.440850Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c684a13f4ce751cdd7837a58406258a8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.253314Z"/>
+<entry
+   committed-rev="2467"
+   name="New_Event.htm"
+   text-time="2008-12-04T18:17:28.472106Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="cf35f6f05164309bda41e0b4a9aa04a8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.253314Z"/>
+<entry
+   committed-rev="2467"
+   name="Step_1.htm"
+   text-time="2008-12-04T18:17:28.487734Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c5cd9f584754ed3e89d6da525432212d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.268942Z"/>
+<entry
+   committed-rev="2467"
+   name="Step_2.htm"
+   text-time="2008-12-04T18:17:28.503362Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="acd59f9bc6f1160291e130fadb7b9de2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.284570Z"/>
+<entry
+   committed-rev="2467"
+   name="Adding_Mechanisms.htm"
+   text-time="2008-12-04T18:17:28.534618Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="353aa65dca5115492fe612d636174516"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.300198Z"/>
+<entry
+   committed-rev="2467"
+   name="Step_3.htm"
+   text-time="2008-12-04T18:17:28.518990Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="968be91bd9fd9ab44bcf7cebcddbb2a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.284570Z"/>
+<entry
+   committed-rev="2467"
+   name="Step_4.htm"
+   text-time="2008-12-04T18:17:28.550246Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="470719a92934e986547998e15d9cff28"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.315826Z"/>
+<entry
+   committed-rev="2467"
+   name="Step_6.htm"
+   text-time="2008-12-04T18:17:28.581502Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="6f6621921bb3bd4ff6f8188cdb4f3926"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.331454Z"/>
+<entry
+   committed-rev="2467"
+   name="Step5.htm"
+   text-time="2008-12-04T18:17:28.565874Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="9ce9ff5ce1efeb3cc119af0ae53e0b10"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.315826Z"/>
+<entry
+   committed-rev="2467"
+   name="New_Plan.htm"
+   text-time="2008-12-04T18:17:28.612758Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="77707798cbe75bef9e71737b5bd00b68"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.347082Z"/>
+<entry
+   committed-rev="2467"
+   name="Evidence_cont.htm"
+   text-time="2008-12-04T18:17:28.628386Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="275848c50ed756b6cebbd3631f656a4e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.362710Z"/>
+<entry
+   committed-rev="2467"
+   name="Inferred_Probabilities.htm"
+   text-time="2008-12-04T18:17:28.644014Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="3d2826a55182629b0545f4e2c2ec0f9f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.362710Z"/>
+<entry
+   committed-rev="2467"
+   name="Advanced_Tutorials.htm"
+   text-time="2008-12-04T18:17:28.659642Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e87618d6ee48cb4368b7e9bfd1c4cdcd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.378338Z"/>
+<entry
+   committed-rev="2467"
+   name="Evidence.htm"
+   text-time="2008-12-04T18:17:28.675270Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="779034545ae8c1d20029b8fcd4b29d24"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.378338Z"/>
+<entry
+   committed-rev="2467"
+   name="Simulation.htm"
+   text-time="2008-12-04T18:17:28.690898Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="87eb2ab6f6009113b5605849858c7da1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.393966Z"/>
+<entry
+   committed-rev="2467"
+   name="Running_Simulation.htm"
+   text-time="2008-12-04T18:17:28.706526Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="bb667fea968cf8d9422571c7ca66d7f3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.409594Z"/>
+<entry
+   committed-rev="2467"
+   name="Scheduling.htm"
+   text-time="2008-12-04T18:17:28.722154Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="9c4a8ba9134ec0b88de1aa8dbfe13ed7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.425222Z"/>
+<entry
+   committed-rev="2467"
+   name="Timing.htm"
+   text-time="2008-12-04T18:17:28.737782Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="ac105d11e8c725bb88080665442b63a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.425222Z"/>
+</wc-entries>

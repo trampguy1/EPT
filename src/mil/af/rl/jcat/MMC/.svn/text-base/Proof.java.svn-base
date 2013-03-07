@@ -1,0 +1,131 @@
+package mil.af.rl.jcat.MMC;
+
+import java.util.ArrayList;
+import java.util.Random;
+
+public class Proof {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Proof theProof = new Proof();
+		theProof.startProofAlgorithm();
+	}
+
+	private void startProofAlgorithm() {
+		proofAlgorithm(nodes, mechanisms);
+	}
+
+	Random random = new Random();
+
+	ArrayList<Sample> initializeSampleSet(int eventCount){
+		int sampleCount = 1000;
+		ArrayList<Sample> set = new ArrayList<Sample>(eventCount);
+		for(int j = 0; j < sampleCount; j++){
+			Sample sample = new Sample(eventCount);
+			for(int k = 0; k < 2; k++){	// only for this specific example
+				// this could probably  be generalized to access the EPT for Omega (the universal event)
+				sample.sample[k] = true;
+			}
+			set.add(sample);
+			}
+		return set;
+		}
+	ArrayList<Mechanism> mechanisms = new ArrayList<Mechanism>();
+	ArrayList<Node> nodes = new ArrayList<Node>();
+	Proof(){
+		// add the nodes in topo order
+		// this will be the model in the paper
+		nodes.add(new Node("a", 0));
+		nodes.add(new Node("b", 1));
+		nodes.add(new Node("x", 2));
+		nodes.add(new Node("y", 3));
+
+		mechanisms.add(new Mechanism(nodes.get(0), nodes.get(2), 0.1)); // a causes x: .1
+		mechanisms.add(new Mechanism(nodes.get(0), nodes.get(3), 0.3)); // a causes y: .3
+		mechanisms.add(new Mechanism(nodes.get(1), nodes.get(2), 0.2)); // b causes x: .2
+		mechanisms.add(new Mechanism(nodes.get(1), nodes.get(3), 0.4)); // b causes y: .4
+
+	}
+	public class Sample{
+		boolean[] sample = null;
+		Sample(int n){sample = new boolean[(int) n]; sample[0]= true;}
+		void modifySampleSetToAccountForExpandedCPT(Mechanism mechanism){
+			if(sample[mechanism.a.index]&&random.nextDouble()<=mechanism.p){
+				sample[mechanism.x.index]=true;
+			}
+		}
+		void modifySampleSetToAccountForExpandedEPT(Mechanism mechanism){
+			if(sample[mechanism.a.index]&&random.nextDouble()<=mechanism.p){
+				sample[mechanism.x.index]=true;
+			}
+		}
+		boolean b(long j, long i){return ((1<<i)&j)==1;}
+		public String  toString(){
+			String rtn = "";
+			for(boolean truth: sample){
+				if(truth){
+					rtn += "1 ";
+				}
+				else{
+					rtn += "0 ";
+				}
+			}
+			return rtn;
+		}
+	}
+	public class Node{
+		int index = 0;
+		String name = "";
+		double [] cpt = {0.0};
+		double [] ept = {1.0};
+		Node(String name, int index){this.name = name; this.index = index;}
+		public void augmentCPT(double p){
+			double oldCPT[] = cpt;
+			int oldLength = oldCPT.length;
+			cpt = new double[oldLength * 2];
+			for(int k = 0; k < oldLength; k++){
+				cpt[k] = oldCPT[k];
+				cpt[k + oldLength] = (1.0 - (1.0 - oldCPT[k]) * (1.0 - p));// if the cause is active, an there an additional p chance of causation noisyORed with previous independent chances
+			}
+		}
+		public void augmentEPT(double p){
+			double[] oldEPT = ept;
+			int oldLength = oldEPT.length;
+			ept = new double[oldLength * 2];
+			for(int k = 0; k < oldLength; k++){// if the newly  added cause does not occur the existing sample remains valid  because no sampling of the new EPT would have taken planc
+				ept[k] = oldEPT[k] * (1.0 - p);
+				ept[k + oldLength] = oldEPT[k] * p;
+			}
+			//If the newly added cause is active, there is now an additional p probality that the effect will be caused and NoisyORed with the previous sampling result
+		}
+	}
+	public class Mechanism{
+		Node a;
+		Node x;
+		double p;
+		Mechanism(Node a, Node x, double p){this.a=a; this.x = x; this.p = p;};
+		public void addMechanismToCPT_EPT(Mechanism m){
+			a.augmentEPT(p);
+			x.augmentCPT(p);
+		}
+	}
+
+
+	public void proofAlgorithm(ArrayList<Node> nodeEvents, ArrayList<Mechanism> topoSortedEdgeMechanism){
+		ArrayList<Sample> CPTsamples = initializeSampleSet(nodeEvents.size());
+		ArrayList<Sample> EPTsamples = initializeSampleSet(nodeEvents.size());
+		for(Mechanism mechanism: topoSortedEdgeMechanism){
+			mechanism.addMechanismToCPT_EPT(mechanism); // one iteration of the while loop in "Constructing Equivalent CPT and EPT Models"
+			for(Sample sample: CPTsamples){sample.modifySampleSetToAccountForExpandedCPT(mechanism);}
+			for(Sample sample: EPTsamples){sample.modifySampleSetToAccountForExpandedEPT(mechanism);}
+		}
+		int count = 0;
+//		for(boolean[] sample: EPTsamples){
+//			if(sample[2] && sample[3]){
+//				count += 1;
+//			}
+//		}
+	}
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Bayes_Nets"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Building_the_Bayes_Net1.htm"
+   text-time="2008-12-04T18:17:27.378146Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="b25c8b004c9eb05ed3e595da3d1bde6c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.346890Z"/>
+</wc-entries>

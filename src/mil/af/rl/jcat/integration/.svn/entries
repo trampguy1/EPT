@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2424"
+   name=""
+   committed-date="2008-05-13T19:06:11.116819Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="892"
+   name="MTask.java"
+   text-time="2007-09-25T15:36:01.376803Z"
+   committed-date="2006-01-09T21:07:31.821514Z"
+   checksum="225242effe2a776c47f8ea55b97899ea"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.251832Z"/>
+<entry
+   name="soa"
+   kind="dir"/>
+<entry
+   committed-rev="907"
+   name="Task.java"
+   text-time="2007-09-25T15:36:01.392428Z"
+   committed-date="2006-01-30T18:31:52.731984Z"
+   checksum="cbe9b14e2fb1c37ed06013a9b834374f"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.267457Z"/>
+<entry
+   committed-rev="2364"
+   name="JCATControlInterface.java"
+   text-time="2008-12-04T18:17:07.030490Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="93a24c00e49e1c2253198f05e90a479f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.686674Z"/>
+<entry
+   name="gui"
+   kind="dir"/>
+<entry
+   committed-rev="2295"
+   name="IbcConnector.java"
+   text-time="2008-12-04T18:17:07.046118Z"
+   committed-date="2007-12-17T18:54:43.950271Z"
+   checksum="27e0c9ed06a20052b102c3a5f94ae5dd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.717930Z"/>
+<entry
+   name="api"
+   kind="dir"/>
+<entry
+   committed-rev="2408"
+   name="ConnectionManager.java"
+   text-time="2008-12-04T18:17:07.077374Z"
+   committed-date="2008-05-09T20:59:28.654840Z"
+   checksum="46dd9a9401e6c8c45d33fddaff574be5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.014862Z"/>
+<entry
+   name="parser"
+   kind="dir"/>
+<entry
+   committed-rev="905"
+   name="IATask.java"
+   text-time="2007-09-25T15:36:01.470551Z"
+   committed-date="2006-01-23T21:26:35.953388Z"
+   checksum="b00d4b2941dd10b0ef114b7ce1e53b15"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:00.798693Z"/>
+</wc-entries>

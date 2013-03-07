@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2141"
+   name=""
+   committed-date="2007-10-17T17:28:58.923032Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/bayesnet/parallel"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2141"
+   name="LikelihoodSamplingTask.java"
+   text-time="2008-12-04T18:17:04.451870Z"
+   committed-date="2007-10-17T17:28:58.923032Z"
+   checksum="2c0c86ddcb7704af02dfd3788c6c3ae1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.389358Z"/>
+<entry
+   committed-rev="2044"
+   name="LikelihoodParallelSampler.java"
+   text-time="2007-09-25T15:36:08.642242Z"
+   committed-date="2007-04-23T17:18:09.593460Z"
+   checksum="0dbd560d0efd141584e19a21d99b3f9d"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.548495Z"/>
+<entry
+   committed-rev="2141"
+   name="SamplerJob.java"
+   text-time="2008-12-04T18:17:04.467498Z"
+   committed-date="2007-10-17T17:28:58.923032Z"
+   checksum="016a6f329cf8ae2170e07ac6502eb4a9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.420614Z"/>
+</wc-entries>

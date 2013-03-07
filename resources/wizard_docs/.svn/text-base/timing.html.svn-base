@@ -1,0 +1,18 @@
+<html>
+<b><font color="blue">Timing</font></b> <p>
+
+To have any sort of useful output in JCat you should assign timing
+to at least some of your <b> events</b>.  <p>
+
+Four temporal concepts are embedded in the timing dialog: scheduling, delay, continuation and persistence. All three can be used introduce temporal dynamics into models. <p>
+
+<b>Scheduling</b> is 'forcing' a particular event to occur at a particular time, e.g. with .9 probability, we will bomb a particular bridge at time 3. <p>
+
+<b>Delay</b> is the length of time between the causes of an event occurring and the event itself occurring. For example, if food supplies are destroyed, it will be some time before a military unit becomes ineffective. <p>
+
+<b>Continuation</b> probability is the probability that an event will occur at the current time if it occurred during the previous time tick. <p>
+
+<b>Persistence</b> is the length of time the event will remain true or, (equivalently) the amount of time a mechanism's signal will remain active. For example, "Bridge Destroyed" will remain true until the bridge is repaired. <p>
+
+
+</html>

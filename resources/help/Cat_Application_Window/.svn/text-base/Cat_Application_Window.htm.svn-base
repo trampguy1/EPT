@@ -1,0 +1,103 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Cat Application Window</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+a.hcp3 { font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<p>&nbsp;</p>
+
+
+ <table border="0" x-use-null-cells
+		
+
+		width=100%
+		cellspacing=0>
+<col>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%
+		bgcolor=#000000 cellpadding="5">
+<col ><col>
+
+<tr border="0" border="0"
+	
+
+	valign=top
+	bgcolor=#000000>
+<td border="0" border="0"
+	
+
+	valign=middle
+	bgcolor=#000000
+	width=150%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;">Application Window</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Within the <a href="Application_Window.htm" id="a1" class="hcp3">Application 
+ window</a> there are various windows, toolbars, and menus available to 
+ the user for utilization throughout the Model building process. </p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Some key features in the Application Window 
+ include the <a href="../Menus/Menu_Bar.htm" id="a3" class="hcp3">Menu Bar</a>, the <a href="../Menus/Toolbars/Application_Toolbar/Application_Toolbar.htm" id="a4" class="hcp3">File</a> and <a href="../Menus/Toolbars/Controls_Toolbar/Controls_Toolbar.htm" id="a5" class="hcp3">Model 
+ Toolbars</a>, the <a href="Plan_Layout_Frame.htm" id="a6" class="hcp3">Model Layout Frame</a>, 
+ the <a href="Status_Bar.htm" class="hcp3">Status Bar</a> as well as the various 
+ dockable windows.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

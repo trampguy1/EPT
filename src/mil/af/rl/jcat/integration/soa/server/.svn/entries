@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2369"
+   name=""
+   committed-date="2008-04-15T18:59:59.391227Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration/soa/server"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2364"
+   name="Resource.java"
+   text-time="2008-12-04T18:17:06.546022Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="38cec7c200ab344156daee5a6d5888f7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.499138Z"/>
+<entry
+   committed-rev="2369"
+   name="JCWSMain.java"
+   text-time="2008-12-04T18:17:06.561650Z"
+   committed-date="2008-04-15T18:59:59.391227Z"
+   checksum="6bb09fef4070da5823755b94903ccd82"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.514766Z"/>
+<entry
+   committed-rev="2369"
+   name="SessionManager.java"
+   text-time="2008-12-04T18:17:06.577278Z"
+   committed-date="2008-04-15T18:59:59.391227Z"
+   checksum="e582e5d8f1dba46038a122d19fff20a8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.514766Z"/>
+</wc-entries>

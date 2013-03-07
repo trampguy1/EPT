@@ -1,0 +1,208 @@
+package mil.af.rl.jcat.MMC;
+
+import java.lang.Math;
+import java.util.ArrayList;
+
+import com.sun.tools.javac.code.Attribute.Array;
+
+/**
+ * @author john
+ *
+ */
+public class EPT implements EffectsProbabilityTable{
+
+	/**
+	 * @param args
+	 */
+
+	public static void main(String[] args) {
+		double edgeValues[] = {.6,.7};
+		EPT theEPT = new EPT();
+		theEPT.createConditionallyIndependentCummulativeEPT(edgeValues);
+		double[] marginalConstraints = {1.0, .6, .7, .5};
+		theEPT.createMarginallyConstrainedCummulativeEPT(2, marginalConstraints);
+	}
+
+	int effectCount = 0;
+	int activeEffectCount = 0;
+	double jpd[] = null; // jpd will hold the joint probability distribution during computation but will be convert to the cumulative distribution for return
+	double constraint[] = null; // constraint will hold the desired values for the marginal probabilities
+	mmc treeNode[] = null; 	// both MMC and ALC are double recursive thus forming a binary tree of calls. The mmc's are values associate with each node of this activation tree.
+							// mmc's cannot be local to the MMC activation's because the mmc data must be save ALC calls
+	int sizePD = 0;
+
+	public double[] createConditionallyIndependentCummulativeEPT(
+			double[] edgeValues) {
+		effectCount = edgeValues.length;
+		sizePD = (1 << effectCount); //sizePD is 2 raised to the effectCount power
+		// allocate the jpd and initialize it so only the only the universal event happens
+		initializeComputation();
+
+		// check the input values, the edge values (i.e. 1st order marginal constraints). Values in the interval [0, 1.0] are OK
+		for(int e = 0; e < effectCount; e++){
+			if(edgeValues[e] < 0.0 || edgeValues[e] > 1.0){
+				// throw an exception
+			}
+		}
+
+		int k= 0;
+		for(activeEffectCount = 1; activeEffectCount <= effectCount; activeEffectCount++){
+			int curSizePD = (1 << activeEffectCount);
+			for(int j = (curSizePD >> 1);  j < curSizePD; j = (j << 1), k++){// this loop prevents ALC from allocating probability mass to events not yet initialized, thereby assuring initial independence among the events
+				// the following two method calls are my dissertation in action!
+				MMC(j, 0, 0);
+				ALC(j, 0, edgeValues[k] - treeNode[0].cv, 0);
+			}
+		}
+		accumulateAndMarginalize();
+		return jpd;
+	}
+	private double[] accumulateAndMarginalize() {
+		double marg[] = new double[sizePD];
+		for(int j = 0; j < sizePD; j++){
+			marg[j] = jpd[j];
+			for(int m = j + 1; m < sizePD; m++){
+				if((m&j) == j){
+					marg[j] += jpd[m];
+				}
+			}
+		}
+		for(int j = 1; j < sizePD; j++){// make it cumulative
+			jpd[j] += jpd[j - 1];
+		}
+		return marg;
+	}
+	private void initializeComputation() {
+		jpd = new double[sizePD];
+		jpd[0] = 1.0;
+		for(int j = 1; j < sizePD; j++){
+			jpd[j] = 0;
+		}
+		// allocate the array of tree nodes; treeNode[0] will always be the root of the tree of MMC and ALC calls.
+		// treeNodes will correspond to the activation tree of MMC so that
+		// if i is the index of a tree node, the index corresponding to the high 'j' value of two recursive calls will be (2*i) + 1
+		// and the index for the lower 'j' call will be (2*1) + 2. See, for example, implementation of MMC.
+		treeNode = new mmc[(sizePD << 1) - 1];
+		for(int j = 0; j < (sizePD << 1) - 1; j++){
+			treeNode[j] = new mmc();
+		}
+	}
+	EPT(){
+		}
+
+	public mmc MMC(int j, int depth, int nodeIndex){
+		mmc node = treeNode[nodeIndex];
+		mmc lowNode = null;
+		mmc highNode = null;
+		if(depth == activeEffectCount){
+			node.baseValue(j, jpd);
+		}else{
+			if((j & (1<<depth)) != 0){// its and AND node
+				lowNode = MMC((j^(1<<depth)), depth + 1, (nodeIndex<<1) + 2);
+				highNode = MMC(j, depth + 1, (nodeIndex << 1) + 1 );
+				node.andCombine(lowNode, highNode);
+			}else{// its an OR node
+				lowNode = MMC(j, depth+1, (nodeIndex<<1) + 2);
+				highNode = MMC(j | (1 << depth), depth+1, (nodeIndex << 1) + 1);
+				node.orCombine(lowNode, highNode);
+			}
+		}
+		return node;
+
+	}
+	public void ALC(int j, int depth, double change, int nodeIndex){
+		if(depth == activeEffectCount){
+			jpd[j] += change;
+		}
+		else{
+			if((j & (1<<depth)) != 0){
+				ALC(j ^ (1 << depth), depth +1, -change, (nodeIndex << 1) + 2);
+				ALC(j, depth + 1, change, (nodeIndex << 1) + 1);
+			}else {
+				mmc lowNode = treeNode[(nodeIndex << 1) + 2];
+				mmc highNode = treeNode[(nodeIndex << 1) + 1];
+				// the following rule provides effect independence when there are no pairwise or higher constraints, possibly always independence given constraints
+				double leftChange = change >= 0.0 ? change * (lowNode.up/(lowNode.up + highNode.up))
+													: change * (lowNode.down / (lowNode.down + highNode.down));
+				ALC(j, depth +1, leftChange, (nodeIndex << 1) + 2);
+				ALC(j | (1 << depth), depth +1, change - leftChange, (nodeIndex << 1) + 1);
+			}
+		}
+	}
+	public double[] createMarginallyConstrainedCummulativeEPT(int effectCount, double[] marginalConstraints) {
+		sizePD = marginalConstraints.length; //sizePD is 2 raised to the effectCount power
+		if((1 << effectCount) == sizePD){
+			initializeComputation();
+			for(activeEffectCount = 1; activeEffectCount <= effectCount; activeEffectCount++){
+				int curSizePD = (1 << activeEffectCount);
+				for(int j = (curSizePD >> 1);  j < curSizePD; j++){// this loop prevents ALC from allocating probability mass to events not yet initialized, thereby assuring initial independence among the events
+					// the following two method calls are my dissertation in action!
+					mmc range = MMC(j, 0, 0);
+					double change = marginalConstraints[j] - range.cv;
+					if(change >= -range.down && change <= range.up){
+						ALC(j, 0, change, 0);
+					}else{
+						// throw an exception: constraint is not feasible given previous constraints
+					}
+				}
+			}
+			accumulateAndMarginalize();
+		}else{
+			// throw an exception: The number of effects and the number of marginal constraints are not consistent
+		}
+		return jpd;
+	}
+
+// This stuff to support a paper and is not ever executed in this environment
+	static void monteCarloSample(Object event, Object sample){};
+	public void simpleSampling(ArrayList sample, ArrayList topoSortedEventList){
+		int N = sample.size();
+		int eventCount = topoSortedEventList.size();
+		for(int n = 0; n< N; n++){
+			Object currentSample = sample.get(n);
+			for(int e = 0; e < eventCount; e++){
+				monteCarloSample(topoSortedEventList.get(e), currentSample);
+			}
+		}
+	}
+	public void invertedSampling(ArrayList sample, ArrayList topoSortedEventList){
+		int N = sample.size();
+		int eventCount = topoSortedEventList.size();
+		for(int e = 0; e < eventCount; e++){
+			Object currentEvent = topoSortedEventList.get(e);
+			for(int n = 0; n < N; n++){
+				monteCarloSample(currentEvent, sample.get(n));
+			}
+		}
+	}
+
+	static double random(){return 0.5;};
+	static void addMechanismToCPT_EPT(Mechanism mechanism){};
+	ArrayList<Sample> initializeSampleSet(long n){ArrayList<Sample> set = new ArrayList<Sample>((int) n); for(Sample sample: set){sample = new Sample(n);} return set;};
+	public class Sample{
+		double[] sample = null;
+		Sample(long n){sample = new double[(int) n]; sample[0]= 1.0;}
+		void modifySampleSetToAccountForExpandedCPT(Mechanism mechanism){if(sample[mechanism.a.index]==1&&random()<=mechanism.p)sample[mechanism.x.index]=1;}
+		void modifySampleSetToAccountForExpandedEPT(Mechanism mechanism){if(sample[mechanism.a.index]==1&&random()<=mechanism.p)sample[mechanism.x.index]=1;}
+		boolean b(long j, long i){return ((1<<i)&j)==1;}
+	}
+	public class Node{
+		int index;
+	}
+	public class Mechanism{
+		Node a;
+		Node x;
+		double p;
+	}
+
+
+	public void proofAlgorithm(ArrayList<Node> nodeEvents, ArrayList<Mechanism> topoSortedEdgeMechanism){
+		ArrayList<Sample> CPTsamples = initializeSampleSet((1 << nodeEvents.size()));
+		ArrayList<Sample> EPTsamples = initializeSampleSet((1 << nodeEvents.size()));
+		for(Mechanism mechanism: topoSortedEdgeMechanism){
+			addMechanismToCPT_EPT(mechanism); // one iteration of the while loop in "Constructing Equivalent CPT and EPT Models"
+			for(Sample sample: CPTsamples){sample.modifySampleSetToAccountForExpandedCPT(mechanism);}
+			for(Sample sample: EPTsamples){sample.modifySampleSetToAccountForExpandedEPT(mechanism);}
+		}
+	}
+}

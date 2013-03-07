@@ -1,0 +1,11 @@
+// Format:  Text Value = probability(number between 0 and 1)
+// example:  Almost Certain = .98
+// Having a values for 0 and 1 is highly recommended, otherwise these values will be generated
+
+Definate = 1
+Almost Certain = .99
+Very Likely= .8
+Likely = .6
+Not Likely = .3
+Extremely Low = .1
+No Chance = 0

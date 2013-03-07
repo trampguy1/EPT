@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2474"
+   name=""
+   committed-date="2008-05-30T17:15:27.527884Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/plan"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2240"
+   name="PlanListener.java"
+   text-time="2008-12-04T18:17:14.266254Z"
+   committed-date="2007-11-13T18:20:18.496104Z"
+   checksum="db36f6f8ba7d2b6f9243c8f354c43fa0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.000578Z"/>
+<entry
+   committed-rev="1759"
+   name="PlanResource.java"
+   text-time="2007-09-25T15:36:09.860961Z"
+   committed-date="2006-11-16T19:03:28.490536Z"
+   checksum="789b5901b2cbe9e92b80c3bd8db74b31"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.454721Z"/>
+<entry
+   committed-rev="1264"
+   name="Comment.java"
+   text-time="2007-09-25T15:36:09.892210Z"
+   committed-date="2006-06-08T16:56:59.382767Z"
+   checksum="583e8f73c200eb879664e4ec748735c8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.470346Z"/>
+<entry
+   committed-rev="2238"
+   name="COA.java"
+   text-time="2008-12-04T18:17:14.281882Z"
+   committed-date="2007-11-13T18:19:25.728791Z"
+   checksum="ae8507a6b60ac0365705cc808d5c33cb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.031834Z"/>
+<entry
+   committed-rev="2297"
+   name="ColorScheme.java"
+   text-time="2008-12-04T18:17:14.297510Z"
+   committed-date="2007-12-17T18:55:42.373642Z"
+   checksum="5fb68842d04cc5b8d714d0d48f30eae4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.031834Z"/>
+<entry
+   committed-rev="2297"
+   name="COAState.java"
+   text-time="2008-12-04T18:17:14.313138Z"
+   committed-date="2007-12-17T18:55:42.373642Z"
+   checksum="193a52253cf8007acd08ca4bba8aad1a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.047462Z"/>
+<entry
+   committed-rev="2360"
+   name="Mechanism.java"
+   text-time="2008-12-04T18:17:14.344394Z"
+   committed-date="2008-04-10T18:39:30.521331Z"
+   checksum="95c8a1d18ce9bfff2065deb49d25217a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.078718Z"/>
+<entry
+   committed-rev="2359"
+   name="PlanItem.java"
+   text-time="2008-12-04T18:17:14.360022Z"
+   committed-date="2008-04-10T18:38:47.973367Z"
+   checksum="09c3cde827e4ca22e7dd51df924a552b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.109974Z"/>
+<entry
+   committed-rev="1755"
+   name="Documentation.java"
+   text-time="2007-09-25T15:36:10.048456Z"
+   committed-date="2006-11-14T15:36:56.826757Z"
+   checksum="84587b9cff7a8a8bca492879b4ece133"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.657841Z"/>
+<entry
+   committed-rev="2413"
+   name="ColorSchemeAttrib.java"
+   text-time="2008-12-04T18:17:14.375650Z"
+   committed-date="2008-05-09T21:02:12.988223Z"
+   checksum="3f8a58f22d6ad3bf089b0e4b7af34ead"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.125602Z"/>
+<entry
+   committed-rev="1810"
+   name="PlanInterface.java"
+   text-time="2007-09-25T15:36:10.095330Z"
+   committed-date="2006-12-27T21:19:48.145905Z"
+   checksum="66b27da8a426ff5c15a4928ef083d327"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.689090Z"/>
+<entry
+   committed-rev="2474"
+   name="AbstractPlan.java"
+   text-time="2008-12-04T18:17:14.406906Z"
+   committed-date="2008-05-30T17:15:27.527884Z"
+   checksum="fc2c22cd96cce94e66a55e151081ff7a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.156858Z"/>
+<entry
+   committed-rev="2358"
+   name="Event.java"
+   text-time="2008-12-04T18:17:14.422534Z"
+   committed-date="2008-04-10T18:38:26.769699Z"
+   checksum="a8965cb8cc331448bbfb8b16a8057e59"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.172486Z"/>
+<entry
+   committed-rev="2297"
+   name="ResourceManager.java"
+   text-time="2008-12-04T18:17:14.438162Z"
+   committed-date="2007-12-17T18:55:42.373642Z"
+   checksum="6deff7ac84e889302fe3c370d0ae8384"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.188114Z"/>
+<entry
+   committed-rev="1"
+   name="Plan.java"
+   text-time="2007-09-25T15:36:10.204702Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="42705765f40ff6b0b0087a6fb39242e9"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.782838Z"/>
+<entry
+   committed-rev="2240"
+   name="PlanEvent.java"
+   text-time="2008-12-04T18:17:14.453790Z"
+   committed-date="2007-11-13T18:20:18.496104Z"
+   checksum="2b66b13abd86341da1eb796c9b11be96"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.203742Z"/>
+<entry
+   committed-rev="1914"
+   name="ResourceAllocation.java"
+   text-time="2007-09-25T15:36:10.220327Z"
+   committed-date="2007-01-22T16:32:33.787375Z"
+   checksum="4dd16da63b6b2adf48e693b004f514cd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:09.814087Z"/>
+<entry
+   committed-rev="2132"
+   name="LayoutTools.java"
+   text-time="2008-12-04T18:17:14.485046Z"
+   committed-date="2007-10-02T17:30:08.692512Z"
+   checksum="bf8b898a2e701d7cf46ea371f4945790"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.234998Z"/>
+</wc-entries>

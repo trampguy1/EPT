@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2484"
+   name=""
+   committed-date="2008-06-06T14:47:43.509561Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2397"
+   name="ant1.7.jar"
+   text-time="2008-12-04T18:17:39.505474Z"
+   committed-date="2008-05-09T20:46:30.645569Z"
+   checksum="133e8979e9c11450f557ca890177fe0a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:24.268174Z"/>
+<entry
+   committed-rev="1"
+   name="jide-grids.jar"
+   text-time="2007-09-25T15:36:23.016874Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="026781d46399b6d8df63efcdf787e041"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:12.657764Z"/>
+<entry
+   committed-rev="1848"
+   name="log4j_1.2.14.jar"
+   text-time="2007-09-25T15:36:23.032499Z"
+   committed-date="2007-01-12T15:48:44.937776Z"
+   checksum="5a091fb972d9b5222400f0ed8c38969c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:12.751512Z"/>
+<entry
+   committed-rev="2054"
+   name="computefarm-0.8.2.jar"
+   text-time="2007-09-25T15:36:23.048123Z"
+   committed-date="2007-05-10T17:44:35.819357Z"
+   checksum="3bd6dbbaedeb6b4419ed74c2acb776df"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:12.782761Z"/>
+<entry
+   committed-rev="1"
+   name="jide-action.jar"
+   text-time="2007-09-25T15:36:23.063748Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="82ce1c2980a26e9fc0d62fd9b2aa3602"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:12.814010Z"/>
+<entry
+   committed-rev="2367"
+   name="commons-httpclient-3.1.jar"
+   text-time="2008-12-04T18:17:39.536730Z"
+   committed-date="2008-04-15T18:57:20.230903Z"
+   checksum="8ad8c9229ef2d59ab9f59f7050e846a5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:24.471338Z"/>
+<entry
+   committed-rev="1"
+   name="jide-dock.jar"
+   text-time="2007-09-25T15:36:23.079373Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="b612586d7ee1436f1516f3c791950b43"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:12.845260Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="jide-dialogs.jar"
+   text-time="2007-09-25T15:36:23.094997Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="e333c3d2b520b837b831019fb3aedce5"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.017002Z"/>
+<entry
+   committed-rev="2367"
+   name="servlet-api.jar"
+   text-time="2008-12-04T18:17:39.552358Z"
+   committed-date="2008-04-15T18:57:20.230903Z"
+   checksum="9b263c4ede9f88964f7076063eea4515"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.018510Z"/>
+<entry
+   committed-rev="1"
+   name="jide-components.jar"
+   text-time="2007-09-25T15:36:23.110622Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="02cf29b35e6aeb115bfa5051e42a7c68"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.048251Z"/>
+<entry
+   committed-rev="2397"
+   name="jcat-main.ico"
+   text-time="2008-12-04T18:17:39.567986Z"
+   committed-date="2008-05-09T20:46:30.645569Z"
+   checksum="58d66555b0d5181862c3bde509ab4054"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.034138Z"/>
+<entry
+   committed-rev="2068"
+   name="jfreechart-1.0.3x.jar"
+   text-time="2007-09-25T15:36:23.157496Z"
+   committed-date="2007-05-25T15:46:53.366618Z"
+   checksum="43d6e8c859ecefcd349a47188fcd2897"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.329494Z"/>
+<entry
+   committed-rev="2435"
+   name="jhbasic.jar"
+   text-time="2008-12-04T18:17:39.614870Z"
+   committed-date="2008-05-19T14:07:56.327102Z"
+   checksum="6d8eb737ee2e14a5db2c16f34d33ecbb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.206046Z"/>
+<entry
+   committed-rev="1846"
+   name="jcommon-1.0.8.jar"
+   text-time="2007-09-25T15:36:23.251243Z"
+   committed-date="2007-01-12T15:47:14.622964Z"
+   checksum="9a7debab988af4027d4bb8ffa45da61d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.704485Z"/>
+<entry
+   committed-rev="2070"
+   name="jini-ext-2.0_1.jar"
+   text-time="2007-09-25T15:36:23.235619Z"
+   committed-date="2007-06-12T20:09:31.584607Z"
+   checksum="e56f89e794a0e505c6cfb9bcf94c9827"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.626362Z"/>
+<entry
+   committed-rev="784"
+   name="jwbchart.jar"
+   text-time="2007-09-25T15:36:23.204369Z"
+   committed-date="2005-11-17T18:55:24.548525Z"
+   checksum="e799898bb5ee274eefeadd003241d54b"
+   last-author="galimem"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.438866Z"/>
+<entry
+   name="help"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="dom4j-full.jar"
+   text-time="2007-09-25T15:36:23.266868Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="8224fc87c8869a21c69a12cef764093e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:18.813857Z"/>
+<entry
+   committed-rev="1"
+   name="itext-1.02b.jar"
+   text-time="2007-09-25T15:36:23.298117Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="fa434e705a0385bbaec4d55c45a8606b"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:20.970052Z"/>
+<entry
+   name="properties"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="SiamToCatStyleSheet_v0_6.xsl"
+   text-time="2007-09-25T15:36:23.329366Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="921e5cc1115f88a2a08bcc33b8b6e443"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.141922Z"/>
+<entry
+   committed-rev="372"
+   name="jcat-doc.ico"
+   text-time="2007-09-25T15:36:23.344991Z"
+   committed-date="2005-08-10T15:48:13.143046Z"
+   checksum="7bacfdde821b89a79312809d4852c43c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.173171Z"/>
+<entry
+   committed-rev="544"
+   name="SiamToCatStyleSheet_v0_7.xsl"
+   text-time="2007-09-25T15:36:23.360615Z"
+   committed-date="2005-08-26T20:04:13.516207Z"
+   checksum="086f51457410ef858c22b707916d1e8a"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.188796Z"/>
+<entry
+   committed-rev="1"
+   name="jug.jar"
+   text-time="2007-09-25T15:36:23.391865Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="462d553c2e16d5d6cab8e3dfb4e5b87d"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.220045Z"/>
+<entry
+   committed-rev="2367"
+   name="commons-codec-1.3.jar"
+   text-time="2008-12-04T18:17:39.646126Z"
+   committed-date="2008-04-15T18:57:20.230903Z"
+   checksum="8e149c1053741c03736a52df83974dcc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.442770Z"/>
+<entry
+   committed-rev="1"
+   name="mysql-connector-java-3.1.8-bin.jar"
+   text-time="2007-09-25T15:36:23.407489Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="33814f1f511089342d0ebab685c873a8"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.329417Z"/>
+<entry
+   committed-rev="1878"
+   name="poi-2.5.1.jar"
+   text-time="2007-09-25T15:36:23.438738Z"
+   committed-date="2007-01-12T22:05:53.482555Z"
+   checksum="e6fa038dfe2602a14437f308764e5b2e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.470039Z"/>
+<entry
+   committed-rev="396"
+   name="jcat.png"
+   text-time="2007-09-25T15:36:23.454363Z"
+   committed-date="2005-08-11T20:16:20.469328Z"
+   checksum="732524a5c3a9dfcc660a5c4c26f93f1e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.532537Z"/>
+<entry
+   committed-rev="2397"
+   name="itext-2.1.0.jar"
+   text-time="2008-12-04T18:17:39.708638Z"
+   committed-date="2008-05-09T20:46:30.645569Z"
+   checksum="6b52816a4f7dab86d8bf36c3ade1da19"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.770958Z"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   committed-rev="2367"
+   name="commons-logging-1.1.1.jar"
+   text-time="2008-12-04T18:17:39.739894Z"
+   committed-date="2008-04-15T18:57:20.230903Z"
+   checksum="e2c390fe739b2550a218262b28f290ce"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.958494Z"/>
+<entry
+   committed-rev="2070"
+   name="jini-core-2.0_1.jar"
+   text-time="2007-09-25T15:36:23.454363Z"
+   committed-date="2007-06-12T20:09:31.584607Z"
+   checksum="428277abf91b61d6a709c736d572226e"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.688758Z"/>
+<entry
+   committed-rev="699"
+   name="jazzy.zip"
+   text-time="2007-09-25T15:36:23.485612Z"
+   committed-date="2005-10-17T17:40:35.982088Z"
+   checksum="e591e0a2878c351723850dc4c8a797b2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.751256Z"/>
+<entry
+   name="wizard_docs"
+   kind="dir"/>
+<entry
+   committed-rev="1448"
+   name="ClusterComputer.jar"
+   text-time="2007-09-25T15:36:23.516861Z"
+   committed-date="2006-08-17T18:15:00.535234Z"
+   checksum="d93b63102548a607d400338f71e6f8ac"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.813754Z"/>
+<entry
+   committed-rev="1"
+   name="jide-common.jar"
+   text-time="2007-09-25T15:36:23.532486Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="68c2db4dcf6e678545d500ec52650128"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.954376Z"/>
+<entry
+   committed-rev="2397"
+   name="JWhiteBoard.jar"
+   text-time="2008-12-04T18:17:39.755522Z"
+   committed-date="2008-05-09T20:46:30.645569Z"
+   checksum="57cae311a83184dca141766024ec04a0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:39.411706Z"/>
+</wc-entries>

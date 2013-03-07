@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2491"
+   name=""
+   committed-date="2008-06-10T15:27:35.168132Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/control"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1998"
+   name="LibProcessArg.java"
+   text-time="2007-09-25T15:35:59.548725Z"
+   committed-date="2007-03-06T21:16:40.526026Z"
+   checksum="97f34a3ed50d83bf73045112432f9279"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:58.736246Z"/>
+<entry
+   committed-rev="2491"
+   name="Control.java"
+   text-time="2008-12-04T18:17:06.077182Z"
+   committed-date="2008-06-10T15:27:35.168132Z"
+   checksum="8281eb4d0c180d8bed1dbf666c7df356"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.467690Z"/>
+<entry
+   name="collaboration"
+   kind="dir"/>
+<entry
+   committed-rev="2006"
+   name="LibArgument.java"
+   text-time="2007-09-25T15:35:59.595599Z"
+   committed-date="2007-03-21T20:46:13.462376Z"
+   checksum="80c9f96a40eb13ed565acba97ab7984b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.470602Z"/>
+<entry
+   committed-rev="2200"
+   name="RemSignalArg.java"
+   text-time="2008-12-04T18:17:06.108438Z"
+   committed-date="2007-11-06T15:38:57.139615Z"
+   checksum="fed20ff1c36fb5b46256cc1ff5a5a95e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.030298Z"/>
+<entry
+   committed-rev="2491"
+   name="PlanArgument.java"
+   text-time="2008-12-04T18:17:06.124066Z"
+   committed-date="2008-06-10T15:27:35.168132Z"
+   checksum="dc61f7336be5ee23ffe87252e3a8b17f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.061554Z"/>
+</wc-entries>

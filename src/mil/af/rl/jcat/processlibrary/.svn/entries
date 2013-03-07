@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2361"
+   name=""
+   committed-date="2008-04-10T18:41:07.430062Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/processlibrary"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2354"
+   name="SignalType.java"
+   text-time="2008-12-04T18:17:07.343050Z"
+   committed-date="2008-03-24T17:03:06.004001Z"
+   checksum="e7cbc58ebe82687a7941a09ed76a4639"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.124258Z"/>
+<entry
+   committed-rev="2361"
+   name="Library.java"
+   text-time="2008-12-04T18:17:07.358678Z"
+   committed-date="2008-04-10T18:41:07.430062Z"
+   checksum="16775ff9035db2ee4c61f32f14075589"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.139886Z"/>
+<entry
+   committed-rev="1564"
+   name="LibraryInterface.java"
+   text-time="2007-09-25T15:36:02.064286Z"
+   committed-date="2006-09-13T18:23:19.062458Z"
+   checksum="079df7298c52b4efc5a57e55b4ec238b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.579923Z"/>
+<entry
+   name="signaldata"
+   kind="dir"/>
+<entry
+   committed-rev="2218"
+   name="Signal.java"
+   text-time="2008-12-04T18:17:07.389934Z"
+   committed-date="2007-11-06T18:35:12.609097Z"
+   checksum="fa859c2cbb11e7c962a64ca3d8468b5f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.296166Z"/>
+<entry
+   committed-rev="2298"
+   name="Process.java"
+   text-time="2008-12-04T18:17:07.405562Z"
+   committed-date="2007-12-17T18:56:01.124122Z"
+   checksum="0d45b3ca0b02c92d0367d0b6aa6ded3c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.327422Z"/>
+</wc-entries>

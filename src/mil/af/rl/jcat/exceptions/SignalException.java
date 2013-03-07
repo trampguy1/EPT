@@ -1,0 +1,1 @@
+/* * Created on Jun 20, 2004 * */package mil.af.rl.jcat.exceptions;/** *  * @author John Lemmer *  */public class SignalException extends Exception{	private static final long serialVersionUID = 1L;	public SignalException(String message)    {        super(message);    }}

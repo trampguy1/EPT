@@ -1,0 +1,34 @@
+package mil.af.rl.jcat.MMC;
+
+public class mmc {
+	double down = 0.0;
+	double up = 0.0;
+	double cv = 0.0;
+	int nodeIndex = 0;
+	int eventIndex = 0;
+
+	mmc(){
+		}
+	mmc(int nodeIndex){
+		this.nodeIndex = nodeIndex;
+	}
+
+	mmc andCombine(mmc lowj, mmc highj){
+		up = java.lang.Math.min(highj.up, lowj.down);
+		down = java.lang.Math.min(highj.down,  lowj.up);
+		cv = highj.cv;
+		return this;
+	}
+	mmc orCombine(mmc lowj, mmc highj){
+		up = highj.up + lowj.up;
+		down = highj.down + lowj.down;
+		cv = highj.cv + lowj.cv;
+		return this;
+	}
+	mmc baseValue(int j, double jpd[]){
+		down = jpd[j];
+		up = 1.0 - jpd[j];
+		cv = jpd[j];
+		return this;
+	}
+}

@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="FundsLoopCompatible" guid="56a6df95-2257-4009-8063-2969a95ead4b" version="1.1.0">
+  <documentation>
+    <description></description>
+  </documentation>
+  <Graph>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fd7:128.132.53.158" type="mechanism">
+      <itemguid>8984942e-52fc-4a3e-9049-451c57be7e79</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe4:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe5:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>743 158 690 170 637 182</controlPoints>
+      <text>Peacekeeping Activities</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe7:128.132.53.158" type="event">
+      <itemguid>eef7e1ba-bdc8-4a8c-b673-e435f7096791</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>320.0</xpos>
+      <ypos>20.0</ypos>
+      <text>Popular Support:Insurgency</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe4:128.132.53.158" type="event">
+      <itemguid>db2b309d-6d34-4348-a7b0-9e2370786e11</itemguid>
+      <rcolor>111</rcolor>
+      <gcolor>210</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>740.0</xpos>
+      <ypos>100.0</ypos>
+      <text>CF Activities:Coaltion/Gov't Forces</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fd8:128.132.53.158" type="mechanism">
+      <itemguid>327e99e4-18c4-4e72-a874-e6da152ddd8a</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe1:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe7:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>521 441 460 260 399 79</controlPoints>
+      <text>Angers supporters</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fdd:128.132.53.158" type="mechanism">
+      <itemguid>56584c38-4539-46b9-a8f2-90f0726d7288</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe2:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe1:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>299 462 380 465 461 468</controlPoints>
+      <text>Get funds by any means</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe0:128.132.53.158" type="mechanism">
+      <itemguid>bae59446-b71d-4452-8b0c-83276ea36b18</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe7:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe6:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>358 79 300 130 242 181</controlPoints>
+      <text>Goodwill</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fd5:128.132.53.158" type="mechanism">
+      <itemguid>985697af-b0d5-4508-b659-b35b621ce449</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe2:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>334 378 307 400 279 422</controlPoints>
+      <text>Well off</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fd6:128.132.53.158" type="mechanism">
+      <itemguid>4cf0926a-4fdd-4d7d-92db-9787eb1a668b</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe4:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe1:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>786 159 670 300 554 441</controlPoints>
+      <text>Police Activities</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe5:128.132.53.158" type="event">
+      <itemguid>5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>0</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>500.0</xpos>
+      <ypos>180.0</ypos>
+      <text>Successful Operations:Insurgency</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fdf:128.132.53.158" type="mechanism">
+      <itemguid>9cbc7b67-5efc-4fd0-932b-f1f455241919</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe6:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>243 239 290 280 337 321</controlPoints>
+      <text>Legal sources of funds</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fdb:128.132.53.158" type="mechanism">
+      <itemguid>b4eefd95-5b2e-4bfd-a2c0-58eb17111bed</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe5:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>arced</type>
+      <controlPoints>437 322 478 311 520 300 537 269 554 239</controlPoints>
+      <text>Better funding raises odds of success</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe2:128.132.53.158" type="event">
+      <itemguid>2f8fcadc-3149-4283-a48e-8134ae792df9</itemguid>
+      <rcolor>175</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>171</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>160.0</xpos>
+      <ypos>420.0</ypos>
+      <text>Pressure to Raise Resources:Insurgents</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fda:128.132.53.158" type="mechanism">
+      <itemguid>df23a4c5-09f7-4e70-8e9d-9eb99df0b8be</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe5:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe7:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>538 181 480 130 422 79</controlPoints>
+      <text>Positive Image</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158" type="event">
+      <itemguid>69756703-db80-46da-8cc3-c13b64337cd5</itemguid>
+      <rcolor>175</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>171</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>300.0</xpos>
+      <ypos>320.0</ypos>
+      <text>Sufficient Resources:Insurgency Funds</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fdc:128.132.53.158" type="mechanism">
+      <itemguid>8129b0a6-cfdb-4976-8bc3-612eca0260ff</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe1:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>492 442 450 410 408 378</controlPoints>
+      <text>Illegal sources of funds</text>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe1:128.132.53.158" type="event">
+      <itemguid>fed6d267-4a67-4a22-959a-c180a344a011</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>0</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>460.0</xpos>
+      <ypos>440.0</ypos>
+      <text>Criminal Activities:Insurgents</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fe6:128.132.53.158" type="event">
+      <itemguid>0c61ff28-1ec3-4f1a-bd99-f736130edfb0</itemguid>
+      <rcolor>175</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>171</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>140.0</xpos>
+      <ypos>180.0</ypos>
+      <text>Donations:$$ Support</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="4a9e34d0:114ef6e21d0:-7fd9:128.132.53.158" type="mechanism">
+      <itemguid>8f6969d3-fdc4-4213-be0b-3bd83659b998</itemguid>
+      <startkey>4a9e34d0:114ef6e21d0:-7fe5:128.132.53.158</startkey>
+      <endkey>4a9e34d0:114ef6e21d0:-7fe3:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>arced</type>
+      <controlPoints>503 238 477 246 450 255 422 288 394 321</controlPoints>
+      <text>Uses up funds</text>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Peacekeeping Activities" label="signal" guid="8984942e-52fc-4a3e-9049-451c57be7e79" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+      <ToEvent>5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4</ToEvent>
+      <FromEvent>db2b309d-6d34-4348-a7b0-9e2370786e11</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Popular Support" label="Insurgency" guid="eef7e1ba-bdc8-4a8c-b673-e435f7096791" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">0.5</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="df23a4c5-09f7-4e70-8e9d-9eb99df0b8be"/>
+      </Causes>
+      <Effects>
+        <Mech guid="bae59446-b71d-4452-8b0c-83276ea36b18"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="327e99e4-18c4-4e72-a874-e6da152ddd8a"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.75f</Continuation>
+      <PGuid>cdca48aa-7e91-45db-a1e5-0a529899342b</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="CF Activities" label="Coaltion/Gov&apos;t Forces" guid="db2b309d-6d34-4348-a7b0-9e2370786e11" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">0.8</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="8984942e-52fc-4a3e-9049-451c57be7e79"/>
+        <Mech guid="4cf0926a-4fdd-4d7d-92db-9787eb1a668b"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+      <PGuid>f2f986e0-50ed-4826-8d38-d90698eb39ce</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Angers supporters" label="signal" guid="327e99e4-18c4-4e72-a874-e6da152ddd8a" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+      <ToEvent>eef7e1ba-bdc8-4a8c-b673-e435f7096791</ToEvent>
+      <FromEvent>fed6d267-4a67-4a22-959a-c180a344a011</FromEvent>
+      <ClosesLoop>true</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Get funds by any means" label="signal" guid="56584c38-4539-46b9-a8f2-90f0726d7288" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+      <ToEvent>fed6d267-4a67-4a22-959a-c180a344a011</ToEvent>
+      <FromEvent>2f8fcadc-3149-4283-a48e-8134ae792df9</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>1</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Goodwill" label="signal" guid="bae59446-b71d-4452-8b0c-83276ea36b18" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+      <ToEvent>0c61ff28-1ec3-4f1a-bd99-f736130edfb0</ToEvent>
+      <FromEvent>eef7e1ba-bdc8-4a8c-b673-e435f7096791</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Well off" label="signal" guid="985697af-b0d5-4508-b659-b35b621ce449" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+      <ToEvent>2f8fcadc-3149-4283-a48e-8134ae792df9</ToEvent>
+      <FromEvent>69756703-db80-46da-8cc3-c13b64337cd5</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Police Activities" label="signal" guid="4cf0926a-4fdd-4d7d-92db-9787eb1a668b" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+      <ToEvent>fed6d267-4a67-4a22-959a-c180a344a011</ToEvent>
+      <FromEvent>db2b309d-6d34-4348-a7b0-9e2370786e11</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Successful Operations" label="Insurgency" guid="5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.3</DefLeak>
+      <Causes>
+        <Mech guid="b4eefd95-5b2e-4bfd-a2c0-58eb17111bed"/>
+      </Causes>
+      <Effects>
+        <Mech guid="df23a4c5-09f7-4e70-8e9d-9eb99df0b8be"/>
+        <Mech guid="8f6969d3-fdc4-4213-be0b-3bd83659b998"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="8984942e-52fc-4a3e-9049-451c57be7e79"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>945557d3-25a0-45bf-b21c-ab7116e92bc0</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Legal sources of funds" label="signal" guid="9cbc7b67-5efc-4fd0-932b-f1f455241919" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+      <ToEvent>69756703-db80-46da-8cc3-c13b64337cd5</ToEvent>
+      <FromEvent>0c61ff28-1ec3-4f1a-bd99-f736130edfb0</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>1</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Better funding raises odds of success" label="signal" guid="b4eefd95-5b2e-4bfd-a2c0-58eb17111bed" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+      <ToEvent>5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4</ToEvent>
+      <FromEvent>69756703-db80-46da-8cc3-c13b64337cd5</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>2</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Pressure to Raise Resources" label="Insurgents" guid="2f8fcadc-3149-4283-a48e-8134ae792df9" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="985697af-b0d5-4508-b659-b35b621ce449"/>
+      </Causes>
+      <Effects>
+        <Mech guid="56584c38-4539-46b9-a8f2-90f0726d7288"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>8b1e6790-7c14-4af8-b372-c442d5858483</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Positive Image" label="signal" guid="df23a4c5-09f7-4e70-8e9d-9eb99df0b8be" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+      <ToEvent>eef7e1ba-bdc8-4a8c-b673-e435f7096791</ToEvent>
+      <FromEvent>5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4</FromEvent>
+      <ClosesLoop>true</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>1</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Sufficient Resources" label="Insurgency Funds" guid="69756703-db80-46da-8cc3-c13b64337cd5" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">0.9</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9cbc7b67-5efc-4fd0-932b-f1f455241919"/>
+        <Mech guid="8129b0a6-cfdb-4976-8bc3-612eca0260ff"/>
+      </Causes>
+      <Effects>
+        <Mech guid="b4eefd95-5b2e-4bfd-a2c0-58eb17111bed"/>
+        <Mech guid="985697af-b0d5-4508-b659-b35b621ce449"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="8f6969d3-fdc4-4213-be0b-3bd83659b998"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.25f</Continuation>
+      <PGuid>010b7f93-bc24-4cbf-bab8-3af2881800a9</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Illegal sources of funds" label="signal" guid="8129b0a6-cfdb-4976-8bc3-612eca0260ff" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+      <ToEvent>69756703-db80-46da-8cc3-c13b64337cd5</ToEvent>
+      <FromEvent>fed6d267-4a67-4a22-959a-c180a344a011</FromEvent>
+      <ClosesLoop>true</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>1</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Criminal Activities" label="Insurgents" guid="fed6d267-4a67-4a22-959a-c180a344a011" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="56584c38-4539-46b9-a8f2-90f0726d7288"/>
+      </Causes>
+      <Effects>
+        <Mech guid="8129b0a6-cfdb-4976-8bc3-612eca0260ff"/>
+        <Mech guid="327e99e4-18c4-4e72-a874-e6da152ddd8a"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="4cf0926a-4fdd-4d7d-92db-9787eb1a668b"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>c7858596-cc0e-4d25-bf2b-ef12d582b027</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Donations" label="$$ Support" guid="0c61ff28-1ec3-4f1a-bd99-f736130edfb0" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="bae59446-b71d-4452-8b0c-83276ea36b18"/>
+      </Causes>
+      <Effects>
+        <Mech guid="9cbc7b67-5efc-4fd0-932b-f1f455241919"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>af206ec8-b26e-4a4e-8ecc-e461ac617b39</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Uses up funds" label="signal" guid="8f6969d3-fdc4-4213-be0b-3bd83659b998" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+      <ToEvent>69756703-db80-46da-8cc3-c13b64337cd5</ToEvent>
+      <FromEvent>5fae3cce-1f9f-4664-a6e3-bb44e5aab0a4</FromEvent>
+      <ClosesLoop>true</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>1</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+  </Logic>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="cdca48aa-7e91-45db-a1e5-0a529899342b" name="Popular Support">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="f2f986e0-50ed-4826-8d38-d90698eb39ce" name="CF Activities">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+              <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+                <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="945557d3-25a0-45bf-b21c-ab7116e92bc0" name="Successful Operations">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+              <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+                <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.65" group-name="">
+                  <SignalSet>
+                    <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="8b1e6790-7c14-4af8-b372-c442d5858483" name="Pressure to Raise Resources">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet>
+                <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+              </SignalSet>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.8" group-name="">
+                  <SignalSet>
+                    <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="010b7f93-bc24-4cbf-bab8-3af2881800a9" name="Sufficient Resources">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+              <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+                <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.85" group-name="">
+                  <SignalSet>
+                    <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.95" group-name="both">
+                  <SignalSet>
+                    <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+                    <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.8" group-name="">
+                  <SignalSet>
+                    <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+              <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+                <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="c7858596-cc0e-4d25-bf2b-ef12d582b027" name="Criminal Activities">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.85" group-name="">
+                  <SignalSet>
+                    <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+              <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+                <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.6" group-name="">
+                  <SignalSet>
+                    <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="af206ec8-b26e-4a4e-8ecc-e461ac617b39" name="Donations">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.8" group-name="">
+                  <SignalSet>
+                    <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="734b6380-c305-40cf-a011-d6b7a18ad01c" name="Uses up funds"/>
+      <Signal guid="99872e34-6d1e-4c59-8517-0e2ded29754b" name="Positive Image"/>
+      <Signal guid="e3b696a2-b9b7-433e-afff-424120561ad1" name="Police Activities"/>
+      <Signal guid="4909197a-eeeb-4fe0-b8b4-846ec552b238" name="Legal sources of funds"/>
+      <Signal guid="a898eca0-a5cf-470b-9237-f7cd93549308" name="Better funding raises odds of success"/>
+      <Signal guid="7820aee6-6a25-4729-96d3-b700f1395fb8" name="Illegal sources of funds"/>
+      <Signal guid="811155be-8bc5-4ff0-857c-481db6c1304c" name="Goodwill"/>
+      <Signal guid="1f332906-5e55-407a-83b3-e6bc430fd40f" name="Peacekeeping Activities"/>
+      <Signal guid="8d4c20df-17e9-4ced-9f75-ce073a632f78" name="Get funds by any means"/>
+      <Signal guid="9e7a24af-ef03-4eb7-953f-7269c2c9266e" name="Well off"/>
+      <Signal guid="aece5557-57df-4950-a63a-435f46849f66" name="Angers supporters"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name=""/>
+  <SamplingOptions>
+    <Option PlanLength="30"/>
+  </SamplingOptions>
+</Plan>

@@ -1,0 +1,2528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="Baghdad.jcat" guid="ba9c3fa9-a99b-4b64-a542-05415e2a6dbf" version="1.1.0" default_probability_set="standard">
+  <documentation>
+    <description>This model was built by JCAT Team member Ed Verenich modeling reduction of insurgent activity in the Adel region of Baghdad.
+The model incororates a combination of slow and rapid deployment operations for comparison.</description>
+  </documentation>
+  <Graph>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd4:127.0.0.1" type="mechanism">
+      <itemguid>bd31a794-b18d-4428-bd82-e10e42480917</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff3:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>177 225 219 213 262 200 </controlPoints>
+      <text>massive troop presence</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fdf:127.0.0.1" type="mechanism">
+      <itemguid>aa840a0e-503d-4175-a6fb-c295f8abbf6b</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fe9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>792 300 792 340 792 380 </controlPoints>
+      <text>provide resources</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe3:127.0.0.1" type="mechanism">
+      <itemguid>b6828216-e998-4431-9aff-eb2dbf85e6fe</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff2:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fe9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>657 464 691 451 725 438 </controlPoints>
+      <text>provide resources</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff7:127.0.0.1" type="event">
+      <itemguid>d9436ec6-59f6-4cb8-baa4-66c73cb3a037</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>138</width>
+      <xpos>523.0</xpos>
+      <ypos>139.0</ypos>
+      <text>Damaged Curltural Sites
+
+Baghdad</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd6:127.0.0.1" type="mechanism">
+      <itemguid>244bf304-66e6-4cda-9b91-439ec652b8d9</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff5:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>631 382 691 340 751 298 </controlPoints>
+      <text>lack of basic utilities</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff2:127.0.0.1" type="event">
+      <itemguid>e1d8974b-e003-4a60-a188-d89c0a592090</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>139</width>
+      <xpos>521.0</xpos>
+      <ypos>462.0</ypos>
+      <text>Outside Support
+
+Insurgent Groups</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fed:127.0.0.1" type="event">
+      <itemguid>1470b38b-a7d1-48bf-a890-9844f4b8ea92</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>259.0</xpos>
+      <ypos>142.0</ypos>
+      <text>Rapid Deployment
+
+USF in Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fcc:127.0.0.1" type="mechanism">
+      <itemguid>b8984ac4-6089-4b44-a0d6-56c61ef7eff2</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>356 380 462 252 568 124 </controlPoints>
+      <text>deny resources</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe5:127.0.0.1" type="mechanism">
+      <itemguid>8ff71b57-df04-49f1-97c9-656a196dc8e3</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff1:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>179 169 219 170 260 171 </controlPoints>
+      <text>prepare area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe2:127.0.0.1" type="mechanism">
+      <itemguid>fafda276-6e93-40be-9272-284becfc2c4b</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fef:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>396 200 460 211 524 222 </controlPoints>
+      <text>disregard for local area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd9:127.0.0.1" type="mechanism">
+      <itemguid>9f42d4b8-42c0-4013-9468-7fd899b00348</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff7:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>658 197 692 219 726 242 </controlPoints>
+      <text>increased fundamentalist influence</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff6:127.0.0.1" type="event">
+      <itemguid>fbdb8f2e-2262-48e6-9930-a34d4909d819</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>67</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>140</width>
+      <xpos>262.0</xpos>
+      <ypos>379.0</ypos>
+      <text>Slower Deployment
+
+US Forces in Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe8:127.0.0.1" type="mechanism">
+      <itemguid>1b36dc65-47e5-4bed-a023-539c83d1cf7d</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>396 144 460 134 525 123 </controlPoints>
+      <text>deny resources</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fcb:127.0.0.1" type="mechanism">
+      <itemguid>57f6031a-c22b-4dc0-b4f0-b476fb4f290b</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>356 380 462 252 568 124 </controlPoints>
+      <text>deny planning ability or surprise</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fda:127.0.0.1" type="mechanism">
+      <itemguid>0df5d396-b056-410d-a03a-923129ad06b7</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff9:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>657 305 691 302 726 298 </controlPoints>
+      <text>increased unemployment</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff8:127.0.0.1" type="event">
+      <itemguid>d71f3179-a4c6-46bd-bfbb-6a5286f58479</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>139</width>
+      <xpos>723.0</xpos>
+      <ypos>240.0</ypos>
+      <text>Population Hostile Towards Occupation
+
+Baghdad Population</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd1:127.0.0.1" type="mechanism">
+      <itemguid>4361063a-5370-49f1-b09d-13156cd2db56</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fef:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>658 256 691 260 724 264 </controlPoints>
+      <text>increase in displaced population</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe9:127.0.0.1" type="event">
+      <itemguid>2c7f787d-0754-4026-bdea-1f37d60f555c</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>141</width>
+      <xpos>722.0</xpos>
+      <ypos>380.0</ypos>
+      <text>Insurgents Regain Capabilities
+
+Operations in Baghdad</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe6:127.0.0.1" type="mechanism">
+      <itemguid>9ef6c545-5fbf-4b26-8d79-04db53efa212</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>662 95 832 94 1002 92 </controlPoints>
+      <text>cripple insurgent operational abilities</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff4:127.0.0.1" type="event">
+      <itemguid>19640611-3b59-40f7-b62e-0190ec07b9b7</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>158</width>
+      <xpos>22.0</xpos>
+      <ypos>302.0</ypos>
+      <text>Area RECON
+
+Adel Area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fca:127.0.0.1" type="mechanism">
+      <itemguid>8cb89cf1-ef84-48c4-87dd-f1d19c3db8b0</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>356 380 462 252 568 124 </controlPoints>
+      <text>deny operational space</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ffa:127.0.0.1" type="event">
+      <itemguid>3b9ced07-1b90-48b0-b3bc-72bfa3b01f41</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>158</width>
+      <xpos>22.0</xpos>
+      <ypos>381.0</ypos>
+      <text>PSYOPS
+
+Adel Population</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fce:127.0.0.1" type="mechanism">
+      <itemguid>30bdaab8-c2de-434d-8614-39a5acbe1836</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>399 381 562 340 726 298 </controlPoints>
+      <text>avoid collatoral damage</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff9:127.0.0.1" type="event">
+      <itemguid>2d62baf1-9347-416a-a602-95e886554539</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>57</height>
+      <width>140</width>
+      <xpos>520.0</xpos>
+      <ypos>303.0</ypos>
+      <text>Damaged Economic Infrastructure
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fcd:127.0.0.1" type="mechanism">
+      <itemguid>cc27ad97-1a13-46bd-b232-138b55ec47e2</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>396 144 460 134 525 123 </controlPoints>
+      <text>deny operational space</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ffb:127.0.0.1" type="event">
+      <itemguid>b81918bd-a9bf-41b4-8d08-9c470e76c4de</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>141</width>
+      <xpos>522.0</xpos>
+      <ypos>65.0</ypos>
+      <text>Limited Military Response
+
+Insurgents</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe0:127.0.0.1" type="mechanism">
+      <itemguid>4b957381-15b8-43a5-b084-8727e3515ce8</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fe9:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff0:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>818 381 936 251 1055 121 </controlPoints>
+      <text>increased insurgent activity</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff5:127.0.0.1" type="event">
+      <itemguid>e1f3f06b-6c46-4c3d-af64-6e1d16805678</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>63</height>
+      <width>141</width>
+      <xpos>519.0</xpos>
+      <ypos>380.0</ypos>
+      <text>Damaged Utilities
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd8:127.0.0.1" type="mechanism">
+      <itemguid>af817aaf-6ea3-4091-b16d-efde81ff44d5</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fee:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>177 464 221 451 265 437 </controlPoints>
+      <text>small scale targeted ops</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fef:127.0.0.1" type="event">
+      <itemguid>4a10a60c-ea3a-4207-9b22-1ee70abe8569</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>138</width>
+      <xpos>521.0</xpos>
+      <ypos>220.0</ypos>
+      <text>Damaged Housing
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fdd:127.0.0.1" type="mechanism">
+      <itemguid>9618380b-c581-4c01-9c28-28dd05ea380b</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>396 144 460 134 525 123 </controlPoints>
+      <text>deny planning ability or surprise</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd7:127.0.0.1" type="mechanism">
+      <itemguid>cd4e262a-b866-4632-aa61-d79d6f5fc58f</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff2:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>399 437 461 450 524 464 </controlPoints>
+      <text>limitoutside support</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fee:127.0.0.1" type="event">
+      <itemguid>9c342fc7-66ad-4826-8b1c-caca2758023f</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>157</width>
+      <xpos>23.0</xpos>
+      <ypos>462.0</ypos>
+      <text>SF Deployement
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe7:127.0.0.1" type="mechanism">
+      <itemguid>78f7c7f6-abd1-49ee-91e9-d887bf29834c</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff7:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>398 172 461 171 524 169 </controlPoints>
+      <text>disregard for local area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff0:127.0.0.1" type="event">
+      <itemguid>316fbdb2-9379-4126-b368-a34a4d0a6605</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>90</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>1001.0</xpos>
+      <ypos>62.0</ypos>
+      <text>Reduce Insurgent Activity
+
+Adel Region in Baghdad</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff3:127.0.0.1" type="event">
+      <itemguid>8d03acd8-bf73-4a75-bfa0-961b5b419960</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>159</width>
+      <xpos>21.0</xpos>
+      <ypos>223.0</ypos>
+      <text>Concentrated Infantry Ops
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7ff1:127.0.0.1" type="event">
+      <itemguid>a0d40fb4-aaf6-4e22-a621-3de8a8c55f91</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>159</width>
+      <xpos>21.0</xpos>
+      <ypos>138.0</ypos>
+      <text>Air Strikes
+
+Insurgent Bases</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fdc:127.0.0.1" type="mechanism">
+      <itemguid>101b3545-797b-4aa3-b911-63014b145096</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fe9:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>401 409 562 409 723 410 </controlPoints>
+      <text>target specific insurgent capabilities</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd0:127.0.0.1" type="mechanism">
+      <itemguid>cca1bf4e-e23a-4764-ac53-43d5ca2d7a49</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff4:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>177 360 221 370 265 381 </controlPoints>
+      <text>obtain accurate target info</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fcf:127.0.0.1" type="mechanism">
+      <itemguid>0be704ce-460b-4989-a5e0-504422aa8ed8</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fec:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>140 542 215 490 291 437 </controlPoints>
+      <text>avoid sites sensitive to population</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fea:127.0.0.1" type="event">
+      <itemguid>9927fb4d-dd11-44b8-83d2-59eb32fbbe7f</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>90</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>160</width>
+      <xpos>1001.0</xpos>
+      <ypos>242.0</ypos>
+      <text>Reduce Combat Casualties
+
+US Forces</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd5:127.0.0.1" type="mechanism">
+      <itemguid>9d7f61da-5787-40ba-a9d8-38167eb8fca9</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff5:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>360 201 458 291 557 381 </controlPoints>
+      <text>disregard for local area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fde:127.0.0.1" type="mechanism">
+      <itemguid>904ffe10-e867-4742-8bfb-5e16a028b0bc</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff7:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>363 380 462 289 561 198 </controlPoints>
+      <text>avoid cultural sites</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe1:127.0.0.1" type="mechanism">
+      <itemguid>ac5e441b-589e-492c-8115-97d80d997d12</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>375 200 461 252 547 305 </controlPoints>
+      <text>disregard for local area</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fe4:127.0.0.1" type="mechanism">
+      <itemguid>5690dfc6-d707-4e0c-ad67-5cefa8e7bf60</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff0:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fea:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>1081 122 1081 182 1081 242 </controlPoints>
+      <text>reduction in effective attacks</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7feb:127.0.0.1" type="event">
+      <itemguid>b1f0bf10-b2c6-4eb3-9627-0a9d11a201b5</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>159</width>
+      <xpos>22.0</xpos>
+      <ypos>59.0</ypos>
+      <text>Heavy Armor Movement
+
+Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fdb:127.0.0.1" type="mechanism">
+      <itemguid>3ae75d46-cc42-457c-9fd7-31d54cbc1da8</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ff8:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fe9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>792 300 792 340 792 380 </controlPoints>
+      <text>increased recruitment</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd3:127.0.0.1" type="mechanism">
+      <itemguid>60ed5b4c-281c-4802-b58a-83978855db97</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7ffa:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>179 411 221 410 263 409 </controlPoints>
+      <text>prepare and inform local population</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fec:127.0.0.1" type="event">
+      <itemguid>2ad484c8-5c6e-4734-b0c5-9e32f7560391</itemguid>
+      <rcolor>177</rcolor>
+      <gcolor>177</gcolor>
+      <bcolor>177</bcolor>
+      <alpha>255</alpha>
+      <height>60</height>
+      <width>157</width>
+      <xpos>21.0</xpos>
+      <ypos>540.0</ypos>
+      <text>Targeted Route Planning
+
+Troops Movement in Adel</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-10c32c3f:109fa1dc311:-7fd2:127.0.0.1" type="mechanism">
+      <itemguid>c3363fec-597f-456a-b7d8-6f7c823d6f1e</itemguid>
+      <startkey>-10c32c3f:109fa1dc311:-7feb:127.0.0.1</startkey>
+      <endkey>-10c32c3f:109fa1dc311:-7fed:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>178 117 220 130 262 144 </controlPoints>
+      <text>fast troop movement</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="increased fundamentalist influence" label="" guid="9f42d4b8-42c0-4013-9468-7fd899b00348" type="mechanism">
+      <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+      <ToEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479 </ToEvent>
+      <FromEvent>d9436ec6-59f6-4cb8-baa4-66c73cb3a037</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="increased unemployment" label="" guid="0df5d396-b056-410d-a03a-923129ad06b7" type="mechanism">
+      <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+      <ToEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479 </ToEvent>
+      <FromEvent>2d62baf1-9347-416a-a602-95e886554539</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="avoid collatoral damage" label="" guid="30bdaab8-c2de-434d-8614-39a5acbe1836" type="mechanism">
+      <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+      <ToEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479 </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="small scale targeted ops" label="" guid="af817aaf-6ea3-4091-b16d-efde81ff44d5" type="mechanism">
+      <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+      <ToEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819 </ToEvent>
+      <FromEvent>9c342fc7-66ad-4826-8b1c-caca2758023f</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="target specific insurgent capabilities" label="" guid="101b3545-797b-4aa3-b911-63014b145096" type="mechanism">
+      <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+      <ToEvent>2c7f787d-0754-4026-bdea-1f37d60f555c </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Damaged Curltural Sites" label="Baghdad" guid="d9436ec6-59f6-4cb8-baa4-66c73cb3a037" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="78f7c7f6-abd1-49ee-91e9-d887bf29834c"/>
+      </Causes>
+      <Effects>
+        <Mech guid="9f42d4b8-42c0-4013-9468-7fd899b00348"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="904ffe10-e867-4742-8bfb-5e16a028b0bc"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>60</Persistence>
+      <Continuation>0.8f</Continuation>
+      <PGuid>8aeda125-ba5c-41b9-aa46-d3f8b8e0a079</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="deny planning ability or surprise" label="" guid="9618380b-c581-4c01-9c28-28dd05ea380b" type="mechanism">
+      <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Limited Military Response" label="Insurgents" guid="b81918bd-a9bf-41b4-8d08-9c470e76c4de" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="b8984ac4-6089-4b44-a0d6-56c61ef7eff2"/>
+        <Mech guid="1b36dc65-47e5-4bed-a023-539c83d1cf7d"/>
+        <Mech guid="57f6031a-c22b-4dc0-b4f0-b476fb4f290b"/>
+        <Mech guid="8cb89cf1-ef84-48c4-87dd-f1d19c3db8b0"/>
+        <Mech guid="cc27ad97-1a13-46bd-b232-138b55ec47e2"/>
+        <Mech guid="9618380b-c581-4c01-9c28-28dd05ea380b"/>
+      </Causes>
+      <Effects>
+        <Mech guid="9ef6c545-5fbf-4b26-8d79-04db53efa212"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.9f</Continuation>
+      <PGuid>14148656-ba7b-44d3-ab56-702fd8b9fc92</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Area RECON" label="Adel Area" guid="19640611-3b59-40f7-b62e-0190ec07b9b7" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="cca1bf4e-e23a-4764-ac53-43d5ca2d7a49"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>4</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>84be2310-6274-489e-9ea7-f1ba3aedd416</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="obtain accurate target info" label="" guid="cca1bf4e-e23a-4764-ac53-43d5ca2d7a49" type="mechanism">
+      <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+      <ToEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819 </ToEvent>
+      <FromEvent>19640611-3b59-40f7-b62e-0190ec07b9b7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Reduce Combat Casualties" label="US Forces" guid="9927fb4d-dd11-44b8-83d2-59eb32fbbe7f" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="5690dfc6-d707-4e0c-ad67-5cefa8e7bf60"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>be4a6918-6911-4f61-8a2d-4a231fb17fa3</PGuid>
+      <SchemeAttribute>Intent</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="provide resources" label="" guid="b6828216-e998-4431-9aff-eb2dbf85e6fe" type="mechanism">
+      <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+      <ToEvent>2c7f787d-0754-4026-bdea-1f37d60f555c </ToEvent>
+      <FromEvent>e1d8974b-e003-4a60-a188-d89c0a592090</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Population Hostile Towards Occupation" label="Baghdad Population" guid="d71f3179-a4c6-46bd-bfbb-6a5286f58479" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="244bf304-66e6-4cda-9b91-439ec652b8d9"/>
+        <Mech guid="9f42d4b8-42c0-4013-9468-7fd899b00348"/>
+        <Mech guid="0df5d396-b056-410d-a03a-923129ad06b7"/>
+        <Mech guid="4361063a-5370-49f1-b09d-13156cd2db56"/>
+      </Causes>
+      <Effects>
+        <Mech guid="aa840a0e-503d-4175-a6fb-c295f8abbf6b"/>
+        <Mech guid="3ae75d46-cc42-457c-9fd7-31d54cbc1da8"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="30bdaab8-c2de-434d-8614-39a5acbe1836"/>
+      </Inhibits>
+      <Delay>14</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>79868268-0399-42cf-8017-a30626fc76d3</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Insurgents Regain Capabilities" label="Operations in Baghdad" guid="2c7f787d-0754-4026-bdea-1f37d60f555c" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="aa840a0e-503d-4175-a6fb-c295f8abbf6b"/>
+        <Mech guid="b6828216-e998-4431-9aff-eb2dbf85e6fe"/>
+        <Mech guid="3ae75d46-cc42-457c-9fd7-31d54cbc1da8"/>
+      </Causes>
+      <Effects>
+        <Mech guid="4b957381-15b8-43a5-b084-8727e3515ce8"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="101b3545-797b-4aa3-b911-63014b145096"/>
+      </Inhibits>
+      <Delay>14</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.95f</Continuation>
+      <PGuid>43da0b73-6a3d-4262-b81a-d99423ce7ee9</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="increase in displaced population" label="" guid="4361063a-5370-49f1-b09d-13156cd2db56" type="mechanism">
+      <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+      <ToEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479 </ToEvent>
+      <FromEvent>4a10a60c-ea3a-4207-9b22-1ee70abe8569</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Damaged Utilities" label="Adel" guid="e1f3f06b-6c46-4c3d-af64-6e1d16805678" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9d7f61da-5787-40ba-a9d8-38167eb8fca9"/>
+      </Causes>
+      <Effects>
+        <Mech guid="244bf304-66e6-4cda-9b91-439ec652b8d9"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>10</Persistence>
+      <Continuation>0.4f</Continuation>
+      <PGuid>1b98e55b-fec4-4e60-8a9d-f66f26aacad4</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="prepare and inform local population" label="" guid="60ed5b4c-281c-4802-b58a-83978855db97" type="mechanism">
+      <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+      <ToEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819 </ToEvent>
+      <FromEvent>3b9ced07-1b90-48b0-b3bc-72bfa3b01f41</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="deny resources" label="" guid="1b36dc65-47e5-4bed-a023-539c83d1cf7d" type="mechanism">
+      <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Slower Deployment" label="US Forces in Adel" guid="fbdb8f2e-2262-48e6-9930-a34d4909d819" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="af817aaf-6ea3-4091-b16d-efde81ff44d5"/>
+        <Mech guid="cca1bf4e-e23a-4764-ac53-43d5ca2d7a49"/>
+        <Mech guid="0be704ce-460b-4989-a5e0-504422aa8ed8"/>
+        <Mech guid="60ed5b4c-281c-4802-b58a-83978855db97"/>
+      </Causes>
+      <Effects>
+        <Mech guid="b8984ac4-6089-4b44-a0d6-56c61ef7eff2"/>
+        <Mech guid="57f6031a-c22b-4dc0-b4f0-b476fb4f290b"/>
+        <Mech guid="8cb89cf1-ef84-48c4-87dd-f1d19c3db8b0"/>
+        <Mech guid="30bdaab8-c2de-434d-8614-39a5acbe1836"/>
+        <Mech guid="cd4e262a-b866-4632-aa61-d79d6f5fc58f"/>
+        <Mech guid="101b3545-797b-4aa3-b911-63014b145096"/>
+        <Mech guid="904ffe10-e867-4742-8bfb-5e16a028b0bc"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>7</Delay>
+      <Persistence>70</Persistence>
+      <Continuation>0.85f</Continuation>
+      <PGuid>8e1ca613-3ba3-46e9-aec5-9803b214771d</PGuid>
+      <SchemeAttribute>Calculated Deployment</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="disregard for local area" label="" guid="9d7f61da-5787-40ba-a9d8-38167eb8fca9" type="mechanism">
+      <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+      <ToEvent>e1f3f06b-6c46-4c3d-af64-6e1d16805678 </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="deny planning ability or surprise" label="" guid="57f6031a-c22b-4dc0-b4f0-b476fb4f290b" type="mechanism">
+      <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Outside Support" label="Insurgent Groups" guid="e1d8974b-e003-4a60-a188-d89c0a592090" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.65</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="b6828216-e998-4431-9aff-eb2dbf85e6fe"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="cd4e262a-b866-4632-aa61-d79d6f5fc58f"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>ace301e3-e141-4fcf-97c9-2740687db95b</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="reduction in effective attacks" label="" guid="5690dfc6-d707-4e0c-ad67-5cefa8e7bf60" type="mechanism">
+      <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+      <ToEvent>9927fb4d-dd11-44b8-83d2-59eb32fbbe7f </ToEvent>
+      <FromEvent>316fbdb2-9379-4126-b368-a34a4d0a6605</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="massive troop presence" label="" guid="bd31a794-b18d-4428-bd82-e10e42480917" type="mechanism">
+      <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+      <ToEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92 </ToEvent>
+      <FromEvent>8d03acd8-bf73-4a75-bfa0-961b5b419960</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="limitoutside support" label="" guid="cd4e262a-b866-4632-aa61-d79d6f5fc58f" type="mechanism">
+      <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+      <ToEvent>e1d8974b-e003-4a60-a188-d89c0a592090 </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Rapid Deployment" label="USF in Adel" guid="1470b38b-a7d1-48bf-a890-9844f4b8ea92" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="bd31a794-b18d-4428-bd82-e10e42480917"/>
+        <Mech guid="8ff71b57-df04-49f1-97c9-656a196dc8e3"/>
+        <Mech guid="c3363fec-597f-456a-b7d8-6f7c823d6f1e"/>
+      </Causes>
+      <Effects>
+        <Mech guid="fafda276-6e93-40be-9272-284becfc2c4b"/>
+        <Mech guid="1b36dc65-47e5-4bed-a023-539c83d1cf7d"/>
+        <Mech guid="cc27ad97-1a13-46bd-b232-138b55ec47e2"/>
+        <Mech guid="9618380b-c581-4c01-9c28-28dd05ea380b"/>
+        <Mech guid="78f7c7f6-abd1-49ee-91e9-d887bf29834c"/>
+        <Mech guid="9d7f61da-5787-40ba-a9d8-38167eb8fca9"/>
+        <Mech guid="ac5e441b-589e-492c-8115-97d80d997d12"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.28f</Continuation>
+      <PGuid>80b5db86-fa3d-4a68-91b4-e98df54900f4</PGuid>
+      <SchemeAttribute>Rapid Deployment</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="increased recruitment" label="" guid="3ae75d46-cc42-457c-9fd7-31d54cbc1da8" type="mechanism">
+      <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+      <ToEvent>2c7f787d-0754-4026-bdea-1f37d60f555c </ToEvent>
+      <FromEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="fast troop movement" label="" guid="c3363fec-597f-456a-b7d8-6f7c823d6f1e" type="mechanism">
+      <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+      <ToEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92 </ToEvent>
+      <FromEvent>b1f0bf10-b2c6-4eb3-9627-0a9d11a201b5</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Air Strikes" label="Insurgent Bases" guid="a0d40fb4-aaf6-4e22-a621-3de8a8c55f91" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="8ff71b57-df04-49f1-97c9-656a196dc8e3"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>3</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>159cfcb0-588f-4f8b-b57d-2d6ec3ac85cf</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="deny resources" label="" guid="b8984ac4-6089-4b44-a0d6-56c61ef7eff2" type="mechanism">
+      <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Concentrated Infantry Ops" label="Adel" guid="8d03acd8-bf73-4a75-bfa0-961b5b419960" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="bd31a794-b18d-4428-bd82-e10e42480917"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>60</Persistence>
+      <Continuation>0.3f</Continuation>
+      <PGuid>4f93a080-c947-48a8-9067-c93f9becae96</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="deny operational space" label="" guid="cc27ad97-1a13-46bd-b232-138b55ec47e2" type="mechanism">
+      <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="PSYOPS" label="Adel Population" guid="3b9ced07-1b90-48b0-b3bc-72bfa3b01f41" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="60ed5b4c-281c-4802-b58a-83978855db97"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>7</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>8da55e36-ee2c-4fb2-a441-34f5e7361128</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="avoid cultural sites" label="" guid="904ffe10-e867-4742-8bfb-5e16a028b0bc" type="mechanism">
+      <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+      <ToEvent>d9436ec6-59f6-4cb8-baa4-66c73cb3a037 </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="lack of basic utilities" label="" guid="244bf304-66e6-4cda-9b91-439ec652b8d9" type="mechanism">
+      <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+      <ToEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479 </ToEvent>
+      <FromEvent>e1f3f06b-6c46-4c3d-af64-6e1d16805678</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="deny operational space" label="" guid="8cb89cf1-ef84-48c4-87dd-f1d19c3db8b0" type="mechanism">
+      <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+      <ToEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de </ToEvent>
+      <FromEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="disregard for local area" label="" guid="ac5e441b-589e-492c-8115-97d80d997d12" type="mechanism">
+      <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+      <ToEvent>2d62baf1-9347-416a-a602-95e886554539 </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Damaged Housing" label="Adel" guid="4a10a60c-ea3a-4207-9b22-1ee70abe8569" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="fafda276-6e93-40be-9272-284becfc2c4b"/>
+      </Causes>
+      <Effects>
+        <Mech guid="4361063a-5370-49f1-b09d-13156cd2db56"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>20</Persistence>
+      <Continuation>0.5f</Continuation>
+      <PGuid>b3ecc388-d41c-491a-94c1-cce5d717f256</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="disregard for local area" label="" guid="fafda276-6e93-40be-9272-284becfc2c4b" type="mechanism">
+      <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+      <ToEvent>4a10a60c-ea3a-4207-9b22-1ee70abe8569 </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="provide resources" label="" guid="aa840a0e-503d-4175-a6fb-c295f8abbf6b" type="mechanism">
+      <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+      <ToEvent>2c7f787d-0754-4026-bdea-1f37d60f555c </ToEvent>
+      <FromEvent>d71f3179-a4c6-46bd-bfbb-6a5286f58479</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Targeted Route Planning" label="Troops Movement in Adel" guid="2ad484c8-5c6e-4734-b0c5-9e32f7560391" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="0be704ce-460b-4989-a5e0-504422aa8ed8"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>60</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>1cd704fe-85e1-4d8b-9543-3c939dbaabd5</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Heavy Armor Movement" label="Adel" guid="b1f0bf10-b2c6-4eb3-9627-0a9d11a201b5" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="c3363fec-597f-456a-b7d8-6f7c823d6f1e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>7</Persistence>
+      <Continuation>0.3f</Continuation>
+      <PGuid>0db1bd83-8d5b-4b8f-9c19-568e0af9de3d</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Damaged Economic Infrastructure" label="Adel" guid="2d62baf1-9347-416a-a602-95e886554539" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="ac5e441b-589e-492c-8115-97d80d997d12"/>
+      </Causes>
+      <Effects>
+        <Mech guid="0df5d396-b056-410d-a03a-923129ad06b7"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>35</Persistence>
+      <Continuation>0.7f</Continuation>
+      <PGuid>d93441e8-548d-41dc-8ac2-3b96a70f6965</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Reduce Insurgent Activity" label="Adel Region in Baghdad" guid="316fbdb2-9379-4126-b368-a34a4d0a6605" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9ef6c545-5fbf-4b26-8d79-04db53efa212"/>
+      </Causes>
+      <Effects>
+        <Mech guid="5690dfc6-d707-4e0c-ad67-5cefa8e7bf60"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="4b957381-15b8-43a5-b084-8727e3515ce8"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>ebf2da85-178f-4549-a4d3-624ac2331578</PGuid>
+      <SchemeAttribute>Intent</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="avoid sites sensitive to population" label="" guid="0be704ce-460b-4989-a5e0-504422aa8ed8" type="mechanism">
+      <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+      <ToEvent>fbdb8f2e-2262-48e6-9930-a34d4909d819 </ToEvent>
+      <FromEvent>2ad484c8-5c6e-4734-b0c5-9e32f7560391</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="disregard for local area" label="" guid="78f7c7f6-abd1-49ee-91e9-d887bf29834c" type="mechanism">
+      <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+      <ToEvent>d9436ec6-59f6-4cb8-baa4-66c73cb3a037 </ToEvent>
+      <FromEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="increased insurgent activity" label="" guid="4b957381-15b8-43a5-b084-8727e3515ce8" type="mechanism">
+      <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+      <ToEvent>316fbdb2-9379-4126-b368-a34a4d0a6605 </ToEvent>
+      <FromEvent>2c7f787d-0754-4026-bdea-1f37d60f555c</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="cripple insurgent operational abilities" label="" guid="9ef6c545-5fbf-4b26-8d79-04db53efa212" type="mechanism">
+      <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+      <ToEvent>316fbdb2-9379-4126-b368-a34a4d0a6605 </ToEvent>
+      <FromEvent>b81918bd-a9bf-41b4-8d08-9c470e76c4de</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="prepare area" label="" guid="8ff71b57-df04-49f1-97c9-656a196dc8e3" type="mechanism">
+      <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+      <ToEvent>1470b38b-a7d1-48bf-a890-9844f4b8ea92 </ToEvent>
+      <FromEvent>a0d40fb4-aaf6-4e22-a621-3de8a8c55f91</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="SF Deployement" label="Adel" guid="9c342fc7-66ad-4826-8b1c-caca2758023f" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="af817aaf-6ea3-4091-b16d-efde81ff44d5"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>14</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>743b087b-f352-4eba-a7d8-946efc0ec240</PGuid>
+      <SchemeAttribute>USF Actions</SchemeAttribute>
+    </PlanItem>
+  </Logic>
+  <Policies/>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="8aeda125-ba5c-41b9-aa46-d3f8b8e0a079" name="Damaged Curltural Sites" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="14148656-ba7b-44d3-ab56-702fd8b9fc92" name="Limited Military Response" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+              <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+              <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+                <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+                <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.79" group-name="">
+                  <SignalSet>
+                    <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.98" group-name="Stunned">
+                  <SignalSet>
+                    <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+                    <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+                    <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.89" group-name="">
+                  <SignalSet>
+                    <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.83" group-name="">
+                  <SignalSet>
+                    <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="84be2310-6274-489e-9ea7-f1ba3aedd416" name="Area RECON" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="be4a6918-6911-4f61-8a2d-4a231fb17fa3" name="Reduce Combat Casualties" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="79868268-0399-42cf-8017-a30626fc76d3" name="Population Hostile Towards Occupation" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+              <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+              <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+              <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+                <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+                <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+                <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+              <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+                <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="43da0b73-6a3d-4262-b81a-d99423ce7ee9" name="Insurgents Regain Capabilities" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+              <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+                <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="1b98e55b-fec4-4e60-8a9d-f66f26aacad4" name="Damaged Utilities" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="8e1ca613-3ba3-46e9-aec5-9803b214771d" name="Slower Deployment" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+              <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+              <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+              <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+                <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+                <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+                <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.17" group-name="">
+                  <SignalSet>
+                    <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.98" group-name="Planned Op">
+                  <SignalSet>
+                    <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+                    <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+                    <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+                    <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.95" group-name="">
+                  <SignalSet>
+                    <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.87" group-name="infiltrate">
+                  <SignalSet>
+                    <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+                    <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.26" group-name="">
+                  <SignalSet>
+                    <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.15" group-name="">
+                  <SignalSet>
+                    <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+              <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+              <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+              <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+              <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+              <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+              <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+                <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+                <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+                <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+                <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+                <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+                <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="ace301e3-e141-4fcf-97c9-2740687db95b" name="Outside Support" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="80b5db86-fa3d-4a68-91b4-e98df54900f4" name="Rapid Deployment" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+              <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+              <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+                <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+                <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.98" group-name="">
+                  <SignalSet>
+                    <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.99" group-name="Blitz">
+                  <SignalSet>
+                    <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+                    <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+                    <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.93" group-name="">
+                  <SignalSet>
+                    <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.93" group-name="">
+                  <SignalSet>
+                    <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+              <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+              <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+              <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+                <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+                <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+                <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="159cfcb0-588f-4f8b-b57d-2d6ec3ac85cf" name="Air Strikes" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="4f93a080-c947-48a8-9067-c93f9becae96" name="Concentrated Infantry Ops" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="8da55e36-ee2c-4fb2-a441-34f5e7361128" name="PSYOPS" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="b3ecc388-d41c-491a-94c1-cce5d717f256" name="Damaged Housing" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="1cd704fe-85e1-4d8b-9543-3c939dbaabd5" name="Targeted Route Planning" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="0db1bd83-8d5b-4b8f-9c19-568e0af9de3d" name="Heavy Armor Movement" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="d93441e8-548d-41dc-8ac2-3b96a70f6965" name="Damaged Economic Infrastructure" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="ebf2da85-178f-4549-a4d3-624ac2331578" name="Reduce Insurgent Activity" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.95" group-name="">
+                  <SignalSet>
+                    <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="743b087b-f352-4eba-a7d8-946efc0ec240" name="SF Deployement" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="c996cb5f-2727-45b7-98f2-f2979f6c27a6" name="deny resources"/>
+      <Signal guid="7906d3cb-5024-4996-9294-20f1b88f8946" name="increase in displaced population"/>
+      <Signal guid="7ad45493-85ab-4a32-8beb-878ab5867b5d" name="deny planning ability or surprise"/>
+      <Signal guid="104dce38-34f3-43d0-87f0-27ff35525feb" name="provide resources"/>
+      <Signal guid="f34331ef-bf51-4191-b32a-8b83d0cf9395" name="avoid collatoral damage"/>
+      <Signal guid="e1651ae4-63bf-48f6-9a1c-d44ec500474f" name="target specific insurgent capabilities"/>
+      <Signal guid="442d8faf-fa25-45d3-8726-e6d927c7b64e" name="fast troop movement"/>
+      <Signal guid="31196049-d45a-4d9c-b53c-858473680961" name="obtain accurate target info"/>
+      <Signal guid="b4994ceb-895d-4692-b582-de26c08e2e79" name="reduction in effective attacks"/>
+      <Signal guid="66aa6da0-22d0-401a-adb0-aa717d3dd918" name="increased fundamentalist influence"/>
+      <Signal guid="59d0d42d-1aa4-4b38-9bfa-7e351962dbc4" name="small scale targeted ops"/>
+      <Signal guid="4907d719-e2ac-4cb8-a439-4db95f8878b0" name="avoid cultural sites"/>
+      <Signal guid="8c339057-343c-46e2-b96d-eed939f5f6b3" name="increased insurgent activity"/>
+      <Signal guid="583dda75-36cb-4d63-860d-4fc70e73ea5b" name="limitoutside support"/>
+      <Signal guid="569d0b72-ee3a-47c8-bce5-a4e3eecea73e" name="increased unemployment"/>
+      <Signal guid="b5aebbd0-4c5c-45ec-bbb9-a5f7222b4238" name="lack of basic utilities"/>
+      <Signal guid="36ed1753-046b-4878-bf6f-a7856cb19304" name="deny operational space"/>
+      <Signal guid="e30699c3-a75b-40ec-bcf4-29cf43e6aa42" name="prepare area"/>
+      <Signal guid="d45fb73c-d252-454f-a0a3-7069ae495b2c" name="cripple insurgent operational abilities"/>
+      <Signal guid="6e864b64-82bf-433a-9c02-881abe4f85af" name="massive troop presence"/>
+      <Signal guid="bef23e28-be8f-44f5-babe-dfd0d52844b9" name="prepare and inform local population"/>
+      <Signal guid="7d52ee3a-87cd-4057-89fc-24d17faa8b70" name="disregard for local area"/>
+      <Signal guid="6b5d401e-c887-473f-b28a-00e4e1e46589" name="avoid sites sensitive to population"/>
+      <Signal guid="e2e85c9a-4e30-4969-8dcb-e5953be34a54" name="increased recruitment"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name="Adel Deployment">
+    <Attrib color="-16744193">State of World</Attrib>
+    <Attrib color="-16711936">Rapid Deployment</Attrib>
+    <Attrib color="-189">Calculated Deployment</Attrib>
+    <Attrib color="-42496">Intent</Attrib>
+    <Attrib color="-5131855">USF Actions</Attrib>
+  </ColorScheme>
+  <SamplingOptions/>
+  <DefaultProbabilities set="standard"/>
+  <PlanCOAs/>
+</Plan>

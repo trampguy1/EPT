@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2490"
+   name=""
+   committed-date="2008-06-09T20:05:20.658455Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/control/collaboration"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2034"
+   name="UserAuthDialog.java"
+   text-time="2007-09-25T15:35:59.095612Z"
+   committed-date="2007-04-10T13:59:26.566600Z"
+   checksum="e58a315bc08588763acd9c64cbef095b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:58.798744Z"/>
+<entry
+   committed-rev="2309"
+   name="ServerOptionsDialog.java"
+   text-time="2008-12-04T18:17:05.842762Z"
+   committed-date="2008-01-07T15:39:20.020019Z"
+   checksum="170540198ec0bd068e9af0104c865813"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.545830Z"/>
+<entry
+   committed-rev="2147"
+   name="CustomSSLServerSocketFactory.java"
+   text-time="2008-12-04T18:17:05.858390Z"
+   committed-date="2007-10-17T17:51:36.620974Z"
+   checksum="8b68bd447a9c508f7fc0d193350dd16f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.561458Z"/>
+<entry
+   committed-rev="2145"
+   name="CCDataPacket.java"
+   text-time="2008-12-04T18:17:05.889646Z"
+   committed-date="2007-10-17T17:50:03.353558Z"
+   checksum="3c29d44b82849adb89e34ef63ea5caad"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.577086Z"/>
+<entry
+   committed-rev="1249"
+   name="CollaborationException.java"
+   text-time="2007-09-25T15:35:59.204984Z"
+   committed-date="2006-06-08T16:43:21.792674Z"
+   checksum="0fb56650fc8d76545ab89400176c9a98"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:58.908116Z"/>
+<entry
+   committed-rev="2490"
+   name="CollaborationControl.java"
+   text-time="2008-12-04T18:17:05.905274Z"
+   committed-date="2008-06-09T20:05:20.658455Z"
+   checksum="1f2650ae6ea1f8a4358f2366d426ee29"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.623970Z"/>
+<entry
+   committed-rev="2251"
+   name="ClientOptionsDialog.java"
+   text-time="2008-12-04T18:17:05.920902Z"
+   committed-date="2007-11-16T18:46:59.763632Z"
+   checksum="8dabdeed9ae11da220aca86a61766a29"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.639598Z"/>
+<entry
+   committed-rev="2098"
+   name="CustomSSLClientSocketFactory.java"
+   text-time="2007-09-25T15:35:59.314356Z"
+   committed-date="2007-09-21T19:47:26.740456Z"
+   checksum="1c55faad2299797956db195048ad81ae"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:58.970615Z"/>
+<entry
+   committed-rev="2144"
+   name="AnnouncmentWindow.java"
+   text-time="2008-12-04T18:17:05.952158Z"
+   committed-date="2007-10-17T17:49:22.837155Z"
+   checksum="bf90049b6c9af216f4fb35ada8b42df0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.780250Z"/>
+<entry
+   committed-rev="1249"
+   name="AuthOptionsDialog.java"
+   text-time="2007-09-25T15:35:59.376854Z"
+   committed-date="2006-06-08T16:43:21.792674Z"
+   checksum="6c90ad587ceca0f56b5d5bdb94977d7c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.017489Z"/>
+<entry
+   committed-rev="2447"
+   name="CollabDock.java"
+   text-time="2008-12-04T18:17:05.967786Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="9e45b374fccd678be69044faf053b594"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.795878Z"/>
+<entry
+   committed-rev="2195"
+   name="ClientConnection.java"
+   text-time="2008-12-04T18:17:05.983414Z"
+   committed-date="2007-10-23T18:52:48.350704Z"
+   checksum="9802429f71e5c753398d3fc41aad04a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.827134Z"/>
+</wc-entries>

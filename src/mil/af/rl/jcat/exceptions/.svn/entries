@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2472"
+   name=""
+   committed-date="2008-05-30T17:03:55.353915Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/exceptions"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2099"
+   name="FatalCollaborationException.java"
+   text-time="2007-09-25T15:35:59.939340Z"
+   committed-date="2007-09-21T19:47:38.662713Z"
+   checksum="bb63e89f1e7cb68ed38b42a250a35646"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.720596Z"/>
+<entry
+   committed-rev="1250"
+   name="NoSuchNameException.java"
+   text-time="2007-09-25T15:35:59.954965Z"
+   committed-date="2006-06-08T16:43:37.075106Z"
+   checksum="37741272b812c9e44bab9a2a8a5d8f99"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.736220Z"/>
+<entry
+   committed-rev="1545"
+   name="SignalModeConflictException.java"
+   text-time="2007-09-25T15:35:59.986214Z"
+   committed-date="2006-09-13T17:56:37.995600Z"
+   checksum="a7b31dcfb1d2f4d16e03f83143c0d530"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.767469Z"/>
+<entry
+   committed-rev="2365"
+   name="UnknownGUIDException.java"
+   text-time="2008-12-04T18:17:06.233462Z"
+   committed-date="2008-04-11T15:10:57.777214Z"
+   checksum="b6436dcde68e3a9629b2e22b213864fa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.186578Z"/>
+<entry
+   committed-rev="1952"
+   name="BayesNetException.java"
+   text-time="2007-09-25T15:36:00.017463Z"
+   committed-date="2007-02-05T16:23:24.834645Z"
+   checksum="5c9adfaf1b2e0a4640fd0e9c7ab11ce9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.783094Z"/>
+<entry
+   committed-rev="2403"
+   name="MissingRequiredFileException.java"
+   text-time="2008-12-04T18:17:06.249090Z"
+   committed-date="2008-05-09T20:52:41.204302Z"
+   checksum="100821d67da2f052fe560d71caef41d4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.202206Z"/>
+<entry
+   committed-rev="1250"
+   name="DuplicateNameException.java"
+   text-time="2007-09-25T15:36:00.079961Z"
+   committed-date="2006-06-08T16:43:37.075106Z"
+   checksum="63deed582a2039eba0cc93c7352876dd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.829968Z"/>
+<entry
+   committed-rev="1250"
+   name="GraphLoopException.java"
+   text-time="2007-09-25T15:36:00.111211Z"
+   committed-date="2006-06-08T16:43:37.075106Z"
+   checksum="a04b7d8bc075d71c7703388fff085fd8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.845592Z"/>
+<entry
+   committed-rev="2472"
+   name="SamplerMemoryException.java"
+   text-time="2008-12-04T18:17:06.264718Z"
+   committed-date="2008-05-30T17:03:55.353915Z"
+   checksum="b41385a7a97b0e9c8e7d1740693b39ef"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.217834Z"/>
+<entry
+   committed-rev="1250"
+   name="DuplicateEvidenceException.java"
+   text-time="2007-09-25T15:36:00.142460Z"
+   committed-date="2006-06-08T16:43:37.075106Z"
+   checksum="b252d500948bee62c2b47c3f9c19ea99"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.876842Z"/>
+<entry
+   committed-rev="1545"
+   name="SignalException.java"
+   text-time="2007-09-25T15:36:00.158084Z"
+   committed-date="2006-09-13T17:56:37.995600Z"
+   checksum="14112f2a951ac3fc71e2c7ab774ae71b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.892466Z"/>
+<entry
+   committed-rev="1952"
+   name="PlotException.java"
+   text-time="2007-09-25T15:36:00.189334Z"
+   committed-date="2007-02-05T16:23:24.834645Z"
+   checksum="d0633bd66c72fa286e4417074b4bfc70"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:35:59.923715Z"/>
+</wc-entries>

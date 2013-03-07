@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+    <context-param>
+        <param-name>models</param-name>
+        <param-value>C:/Tomcat55/webapps/JCWS/models</param-value>
+    </context-param>
+    <servlet>
+        <servlet-name>JCAT Web Services</servlet-name>
+        <servlet-class>mil.af.rl.jcat.integration.soa.server.JCWSMain</servlet-class>
+        <init-param>
+            <param-name>session-timeout</param-name>
+            <param-value>30</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>JCAT Web Services</servlet-name>
+        <url-pattern>/JCWSMain</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+	<welcome-file>
+            index.jsp
+        </welcome-file>
+    </welcome-file-list>
+</web-app>

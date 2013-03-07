@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2410"
+   name=""
+   committed-date="2008-05-09T21:00:07.968598Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/integration/api"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2410"
+   name="Control.java"
+   text-time="2008-12-04T18:17:06.842954Z"
+   committed-date="2008-05-09T21:00:07.968598Z"
+   checksum="a86e8f33a9b107a48cd3adbc9bc05647"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.749186Z"/>
+<entry
+   committed-rev="2364"
+   name="DogBarkingExample.java"
+   text-time="2008-12-04T18:17:06.858582Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="f876c89619724718f3fcd88086ecc4ca"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.764814Z"/>
+<entry
+   committed-rev="2409"
+   name="APIClientExample.java"
+   text-time="2008-12-04T18:17:06.889838Z"
+   committed-date="2008-05-09T20:59:44.874109Z"
+   checksum="a9a85d5de5817837f2ef135bb5c2960c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.780442Z"/>
+<entry
+   committed-rev="2364"
+   name="EventShapeSkeleton.java"
+   text-time="2008-12-04T18:17:06.905466Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="ce301f6af5e2c48e10d10beba76ae711"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.780442Z"/>
+<entry
+   committed-rev="2364"
+   name="JWBShapeSkeleton.java"
+   text-time="2008-12-04T18:17:06.921094Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="15ccfa69232c7d9a04768ae6208f45eb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.796070Z"/>
+<entry
+   committed-rev="2364"
+   name="AbstractShapeSkeleton.java"
+   text-time="2008-12-04T18:17:06.936722Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="e459addaf2d61de5ee8dbfcdda035965"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.811698Z"/>
+<entry
+   committed-rev="2364"
+   name="MechanismShapeSkeleton.java"
+   text-time="2008-12-04T18:17:06.967978Z"
+   committed-date="2008-04-11T15:10:47.073815Z"
+   checksum="59738c19dee01aaa6763eef4def0cf9c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:06.827326Z"/>
+</wc-entries>

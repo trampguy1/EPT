@@ -1,0 +1,91 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Node Search Menu</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Node Search</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The <OBJECT classid="java:com.sun.java.help.impl.JHSecondaryViewer"  id="21040" ><param name="content" value="Node_Search_Image_popup_topic.htm"><param name="viewerActivator" value="javax.help.LinkLabel"><param name="viewerSize" value="400,270"><param name="viewerStyle" value="javax.help.Popup"><param name="text" value="Node Search dialog"></OBJECT> 
+ allows the user to quickly locate a particular Event within the Model. 
+ &nbsp;The user 
+ may toggle between searching through Event Keywords or searching by Event 
+ names. &nbsp;The 
+ last option in the dialog enables the search to be case sensitive.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The main image pane within the dialog displays 
+ the search results. &nbsp;Click 
+ on the Event name to make the Model Layout Frame center on that Event.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>.</p>
+
+</body>
+</html>

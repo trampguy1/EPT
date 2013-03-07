@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2372"
+   name="stylesheet.css"
+   text-time="2008-12-04T18:17:23.424262Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="8cc88314fce0cc52e57f9ccb2cb8436e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.861270Z"/>
+<entry
+   committed-rev="2372"
+   name="allclasses-frame.html"
+   text-time="2008-12-04T18:17:23.439890Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="0a6c594f199ec5ea99b7caf7fabe9062"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.876898Z"/>
+<entry
+   name="mil"
+   kind="dir"/>
+<entry
+   committed-rev="2372"
+   name="constant-values.html"
+   text-time="2008-12-04T18:17:23.533658Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="3075e9361dc24368ff9e33a781483254"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.267982Z"/>
+<entry
+   committed-rev="2372"
+   name="help-doc.html"
+   text-time="2008-12-04T18:17:23.596170Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="17fb6f4199b36d47b0123e30326449c8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.377378Z"/>
+<entry
+   committed-rev="2372"
+   name="serialized-form.html"
+   text-time="2008-12-04T18:17:23.408634Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="2b2fb5cf52a2c266712a477a7e1ab039"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:20.845642Z"/>
+<entry
+   committed-rev="2372"
+   name="overview-frame.html"
+   text-time="2008-12-04T18:17:23.455518Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="2c2da4e5ce47cd67581df6c5a7b5866e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.642862Z"/>
+<entry
+   committed-rev="2372"
+   name="package-list"
+   text-time="2008-12-04T18:17:23.486774Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="22b25ac6e0db3043dde86052a031159c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.658490Z"/>
+<entry
+   committed-rev="2372"
+   name="overview-summary.html"
+   text-time="2008-12-04T18:17:23.471146Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="8708d43e6afb0a792525a3cd775c8155"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.658490Z"/>
+<entry
+   committed-rev="2372"
+   name="overview-tree.html"
+   text-time="2008-12-04T18:17:23.518030Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="76421f587432cc1b7fb313af7aad7a16"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.674118Z"/>
+<entry
+   name="index-files"
+   kind="dir"/>
+<entry
+   committed-rev="2372"
+   name="index.html"
+   text-time="2008-12-04T18:17:23.549286Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="eab1c23ec62e50b2dbc89eb031f94327"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.283610Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="2372"
+   name="deprecated-list.html"
+   text-time="2008-12-04T18:17:23.564914Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="f788d0ad73ac0059f6593562fd08c976"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.361750Z"/>
+<entry
+   committed-rev="2372"
+   name="allclasses-noframe.html"
+   text-time="2008-12-04T18:17:23.580542Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="aa843a7324a79318241068d28c45e662"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.361750Z"/>
+</wc-entries>

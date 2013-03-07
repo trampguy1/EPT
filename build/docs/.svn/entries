@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2498"
+   name=""
+   committed-date="2008-06-20T16:56:27.486939Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/docs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2391"
+   name="JCWS_Usage.pdf"
+   text-time="2008-12-04T18:17:16.704222Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="8d946e55821a6c5e8155d9d87979ba74"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:16.000962Z"/>
+<entry
+   committed-rev="2498"
+   name="READ-ME.pdf"
+   text-time="2008-12-04T18:17:16.735478Z"
+   committed-date="2008-06-20T16:56:27.486939Z"
+   checksum="6a68cadf115dd9f8915afe813c2565a4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:16.032218Z"/>
+<entry
+   committed-rev="2392"
+   name="JCWS_Readme.pdf"
+   text-time="2008-12-04T18:17:16.766734Z"
+   committed-date="2008-05-09T20:44:18.860102Z"
+   checksum="3e30cb3106988498377c468a0abf8698"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:16.251010Z"/>
+<entry
+   committed-rev="2479"
+   name="release-notes.pdf"
+   text-time="2008-12-04T18:17:16.797990Z"
+   committed-date="2008-06-04T19:25:10.593270Z"
+   checksum="38d851724bc6c849a8e40775ffd2b67e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:16.688594Z"/>
+</wc-entries>

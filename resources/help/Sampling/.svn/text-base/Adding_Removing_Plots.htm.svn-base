@@ -1,0 +1,113 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Adding/Removing Plots</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+span.hcp3 { font-style:italic; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Adding and Removing Plots</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Plotting an Event or Mechanism allows the 
+ user to see the probability of that Event or Mechanism occurring at different 
+ timesteps in the simulation. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To plot an Event/Mechanism, a user must 
+ follow these steps:</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><span class="hcp3"><I>1. Start 
+ the Sampler</I></span> – The Sampler must be running in order for JCAT to 
+ make any probability calculations. &nbsp;Click 
+ the Start Sampler <img src="../image65.gif"
+						
+
+						width=22
+						height=22
+						border="0"> &nbsp;button.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">2<span class="hcp3"><I>. Double 
+ click the desired Event/Mechanism</I></span> – Once the Sampler is running, 
+ select the Event/Mechanism you wish to plot and then double click on it. 
+ &nbsp;Alternatively, 
+ you can right click on it and select “Plot” from the popup menu. &nbsp;<span 
+ >The plot of  the selected Event/Mechanism should appear in the Probability Profiles 
+ pane.</span></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To remove a specific plot from the Probability 
+ Profiles graph, select the desired plot, right click and select “Remove 
+ Plot” from the popup menu. &nbsp;To 
+ remove all of the plots from the Probability Profiles graph, right click 
+ in the Probability Profiles pane and select &quot;clear all&quot; from 
+ the popup menu. &nbsp;&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

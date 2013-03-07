@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2508"
+   name=""
+   committed-date="2008-09-23T15:40:39.882302Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/bayesnet"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2123"
+   name="Policy.java"
+   text-time="2008-12-04T18:17:05.186386Z"
+   committed-date="2007-10-02T14:39:45.061588Z"
+   checksum="6d9bef5ffbf3905ac9e95bd3a0238300"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:03.607958Z"/>
+<entry
+   committed-rev="2140"
+   name="ThreatResource.java"
+   text-time="2008-12-04T18:17:05.202014Z"
+   committed-date="2007-10-17T17:27:54.984304Z"
+   checksum="0b74ecdf5bcc17435a2abdcee0fb9df0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:03.920518Z"/>
+<entry
+   committed-rev="2103"
+   name="SimpleResource.java"
+   text-time="2007-09-25T15:36:08.970359Z"
+   committed-date="2007-09-24T20:17:14.737795Z"
+   checksum="f216093db2aa40c02f4b66c2eda4669e"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.189129Z"/>
+<entry
+   committed-rev="2140"
+   name="SamplerResult.java"
+   text-time="2008-12-04T18:17:05.233270Z"
+   committed-date="2007-10-17T17:27:54.984304Z"
+   checksum="f826baf5956cf070c73c003fb0cea757"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:03.936146Z"/>
+<entry
+   committed-rev="2256"
+   name="ResourcedLHSampler.java"
+   text-time="2008-12-04T18:17:05.248898Z"
+   committed-date="2007-12-17T17:36:33.783331Z"
+   checksum="1ba76768c0942de4037ee97d9bf0166b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:03.967402Z"/>
+<entry
+   committed-rev="1617"
+   name="Sampler.java"
+   text-time="2007-09-25T15:36:09.017233Z"
+   committed-date="2006-10-03T16:23:41.235117Z"
+   checksum="89f1bf915353d2c9a34ac5988a360e94"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.236003Z"/>
+<entry
+   committed-rev="2256"
+   name="LikelihoodSampler.java"
+   text-time="2008-12-04T18:17:05.280154Z"
+   committed-date="2007-12-17T17:36:33.783331Z"
+   checksum="b1d87957dad6b9dcdad0a7bf20078423"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.029914Z"/>
+<entry
+   committed-rev="2109"
+   name="FirstComeFirstServe.java"
+   text-time="2008-12-04T18:17:05.295782Z"
+   committed-date="2007-09-25T16:07:24.559416Z"
+   checksum="e7eb961357637db6c06ed64a2c2ab968"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.061170Z"/>
+<entry
+   committed-rev="1617"
+   name="BayesBuilder.java"
+   text-time="2007-09-25T15:36:09.126605Z"
+   committed-date="2006-10-03T16:23:41.235117Z"
+   checksum="b692ba76bbba597085fe8c64e3e6bebf"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.329750Z"/>
+<entry
+   committed-rev="2356"
+   name="BayesNet.java"
+   text-time="2008-12-04T18:17:05.311410Z"
+   committed-date="2008-04-10T18:36:41.501379Z"
+   checksum="aa29968241a602a9f0aa005a83c2c72d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.154938Z"/>
+<entry
+   name="explaination"
+   kind="dir"/>
+<entry
+   committed-rev="2356"
+   name="JCatBayesBuilder.java"
+   text-time="2008-12-04T18:17:05.342666Z"
+   committed-date="2008-04-10T18:36:41.501379Z"
+   checksum="6322ddd96d0a5219d1b36855237c4a5f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.342474Z"/>
+<entry
+   name="parallel"
+   kind="dir"/>
+<entry
+   committed-rev="2140"
+   name="MostEffectiveSingleResource.java"
+   text-time="2008-12-04T18:17:05.358294Z"
+   committed-date="2007-10-17T17:27:54.984304Z"
+   checksum="6cb37f2dcf904aa8e1caea4b7f37cedd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.498754Z"/>
+<entry
+   committed-rev="1841"
+   name="ResourcedLHNodeData.java"
+   text-time="2007-09-25T15:36:09.173479Z"
+   committed-date="2007-01-11T20:55:49.954669Z"
+   checksum="ad6ec8137d056e922d8abb480727355f"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.704741Z"/>
+<entry
+   committed-rev="1543"
+   name="PlanConverter.java"
+   text-time="2007-09-25T15:36:09.204728Z"
+   committed-date="2006-09-13T17:32:07.432919Z"
+   checksum="63a35c549e6099bb084d48e7917ebb4c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.720365Z"/>
+<entry
+   committed-rev="1543"
+   name="Evidence.java"
+   text-time="2007-09-25T15:36:09.220352Z"
+   committed-date="2006-09-13T17:32:07.432919Z"
+   checksum="239bcc37d925d862e308354c025931b1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.751614Z"/>
+<entry
+   committed-rev="2044"
+   name="LikelihoodNodeData.java"
+   text-time="2007-09-25T15:36:09.251602Z"
+   committed-date="2007-04-23T17:18:09.593460Z"
+   checksum="a44d8892dcb0ab82edae949756688d7c"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.767239Z"/>
+<entry
+   committed-rev="1769"
+   name="ResourceAction.java"
+   text-time="2007-09-25T15:36:09.282851Z"
+   committed-date="2006-12-13T22:40:29.918962Z"
+   checksum="2bf9c20ff29f24d09fe4560b3c56cd37"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.798488Z"/>
+<entry
+   committed-rev="1359"
+   name="NodeType.java"
+   text-time="2007-09-25T15:36:09.298475Z"
+   committed-date="2006-07-12T13:31:12.985271Z"
+   checksum="abba73043c19079a5e70a03dfde8d00a"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.814113Z"/>
+<entry
+   committed-rev="2109"
+   name="SingleAssignmentPerThreat.java"
+   text-time="2008-12-04T18:17:05.373922Z"
+   committed-date="2007-09-25T16:07:24.559416Z"
+   checksum="f56617776896d32c79f36eb27aba5fd5"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.139502Z"/>
+<entry
+   committed-rev="2103"
+   name="NetNode.java"
+   text-time="2007-09-25T15:36:09.329725Z"
+   committed-date="2007-09-24T20:17:14.737795Z"
+   checksum="9354b361f5f4870c49893e081c545738"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.829737Z"/>
+<entry
+   committed-rev="1456"
+   name="SamplerData.java"
+   text-time="2007-09-25T15:36:09.360974Z"
+   committed-date="2006-08-18T17:01:07.213486Z"
+   checksum="2afe513af4ee7aa6d7f627728a2c0298"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.860987Z"/>
+<entry
+   committed-rev="2508"
+   name="LikelihoodStatistics.java"
+   text-time="2008-12-04T18:17:05.389550Z"
+   committed-date="2008-09-23T15:40:39.882302Z"
+   checksum="c93aea935bbfc476c2dc459f38ed8dfb"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:05.170758Z"/>
+</wc-entries>

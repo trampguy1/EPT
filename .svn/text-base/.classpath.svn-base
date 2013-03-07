@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="resources/jug.jar"/>
+	<classpathentry kind="lib" path="resources/jide-common.jar"/>
+	<classpathentry kind="lib" path="resources/jide-dock.jar"/>
+	<classpathentry kind="lib" path="resources/jide-components.jar"/>
+	<classpathentry kind="lib" path="resources/jide-dialogs.jar"/>
+	<classpathentry kind="lib" path="resources/dom4j-full.jar"/>
+	<classpathentry kind="lib" path="resources/mysql-connector-java-3.1.8-bin.jar"/>
+	<classpathentry kind="lib" path="resources/jide-grids.jar"/>
+	<classpathentry kind="lib" path="resources/jazzy.zip"/>
+	<classpathentry kind="lib" path="resources/jwbchart.jar"/>
+	<classpathentry kind="lib" path="resources/jhbasic.jar"/>
+	<classpathentry kind="lib" path="resources/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="resources/poi-2.5.1.jar"/>
+	<classpathentry kind="lib" path="resources/jfreechart-1.0.3x.jar"/>
+	<classpathentry kind="lib" path="resources/JWhiteBoard.jar"/>
+	<classpathentry kind="lib" path="resources/computefarm-0.8.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resources/servlet-api.jar"/>
+	<classpathentry kind="lib" path="resources/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="resources/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="resources/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="resources/log4j_1.2.14.jar"/>
+	<classpathentry kind="lib" path="resources/itext-2.1.0.jar"/>
+	<classpathentry kind="lib" path="resources/ant1.7.jar"/>
+	<classpathentry kind="lib" path="resources/jini-core-2.0_1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

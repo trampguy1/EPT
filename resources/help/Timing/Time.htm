@@ -1,0 +1,115 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Timing</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+span.hcp3 { font-weight:bold; }
+a.hcp4 { font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		width=89.955%
+		bgcolor=#000000 cellpadding="5">
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=55.583%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=44.417%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;
+			margin-left: 0px;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=89.956%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;">Timing</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The top portion of the<span class="hcp3"> 
+ <B><a href="Scheduling_Image.htm" target="_blank" class="hcp4">Timing dialog</a></B></span> contains the Timing 
+ options.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><span class="hcp3"><B>• Delay<span class="expandtext">   This determines how long after a signal 
+ or Scheduling is received by the Event/Mechanism that the Event/Mechanism 
+ will react. &nbsp;If 
+ the Delay is set to 0, then the Event/Mechanism will happen immediately 
+ if it receives a Causal signal. &nbsp;If 
+ the Delay is set to 1, it will wait a timestep. &nbsp;This 
+ allows users to model Events and Mechanisms which have a certain amount 
+ of lag to them. &nbsp;For 
+ instance, if a commander orders an air strike against a factory, there 
+ will be some lag before the factory is destroyed due to mission Modelning 
+ and execution time.</span></B></span></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><span class="hcp3"><B>• Persistence<span class="expandtext">   This specifies how long an event will stay 
+ active after it receives a signal or Scheduling. &nbsp;For 
+ instance, if Persistence is set to 3, then when an Event occurs, it will 
+ continue to occur for 3 timesteps.</span></B></span></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><span class="hcp3"><B>• Continuation<span class="expandtext">   If an Event/Mechanism gradually becomes 
+ less likely to occur as time goes by, this field should be set. &nbsp;The 
+ value set for Continuation gets multiplies the probability of an Event/Mechanism 
+ every timestep until the probability gets very close to zero. &nbsp;For 
+ instance, if Continuation for an Event is set to 0.25, and the Event initially 
+ has the probability of 1.0, then after 1 timestep, it will have probability 
+ 0.25 (this is 1.0 * 0.25). &nbsp;After 
+ another timestep, it will have the probability 0.0625 (1.0 * 0.25 * 0.25), 
+ and after another, the probability will be 0.015625 (1.0 * 0.25 * 0.25 
+ * 0.25).</span> 
+ </B></span></p>
+<p class="hcp2">&nbsp;</p>
+<p style="font-weight: bold;"><a href="Scheduling.htm" class="hcp4">Tips for Scheduling</a></td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

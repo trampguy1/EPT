@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2257"
+   name=""
+   committed-date="2007-12-17T17:36:51.346280Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/bayesnet/explaination"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2044"
+   name="Counts.java"
+   text-time="2007-09-25T15:36:08.407873Z"
+   committed-date="2007-04-23T17:18:09.593460Z"
+   checksum="d0542869adc910b059b7279d9aacef98"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.376624Z"/>
+<entry
+   committed-rev="2257"
+   name="ExplanationData.java"
+   text-time="2008-12-04T18:17:04.233078Z"
+   committed-date="2007-12-17T17:36:51.346280Z"
+   checksum="c091dfa65b39a983d633198ac9ffa52f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:04.217450Z"/>
+</wc-entries>

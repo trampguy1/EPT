@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/skeletons/console-wrapper"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="description.skel"
+   text-time="2008-12-04T18:17:17.720042Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="c5a6fdcef608364242729675e4ad4960"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.595018Z"/>
+<entry
+   committed-rev="2396"
+   name="consolewrapper.exe"
+   text-time="2008-12-04T18:17:17.766926Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="7a23d19c630bfbad361f76fc5d65cc05"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.704414Z"/>
+</wc-entries>

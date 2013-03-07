@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1563"
+   name=""
+   committed-date="2006-09-13T18:21:37.356078Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/siamtransform/gui"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1563"
+   name="SIAMTransformDialog.java"
+   text-time="2007-09-25T15:36:07.954760Z"
+   committed-date="2006-09-13T18:21:37.356078Z"
+   checksum="df146fa17b15bed15835773dc4965081"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:07.939135Z"/>
+</wc-entries>

@@ -1,0 +1,96 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Navigation Trees</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+span.hcp2 { color:#0000ff; }
+p.hcp3 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col>
+
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+>
+<p style="font-size: 18pt; font-weight: bold;"><span class="hcp2"><font color=blue >Navigation</font></span> 
+ <span class="hcp2"><font color=blue >Trees</font></span></td></tr>
+</table>
+<p class="hcp3">&nbsp;</p>
+<p>The Navigation tree provides an additional way to access the properties 
+ of Events and Mechanisms.</p>
+<p>&nbsp;</p>
+<p><img src="../image28.gif" 
+ width="203" height="198" border="0"></p>
+<p>&nbsp;</p>
+<p class="hcp3">You can toggle between showing Events and 
+ Mechanisms with the radio button at the top of the pane. &nbsp;All 
+ of the Events or Mechanisms will be displayed. &nbsp;You 
+ can specify how you want the names listed by right clicking and selecting 
+ “Sort By” in the popup menu. &nbsp;You 
+ can sort the names by alphabetic order or by the number of signals associated 
+ with the items. &nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">You can modify the properties of the Event 
+ or Mechanism by selecting the desired item and right clicking. &nbsp;Choose 
+ the properties you wish to modify from the popup menu. &nbsp;You 
+ can modify Timing and Scheduling, Evidence, and the Event Editor through 
+ this popup menu.</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

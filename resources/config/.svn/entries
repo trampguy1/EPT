@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2398"
+   name=""
+   committed-date="2008-05-09T20:48:36.555848Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/config"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="695"
+   name="userdict.dic"
+   text-time="2007-09-25T15:36:22.266893Z"
+   committed-date="2005-10-17T14:17:01.775344Z"
+   checksum="f1b13269879e1acebf6b9a9b04751412"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.610660Z"/>
+<entry
+   committed-rev="2025"
+   name="ize.dic"
+   text-time="2007-09-25T15:36:22.345016Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="fec3ee1c6dc88741dba61641fb0d7419"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.985651Z"/>
+<entry
+   committed-rev="1241"
+   name="jcat.security.policy"
+   text-time="2007-09-25T15:36:22.376266Z"
+   committed-date="2006-06-08T15:10:19.769144Z"
+   checksum="57ec0cb301597eff7389a5e06a0022a6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.001275Z"/>
+<entry
+   committed-rev="2025"
+   name="labeled.dic"
+   text-time="2007-09-25T15:36:22.470013Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="a59c11561be06b8db107822bebe114d9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.095023Z"/>
+<entry
+   committed-rev="1"
+   name="access.jc"
+   text-time="2007-09-25T15:36:22.548136Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="1cf44e969b678d07b7221a96b5e542ea"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.157521Z"/>
+<entry
+   committed-rev="901"
+   name="ibc.xml"
+   text-time="2007-09-25T15:36:22.610635Z"
+   committed-date="2006-01-18T21:21:55.771393Z"
+   checksum="b6f7b482d95a8cb517a5783d9f9928f0"
+   last-author="verenice"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.204395Z"/>
+<entry
+   committed-rev="2398"
+   name="jcat_truststore"
+   text-time="2008-12-04T18:17:38.895982Z"
+   committed-date="2008-05-09T20:48:36.555848Z"
+   checksum="93437ad7fda2812c6cda821fb7d5e235"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.864726Z"/>
+<entry
+   committed-rev="2398"
+   name="config.xml"
+   text-time="2008-12-04T18:17:38.911610Z"
+   committed-date="2008-05-09T20:48:36.555848Z"
+   checksum="0844c257bf66d63a5ecc169d3b1760b8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.864726Z"/>
+<entry
+   committed-rev="2025"
+   name="eng_com.dic"
+   text-time="2007-09-25T15:36:22.313767Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="c2cf84349bf53b504f7a44a673cc2812"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:21.938777Z"/>
+<entry
+   committed-rev="2025"
+   name="yze.dic"
+   text-time="2007-09-25T15:36:22.407515Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="d753ab793a7946aa14b1e105c1250280"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.032524Z"/>
+<entry
+   committed-rev="258"
+   name="coweb.login"
+   text-time="2007-09-25T15:36:22.438764Z"
+   committed-date="2005-08-02T17:33:27.962010Z"
+   checksum="58718f50e2d4dd735f1e723201593b67"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.063774Z"/>
+<entry
+   committed-rev="2398"
+   name="jcat_keystore"
+   text-time="2008-12-04T18:17:38.927238Z"
+   committed-date="2008-05-09T20:48:36.555848Z"
+   checksum="4a7d9d49cf8b6043038cdbe2aea9ffaa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:38.880354Z"/>
+<entry
+   committed-rev="1"
+   name="prime.jc"
+   text-time="2007-09-25T15:36:22.501262Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="f19214fba13f056c3d104f2636bb576a"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.110647Z"/>
+<entry
+   committed-rev="2025"
+   name="color.dic"
+   text-time="2007-09-25T15:36:22.579385Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="580bec04ad2c5d808af984fcfacc6156"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.188770Z"/>
+<entry
+   committed-rev="2025"
+   name="center.dic"
+   text-time="2007-09-25T15:36:22.641884Z"
+   committed-date="2007-03-23T18:52:45.106288Z"
+   checksum="8bc17cdf6d609efcac900ef2b16bfb81"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:22.220020Z"/>
+</wc-entries>

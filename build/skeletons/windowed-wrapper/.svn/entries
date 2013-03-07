@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/skeletons/windowed-wrapper"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="description.skel"
+   text-time="2008-12-04T18:17:18.001346Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="7adac12edd8b31d1b974609db391d4ca"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.813810Z"/>
+<entry
+   committed-rev="2396"
+   name="jwrap.exe"
+   text-time="2008-12-04T18:17:18.032602Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="e79968a5403966c00c97ff81c7d80c76"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.970090Z"/>
+</wc-entries>

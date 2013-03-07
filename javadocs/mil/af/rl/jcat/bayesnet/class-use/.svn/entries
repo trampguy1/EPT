@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/mil/af/rl/jcat/bayesnet/class-use"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2373"
+   name="BayesNet.html"
+   text-time="2008-12-04T18:17:21.642670Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="412145466040c7c6faef22036c6cd8ee"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:21.627042Z"/>
+</wc-entries>

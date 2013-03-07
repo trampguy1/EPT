@@ -1,0 +1,87 @@
+
+<!---- SCRIPTS FOR DETERMINING IF CLIENT HAS JWS INSTALLED ---->
+<SCRIPT LANGUAGE="JavaScript" SRC="/products/javawebstart/1.2/docs/xbDetectBrowser.js">
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript"> 
+	var javawsInstalled = 0; 
+	isIE = "false"; 
+
+	if (navigator.mimeTypes && navigator.mimeTypes.length) { 
+		x = navigator.mimeTypes['application/x-java-jnlp-file']; 
+		if (x) javawsInstalled = 1; 
+	} else { 
+		isIE = "true"; 
+	} 
+
+	function insertLink(url, name) { 
+		<!-- Developers should be aware that for Gecko-based browsers (NS 6.x) -->
+		<!-- Java Web Start might not be installed ------------------------------>
+		if (javawsInstalled || navigator.family == 'gecko') { 
+			document.write("<b><font size='+2'><a href=" + url + ">"  + name + "</a></font></b>"); 
+		} else { 
+			document.write( "Your system does not seam to have Java Web Start installed.  <br>You must have Java " +
+			" version 1.5 or higher installed and Java Web Start in order to run JCAT from this site." +
+			"<br><br> To download Java and/or Java Web Start follow the link below. <br>" +
+			"<a href=http://java.sun.com/downloads/index.html>http://java.sun.com/downloads/index.html</a>" );
+		} 
+	} 
+</SCRIPT> 
+
+<SCRIPT LANGUAGE="VBScript"> 
+	on error resume next 
+	If isIE = "true" Then 
+		If Not(IsObject(CreateObject("JavaWebStart.IsInstalled"))) Then 
+			javawsInstalled = 0 
+		Else 
+			javawsInstalled = 1 
+		End If 
+	End If 
+</SCRIPT> 
+
+
+<html>
+
+	<head>
+	</head>
+
+	<body>
+
+		<center>
+
+			<p><h2><b>Java Causal Analysis Tool</b></h2></p>
+
+			<p>Java Web Start download</p>
+
+			<p>&nbsp;</p>
+
+			<p><img src="banner.gif"></p>
+
+			<p>&nbsp;</p>
+
+			<table border=0 cellpadding=0 width="100%">
+				<tr>
+					<td halign=center>
+						<p></p>
+					</td>
+				</tr>
+				<tr halign=center>
+					<td>
+						<p><center>
+						<script language="JavaScript">
+							<!-- 
+							insertLink("jcat.jnlp", "Launch JCAT"); 
+							// --> 
+						</script>
+						</center></p>
+					</td>
+				</tr>
+			</table>
+
+			<p></p>
+
+		</center>
+
+	</body>
+
+</html>

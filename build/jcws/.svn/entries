@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2425"
+   name=""
+   committed-date="2008-05-13T20:39:16.380304Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/jcws"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="model_imgs"
+   kind="dir"/>
+<entry
+   committed-rev="2394"
+   name="logo.jpg"
+   text-time="2008-12-04T18:17:17.485622Z"
+   committed-date="2008-05-09T20:44:51.829907Z"
+   checksum="58899742704c508236791524fa49f67d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.079294Z"/>
+<entry
+   committed-rev="2394"
+   name="index.jsp"
+   text-time="2008-12-04T18:17:17.501250Z"
+   committed-date="2008-05-09T20:44:51.829907Z"
+   checksum="395c20533b6ba69c5e133ff2e9903891"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.188690Z"/>
+<entry
+   name="models"
+   kind="dir"/>
+<entry
+   name="WEB-INF"
+   kind="dir"/>
+<entry
+   committed-rev="2425"
+   name="banner.gif"
+   text-time="2008-12-04T18:17:17.516878Z"
+   committed-date="2008-05-13T20:39:16.380304Z"
+   checksum="59540dec5f38fb77f9a52f9f229f618e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.469994Z"/>
+</wc-entries>

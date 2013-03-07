@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Collaboration"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Collaboration.htm"
+   text-time="2008-12-04T18:17:29.284762Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="09454d8c8e823c9f13e6f245bcc0b000"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.237878Z"/>
+<entry
+   committed-rev="2467"
+   name="Collaboration_Host_Options.htm"
+   text-time="2008-12-04T18:17:29.300390Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="27b2a8da676df08273bdbdd97e6e0387"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.253506Z"/>
+<entry
+   committed-rev="2467"
+   name="Collaboration_Host_Options_popup_topic.htm"
+   text-time="2008-12-04T18:17:29.316018Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="27b2a8da676df08273bdbdd97e6e0387"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.269134Z"/>
+</wc-entries>

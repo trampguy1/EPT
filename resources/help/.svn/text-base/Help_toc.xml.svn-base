@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+ <tocitem text="Introduction">
+  <tocitem text="Welcome" target="Welcome" />
+  <tocitem text="Overview" target="first_topic_htm" />
+  </tocitem>
+ <tocitem text="Basics">
+  <tocitem text="Application Menu" target="Application_Menu" />
+  <tocitem text="Toolbars" target="Toolbars" />
+  <tocitem text="Application Window" target="Cat_Application_Window" />
+  <tocitem text="Model View">
+   <tocitem text="Overview" target="Plan_Layout_Frame" />
+   <tocitem text="Plan Context Menu" target="menus_context_menus_htm" />
+   <tocitem text="Event Context Menu" target="Event_Context_Menu" />
+   <tocitem text="Mechanism Context Menu" target="menus_mechanism_context_menu_htm" />
+   </tocitem>
+  </tocitem>
+ <tocitem text="Building A Model">
+  <tocitem text="Creating a New Model" target="Creating_a_New_Plan" />
+  <tocitem text="Events">
+   <tocitem text="Event Introduction" target="Event_Introduction" />
+   <tocitem text="About Event Probabilities">
+    <tocitem text="Setting Probabilities" target="Event_Probabilities1" />
+    <tocitem text="Event Default Probabilities" target="Event_Default_Probabilities1" />
+    <tocitem text="Specified Probabilities of an Event" target="Events2" />
+    </tocitem>
+   </tocitem>
+  <tocitem text="Mechanisms">
+   <tocitem text="Mechanisms" target="Mechanisms" />
+   </tocitem>
+  <tocitem text="Building the Bayes Net">
+   <tocitem text="Bayes Nets" target="Building_the_Bayes_Net" />
+   </tocitem>
+  </tocitem>
+ <tocitem text="JCAT Components">
+  <tocitem text="Dockable Windows">
+   <tocitem text="Overview" target="docks_dockable_windows_htm" />
+   <tocitem text="Navigation Tree" target="Navigation_Trees" />
+   <tocitem text="Probability Profiles" target="Probability_Profiles" />
+   <tocitem text="Property Viewer" target="Property_Viewer" />
+   <tocitem text="Color Scheme Legend" target="Scheme_Legend1" />
+   <tocitem text="Courses of Action" target="What_Is_a_Course_of_Action" />
+   <tocitem text="Collaboration" target="docks_collaboration_dock_htm" />
+   </tocitem>
+  <tocitem text="Sampling">
+   <tocitem text="Sampler" target="Sampler1" />
+   <tocitem text="Plotting" target="Plotting_" />
+   </tocitem>
+  <tocitem text="Event Editor">
+   <tocitem text="Event Editor Dialog" target="Event_Editor_Dialog_Box1" />
+   <tocitem text="Event Introduction" target="Event_Introduction" />
+   </tocitem>
+  <tocitem text="Timing Dialog">
+   <tocitem text="Scheduling Events" target="Schedule_Events" />
+   <tocitem text="Delay" target="Delay1" />
+   <tocitem text="Continuation  Probability" target="Continuation_Probability" />
+   <tocitem text="Persistence" target="Persistence" />
+   </tocitem>
+  <tocitem text="Evidence Manager">
+   <tocitem text="Evidence Manager" target="evidence_manager_evidence_manager_htm" />
+   </tocitem>
+  <tocitem text="Collaboration">
+   <tocitem text="About Collaboration" target="Collaboration" />
+   <tocitem text="Collaboration Dock" target="docks_collaboration_dock_htm" />
+   </tocitem>
+  <tocitem text="Resources" target="Resources1" >
+   <tocitem text="Resources" target="Resources1" />
+   <tocitem text="Adding Simple Resources" target="Adding_Simple_Resources" />
+   <tocitem text="Adding Threat Resources" target="Adding_Threat_Resources" />
+   <tocitem text="AND/OR Expenditure" target="AND_OR_Expenditure" />
+   </tocitem>
+  </tocitem>
+ <tocitem text="Advanced Tutorials">
+  <tocitem text="Advanced Tutorials" target="advanced_tutorials_advanced_tutorials_htm" />
+  </tocitem>
+</toc>

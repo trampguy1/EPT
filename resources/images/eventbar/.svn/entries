@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2005-07-07T17:28:33.081927Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/images/eventbar"
+   last-author="mcnamacr"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1"
+   name="nsig.png"
+   text-time="2007-09-25T15:36:16.642037Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="bdda1002485eca3ac6a7f3e9ca202e30"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.485791Z"/>
+<entry
+   committed-rev="1"
+   name="psig.png"
+   text-time="2007-09-25T15:36:16.657662Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="fd7a6d16cfa25b9d7a5fd65fa9d6ecdc"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.517041Z"/>
+<entry
+   committed-rev="1"
+   name="rsig.png"
+   text-time="2007-09-25T15:36:16.657662Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="978df90b1e50c201c5ecc013145abcd1"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.548290Z"/>
+<entry
+   committed-rev="1"
+   name="agrp.png"
+   text-time="2007-09-25T15:36:16.673287Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="d37259749b4d4e0008083fd088132dad"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.563914Z"/>
+<entry
+   committed-rev="1"
+   name="rgrp.png"
+   text-time="2007-09-25T15:36:16.688911Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="39b381fccbe11273516fbe874c003e9d"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.595164Z"/>
+<entry
+   committed-rev="1"
+   name="rgrp.gif"
+   text-time="2007-09-25T15:36:16.704536Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="109c7c01949251fb56c9b943db7d1173"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:16.610788Z"/>
+</wc-entries>

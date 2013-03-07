@@ -1,0 +1,123 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Delay</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+p.hcp1 { text-align:justify; }
+tr.hcp2 { x-cell-content-align:top; }
+table.hcp3 { x-cell-content-align:top; border-spacing:0px; }
+-->
+</style>
+</head>
+<body>
+<p class="hcp1">&nbsp;</p>
+
+
+ <table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp2">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp2"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 
+ 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp3"><col >
+<tr border="0" border="0" valign="top" class="hcp2">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-size: 18pt;
+			color: #0000ff;
+			font-weight: bold;">Delay</td></tr>
+</table>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">The Delay feature in JCAT, allows the user 
+ to incorporate an element of time into a Model. &nbsp;For 
+ example, i<span >f the Delay is set to 0,  then the Event or Mechanism will happen immediately if it receives a causal 
+ signal. &nbsp;If 
+ the Delay is set to 1, it will wait a timestep. 
+ &nbsp;This allows 
+ users to model Events and Mechanisms which have a certain amount of lag 
+ to them. </span></p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">For instance, if a commander orders an 
+ air strike against a factory, there will be some lag before the factory 
+ is destroyed due to mission Modelning and execution time. &nbsp;</p>
+<p class="hcp1">&nbsp;</p>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp3"><col >
+<tr border="0" border="0" valign="top" class="hcp2">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p class="hcp1"><span style="font-weight: bold;"><B>To add 
+ Delay:</B></span> </p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">1. &nbsp;Select 
+ the Delay field with the mouse.</p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">2. &nbsp;Using 
+ the keyboard, enter a value.</p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">3. &nbsp;Then 
+ Select the OK button to accept the value and dismiss the window.</p>
+<p class="hcp1">&nbsp;</td></tr>
+</table>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">&nbsp;</p>
+<p class="hcp1">&nbsp;</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp2">
+<td border="0" border="0"
+	colspan=1
+	rowspan=1
+	
+
+	width=100%>
+<p>&nbsp;</td></tr>
+</table>
+
+<p class="hcp1">&nbsp;</p>
+
+</body>
+</html>

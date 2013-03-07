@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2510"
+   name=""
+   committed-date="2008-09-23T15:41:38.721909Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/MMC"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2510"
+   name="Proof.java"
+   text-time="2008-12-04T18:17:14.594442Z"
+   committed-date="2008-09-23T15:41:38.721909Z"
+   checksum="d029b490dd9a65be961fa093528ab19c"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.531930Z"/>
+<entry
+   committed-rev="2510"
+   name="EPT.java"
+   text-time="2008-12-04T18:17:14.610070Z"
+   committed-date="2008-09-23T15:41:38.721909Z"
+   checksum="3ae8bfd05bde7836ef44749dd13030b6"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.547558Z"/>
+<entry
+   committed-rev="2510"
+   name="EffectsProbabilityTable.java"
+   text-time="2008-12-04T18:17:14.625698Z"
+   committed-date="2008-09-23T15:41:38.721909Z"
+   checksum="53d82c23fc4735f7097f411aa8870316"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.563186Z"/>
+<entry
+   committed-rev="2510"
+   name="mmc.java"
+   text-time="2008-12-04T18:17:14.641326Z"
+   committed-date="2008-09-23T15:41:38.721909Z"
+   checksum="a5ec6469f5858fb9562ae5fec5ba25b7"
+   last-author="lemmerj"
+   kind="file"
+   prop-time="2008-12-04T18:17:14.563186Z"/>
+</wc-entries>

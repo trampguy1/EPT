@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Menus/Menu_Pics"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="View_Menu.htm"
+   text-time="2008-12-04T18:17:31.925894Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="f73c76011e94dd806d59bcb8fadb0cd2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.863382Z"/>
+<entry
+   committed-rev="2467"
+   name="View_Menu_popup_topic.htm"
+   text-time="2008-12-04T18:17:31.941522Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="f73c76011e94dd806d59bcb8fadb0cd2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.863382Z"/>
+<entry
+   committed-rev="2467"
+   name="File_Menu_.htm"
+   text-time="2008-12-04T18:17:31.957150Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="2882a8f5af9d18a27af128f4710413a5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.879010Z"/>
+<entry
+   committed-rev="2467"
+   name="File_Menu__popup_topic.htm"
+   text-time="2008-12-04T18:17:31.988406Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="2882a8f5af9d18a27af128f4710413a5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.894638Z"/>
+<entry
+   committed-rev="2467"
+   name="Tools_Menu_.htm"
+   text-time="2008-12-04T18:17:32.004034Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="8036ac6919e46daf2b6e0d8cd9d4f755"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.894638Z"/>
+<entry
+   committed-rev="2467"
+   name="Tools_Menu__popup_topic.htm"
+   text-time="2008-12-04T18:17:32.019662Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="8036ac6919e46daf2b6e0d8cd9d4f755"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.910266Z"/>
+</wc-entries>

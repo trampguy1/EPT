@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 120
+jre-1_5_0_15-linux-amd64.bin
+jre-1_5_0_15-linux-i586.bin
+jre-1_5_0_15-windows-amd64.exe
+jre-1_5_0_15-windows-i586-p.exe
+
+END

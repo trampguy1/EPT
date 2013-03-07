@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/mil/af/rl/jcat/util"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   committed-rev="2373"
+   name="package-frame.html"
+   text-time="2008-12-04T18:17:22.486582Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="bbe06530891bae453de511bc97ec44bc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.424070Z"/>
+<entry
+   committed-rev="2373"
+   name="package-use.html"
+   text-time="2008-12-04T18:17:22.502210Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="6763675b79d45f8424f0cf365df70c6d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.439698Z"/>
+<entry
+   committed-rev="2373"
+   name="package-summary.html"
+   text-time="2008-12-04T18:17:22.517838Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="eed6e6aeed73d0c78e3b520d4fb5beee"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.439698Z"/>
+<entry
+   committed-rev="2373"
+   name="Guid.html"
+   text-time="2008-12-04T18:17:22.549094Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="af137c2d393846e81becbbc023b5b4a8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.455326Z"/>
+<entry
+   committed-rev="2373"
+   name="package-tree.html"
+   text-time="2008-12-04T18:17:22.564722Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="6c61b45f1cc4a6507952f753d32a8d85"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:22.470954Z"/>
+</wc-entries>

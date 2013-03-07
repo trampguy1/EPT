@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2005-07-06T19:38:38.727134Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/siamtransform/io"
+   last-author="mcnamacr"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="1"
+   name="MultiFileFilter.java"
+   text-time="2007-09-25T15:36:08.064132Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="2464bead948f0d37355d4a163001413c"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.017258Z"/>
+<entry
+   committed-rev="1"
+   name="FileOperations.java"
+   text-time="2007-09-25T15:36:08.095381Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="5733e0064cbdb728eca48f1349cb05da"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:08.032883Z"/>
+</wc-entries>

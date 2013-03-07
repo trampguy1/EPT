@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2255"
+   name=""
+   committed-date="2007-12-17T17:31:58.354405Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/images/editmenu"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   prop-time="2007-09-25T15:36:14.610839Z"
+   revision="2532"/>
+<entry
+   committed-rev="1326"
+   name="menu_copy.png"
+   text-time="2007-09-25T15:36:14.626464Z"
+   committed-date="2006-07-06T19:01:57.546885Z"
+   checksum="d68273b62abb5d5995f1990051e24a66"
+   last-author="josh"
+   kind="file"
+   prop-time="2007-09-25T15:36:14.517092Z"/>
+<entry
+   committed-rev="1"
+   name="stock_cut.png"
+   text-time="2007-09-25T15:36:14.642089Z"
+   committed-date="2005-07-06T19:38:38.727134Z"
+   checksum="635570df5bce12032f894cdbdc91435a"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:36:14.532716Z"/>
+<entry
+   committed-rev="1326"
+   name="menu_paste.png"
+   text-time="2007-09-25T15:36:14.642089Z"
+   committed-date="2006-07-06T19:01:57.546885Z"
+   checksum="0cf1b8c10223ba0b81aad4aa6b322b0a"
+   last-author="josh"
+   kind="file"
+   prop-time="2007-09-25T15:36:14.563966Z"/>
+<entry
+   committed-rev="2255"
+   name="defaults.png"
+   text-time="2008-12-04T18:17:25.143342Z"
+   committed-date="2007-12-17T17:31:58.354405Z"
+   checksum="5a7e3a84c73e8140c445a17dfb76c24d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.112086Z"/>
+<entry
+   committed-rev="2255"
+   name="menu_delete.gif"
+   text-time="2008-12-04T18:17:25.158970Z"
+   committed-date="2007-12-17T17:31:58.354405Z"
+   checksum="2d6f86b7046f7efe234e44887fc09b86"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:25.127714Z"/>
+</wc-entries>

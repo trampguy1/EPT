@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2484"
+   name=""
+   committed-date="2008-06-06T14:47:43.509561Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Docks"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Collaboration_Dock.htm"
+   text-time="2008-12-04T18:17:34.035674Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c91bc179c7ea66f66ec01ffce9a17a25"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.910650Z"/>
+<entry
+   committed-rev="2484"
+   name="Dockable_Windows.htm"
+   text-time="2008-12-04T18:17:34.051302Z"
+   committed-date="2008-06-06T14:47:43.509561Z"
+   checksum="7c5fb3eb36ac6a078bdc076614539322"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.941906Z"/>
+<entry
+   committed-rev="2467"
+   name="Profile_Legend.htm"
+   text-time="2008-12-04T18:17:34.082558Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="d149b108e34ba1beefeee7326a818bb9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.941906Z"/>
+<entry
+   committed-rev="2467"
+   name="Color_Scheme_Legend.htm"
+   text-time="2008-12-04T18:17:34.098186Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="6aec31f5268a4866c20c9aa0dfef6606"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.957534Z"/>
+<entry
+   committed-rev="2467"
+   name="Navigation_Trees.htm"
+   text-time="2008-12-04T18:17:34.113814Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="d20851c59cd52b458f0ed53e3d1db826"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.973162Z"/>
+<entry
+   committed-rev="2467"
+   name="Probability_Profiles.htm"
+   text-time="2008-12-04T18:17:34.129442Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="7baba01f36fd7b553a61cef7511a5955"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.004418Z"/>
+<entry
+   committed-rev="2467"
+   name="Property_Viewer.htm"
+   text-time="2008-12-04T18:17:34.145070Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="cb895329105bf270b5a6113c58d28f2b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.020046Z"/>
+</wc-entries>

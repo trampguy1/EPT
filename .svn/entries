@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2510"
+   name=""
+   committed-date="2008-09-23T15:41:38.721909Z"
+   url="svn://128.132.53.159/JCat/head/JCat"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   prop-time="2007-09-25T15:36:23.626234Z"
+   revision="2532"/>
+<entry
+   name="build"
+   kind="dir"/>
+<entry
+   committed-rev="2415"
+   name=".classpath"
+   text-time="2008-12-04T18:17:39.802406Z"
+   committed-date="2008-05-09T21:03:38.522210Z"
+   checksum="45ce948b7b7de05ea06d8a0bc9f5d6d9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.767310Z"/>
+<entry
+   committed-rev="1038"
+   name="jcat.mf"
+   text-time="2007-09-25T15:36:23.673107Z"
+   committed-date="2006-04-20T19:20:10.689968Z"
+   checksum="c04d7bbc98e0bcdf6751fdf188de6b94"
+   last-author="mcnamacr"
+   kind="file"
+   prop-time="2007-09-25T15:35:57.876893Z"/>
+<entry
+   committed-rev="342"
+   name=".project"
+   text-time="2007-09-25T15:36:23.735606Z"
+   committed-date="2005-08-09T15:12:32.468891Z"
+   checksum="beb1bca25c915eeaa815205db17f9723"
+   last-author="galimem"
+   kind="file"
+   prop-time="2007-09-25T15:35:57.923767Z"/>
+<entry
+   committed-rev="2417"
+   name="run"
+   text-time="2008-12-04T18:17:39.818034Z"
+   committed-date="2008-05-09T21:05:02.962412Z"
+   checksum="993e870f3d02e3f02acf1b017117771b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.767310Z"/>
+<entry
+   committed-rev="2372"
+   name="javadoc.xml"
+   text-time="2008-12-04T18:17:39.833662Z"
+   committed-date="2008-04-15T19:18:18.450612Z"
+   checksum="2916dad706538475947d0d69f88c32fe"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.782938Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="2221"
+   name="mac-linux_errors.txt"
+   text-time="2008-12-04T18:17:39.849290Z"
+   committed-date="2007-11-06T18:37:51.738171Z"
+   checksum="cbbc7f49f0111c4e93cebcbc9022b2c6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:19.798566Z"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name="javadocs"
+   kind="dir"/>
+</wc-entries>

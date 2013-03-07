@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2492"
+   name=""
+   committed-date="2008-06-10T15:32:27.001860Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/gui/dialogs/wizard"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   prop-time="2007-09-25T15:36:03.111134Z"
+   revision="2532"/>
+<entry
+   committed-rev="2406"
+   name="WizardDialog.java"
+   text-time="2008-12-04T18:17:10.031066Z"
+   committed-date="2008-05-09T20:58:35.246881Z"
+   checksum="8e06cf506f292a37aee10fde297bca21"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.765390Z"/>
+<entry
+   committed-rev="2492"
+   name="ModelWizard.java"
+   text-time="2008-12-04T18:17:10.046694Z"
+   committed-date="2008-06-10T15:32:27.001860Z"
+   checksum="aabad9e04b9fa0740fc285b6af724719"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.781018Z"/>
+<entry
+   committed-rev="2333"
+   name="ArrowWindow.java"
+   text-time="2008-12-04T18:17:10.062322Z"
+   committed-date="2008-02-22T14:53:23.729465Z"
+   checksum="ada297052dce28a2bfdf72f2166b7116"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.874786Z"/>
+<entry
+   committed-rev="2406"
+   name="TutorialWizard.java"
+   text-time="2008-12-04T18:17:10.093578Z"
+   committed-date="2008-05-09T20:58:35.246881Z"
+   checksum="5883a31bb6a2343cdef63e0ab1815f44"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.890414Z"/>
+<entry
+   committed-rev="2406"
+   name="MoreInfoBox.java"
+   text-time="2008-12-04T18:17:10.109206Z"
+   committed-date="2008-05-09T20:58:35.246881Z"
+   checksum="16bf3281fbf06391c31c740cc28f147e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:09.999810Z"/>
+</wc-entries>

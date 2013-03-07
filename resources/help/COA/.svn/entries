@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/COA"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="COA_Window.htm"
+   text-time="2008-12-04T18:17:30.441234Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="389d1f8017fb06648074e71e41cc568b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.347466Z"/>
+<entry
+   committed-rev="2467"
+   name="What_Is_a_Course_of_Action.htm"
+   text-time="2008-12-04T18:17:30.456862Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="dff9dbf8f7360364e1dbc419e6029362"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.363094Z"/>
+<entry
+   committed-rev="2467"
+   name="Working_with_COA_s.htm"
+   text-time="2008-12-04T18:17:30.488118Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="d435961f27c7d18de68dada7ddca681b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.378722Z"/>
+<entry
+   committed-rev="2467"
+   name="Create_COA..htm"
+   text-time="2008-12-04T18:17:30.503746Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="95c445d13b587c23f0e0e948b99090c7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.378722Z"/>
+<entry
+   committed-rev="2467"
+   name="COA_image.htm"
+   text-time="2008-12-04T18:17:30.519374Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="335f0365502395be1af8996ee856c662"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.394350Z"/>
+<entry
+   committed-rev="2467"
+   name="COA_s.htm"
+   text-time="2008-12-04T18:17:30.535002Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="3064303c32c06d5a41db4f5bd66c19c3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.409978Z"/>
+<entry
+   committed-rev="2467"
+   name="COA_image_popup_topic.htm"
+   text-time="2008-12-04T18:17:30.550630Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="335f0365502395be1af8996ee856c662"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.409978Z"/>
+<entry
+   committed-rev="2467"
+   name="Creating_New_COA.htm"
+   text-time="2008-12-04T18:17:30.566258Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="9e4f23da556a6a626cfc0ccd7e54addd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.425606Z"/>
+</wc-entries>

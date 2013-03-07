@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2373"
+   name=""
+   committed-date="2008-04-15T19:18:40.826185Z"
+   url="svn://128.132.53.159/JCat/head/JCat/javadocs/resources"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2373"
+   name="inherit.gif"
+   text-time="2008-12-04T18:17:23.330494Z"
+   committed-date="2008-04-15T19:18:40.826185Z"
+   checksum="220f4eda0bd49915699315f18b8b03cf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:23.314866Z"/>
+</wc-entries>

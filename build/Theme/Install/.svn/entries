@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2396"
+   name=""
+   committed-date="2008-05-09T20:46:12.301232Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/Theme/Install"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2396"
+   name="E27B373C-2444-7351-B5C8-413411F08C1D.tcl"
+   text-time="2008-12-04T18:17:16.891758Z"
+   committed-date="2008-05-09T20:46:12.301232Z"
+   checksum="5bd5fb231507886c0f5927c9dd5dce5c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:16.876130Z"/>
+</wc-entries>

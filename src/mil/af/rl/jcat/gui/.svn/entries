@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2509"
+   name=""
+   committed-date="2008-09-23T15:41:00.552722Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/gui"
+   last-author="lemmerj"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2263"
+   name="FormattedTextEditor.java"
+   text-time="2008-12-04T18:17:13.469226Z"
+   committed-date="2007-12-17T18:04:22.794806Z"
+   checksum="5aa0bf36935f9e810765987c996787d2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.514958Z"/>
+<entry
+   name="dialogs"
+   kind="dir"/>
+<entry
+   committed-rev="2447"
+   name="FileToolBar.java"
+   text-time="2008-12-04T18:17:13.484854Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="818d695296a691f166b73d663c9e4585"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.530586Z"/>
+<entry
+   committed-rev="2447"
+   name="CatView.java"
+   text-time="2008-12-04T18:17:13.516110Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="67594d280c6f8e76f9737bb85cb82e9e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.796262Z"/>
+<entry
+   committed-rev="2447"
+   name="NavTree.java"
+   text-time="2008-12-04T18:17:13.531738Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="85e46d2800dcaad28d3a666b90666058"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:11.406330Z"/>
+<entry
+   committed-rev="2447"
+   name="PropertyViewer.java"
+   text-time="2008-12-04T18:17:13.547366Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="442c3bb040329c4cdcfe4574ef316671"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:11.453214Z"/>
+<entry
+   name="table"
+   kind="dir"/>
+<entry
+   committed-rev="2447"
+   name="ResourceViewer.java"
+   text-time="2008-12-04T18:17:13.578622Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="7b1a78a3e874d58ca555ebfece784c47"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.265870Z"/>
+<entry
+   committed-rev="2270"
+   name="ProfileDataModel.java"
+   text-time="2008-12-04T18:17:13.594250Z"
+   committed-date="2007-12-17T18:18:33.425957Z"
+   checksum="1e87db625c7b78493a6a3ed9b3c699c7"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.297126Z"/>
+<entry
+   committed-rev="2449"
+   name="PlanToolBar.java"
+   text-time="2008-12-04T18:17:13.609878Z"
+   committed-date="2008-05-19T18:28:44.616534Z"
+   checksum="1ebc0d7cc991c3c74d19330821bda167"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.312754Z"/>
+<entry
+   committed-rev="2269"
+   name="Plot.java"
+   text-time="2008-12-04T18:17:13.625506Z"
+   committed-date="2007-12-17T18:17:24.736699Z"
+   checksum="9dff9778a59c1e2de022134c768f5c52"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.344010Z"/>
+<entry
+   committed-rev="2493"
+   name="ProfileLegend.java"
+   text-time="2008-12-04T18:17:13.656762Z"
+   committed-date="2008-06-11T14:45:39.116708Z"
+   checksum="704d579d6c0d336a70e0738f3f9ae129"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.359638Z"/>
+<entry
+   committed-rev="2263"
+   name="COAItemPlot.java"
+   text-time="2008-12-04T18:17:13.672390Z"
+   committed-date="2007-12-17T18:04:22.794806Z"
+   checksum="9aeced094d868dc061e8c3d06ca12869"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.375266Z"/>
+<entry
+   committed-rev="2504"
+   name="CatMenuBar.java"
+   text-time="2008-12-04T18:17:13.688018Z"
+   committed-date="2008-07-01T14:13:05.747149Z"
+   checksum="0d23b07fd3a65bd2adfc243a31a90ccb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.390894Z"/>
+<entry
+   committed-rev="1251"
+   name="MRUItem.java"
+   text-time="2007-09-25T15:36:07.501646Z"
+   committed-date="2006-06-08T16:48:43.665132Z"
+   checksum="c985b6bc66dcf25b8dfc214bc009b840"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:06.470423Z"/>
+<entry
+   committed-rev="2449"
+   name="SchemeLegend.java"
+   text-time="2008-12-04T18:17:13.703646Z"
+   committed-date="2008-05-19T18:28:44.616534Z"
+   checksum="cc82b98891ffbef841ed3884bd8e464e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.406522Z"/>
+<entry
+   committed-rev="2507"
+   name="ProbabilityProfiles.java"
+   text-time="2008-12-04T18:17:13.734902Z"
+   committed-date="2008-07-01T14:13:48.326636Z"
+   checksum="07e5a4fd880648887a281a586421af5d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.547174Z"/>
+<entry
+   committed-rev="2447"
+   name="COAViewer.java"
+   text-time="2008-12-04T18:17:13.750530Z"
+   committed-date="2008-05-19T16:41:56.093105Z"
+   checksum="108bbd1e35ed20f8afc2c4c5df697c50"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:12.922246Z"/>
+<entry
+   committed-rev="2505"
+   name="CatPopupManager.java"
+   text-time="2008-12-04T18:17:13.781786Z"
+   committed-date="2008-07-01T14:13:19.825724Z"
+   checksum="d6c55ac5dc07a14f30743626944091e5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.047270Z"/>
+<entry
+   committed-rev="2506"
+   name="MainFrm.java"
+   text-time="2008-12-04T18:17:13.797414Z"
+   committed-date="2008-07-01T14:13:36.951272Z"
+   checksum="e2e5b0dd39338f1b0a0422e692d01f55"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.094154Z"/>
+<entry
+   name="documentationpanels"
+   kind="dir"/>
+<entry
+   committed-rev="2154"
+   name="ShapeNotFoundException.java"
+   text-time="2008-12-04T18:17:13.813042Z"
+   committed-date="2007-10-19T15:18:08.686396Z"
+   checksum="7d33abd1992b60c22cd247edcb8b4e95"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:13.125410Z"/>
+</wc-entries>

@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="InsurgentKidnapping.jcat" guid="158a89fe-dbc0-426d-81ac-bc5a4f6d8707" version="1.1.0">
+  <documentation>
+    <description></description>
+  </documentation>
+  <Graph>
+    <Shape id="27f451cf:114d58f23bf:-7fd1:128.132.53.158" type="event">
+      <itemguid>034d2393-328a-474a-b252-1c55769e7c35</itemguid>
+      <rcolor>185</rcolor>
+      <gcolor>212</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>700.0</xpos>
+      <ypos>240.0</ypos>
+      <text>Walk alone:High-ranking official</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fce:128.132.53.158" type="event">
+      <itemguid>e10005d1-5a03-444e-8f5e-5c657e10cdcc</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>0</gcolor>
+      <bcolor>0</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>480.0</xpos>
+      <ypos>60.0</ypos>
+      <text>Kidnapping:Insurgents</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fcf:128.132.53.158" type="event">
+      <itemguid>4eeedc5b-4332-4372-b0a2-d170c065c513</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>820.0</xpos>
+      <ypos>60.0</ypos>
+      <text>Message from kidnappers:Taped message</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fca:128.132.53.158" type="mechanism">
+      <itemguid>4e7b6996-84da-49c3-a660-129891ca79ac</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fd1:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fce:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>714 242 650 190 586 138</controlPoints>
+      <text>Opportunity</text>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fd0:128.132.53.158" type="event">
+      <itemguid>91325f2f-901b-4c7a-9e94-ae7baee4a3dc</itemguid>
+      <rcolor>185</rcolor>
+      <gcolor>212</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>420.0</xpos>
+      <ypos>240.0</ypos>
+      <text>CF Seen as oppressors:Local populace</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fc8:128.132.53.158" type="mechanism">
+      <itemguid>a1cb5d52-0a39-4d63-87cf-010f4b24614e</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fd0:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fce:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>493 241 510 190 527 139</controlPoints>
+      <text>Motivation</text>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fc6:128.132.53.158" type="mechanism">
+      <itemguid>9059d145-ba1d-4e1e-9171-c6e23a4ece10</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fcc:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fcd:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>383 421 360 370 337 319</controlPoints>
+      <text>Greeted as liberators</text>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fcd:128.132.53.158" type="event">
+      <itemguid>e1842825-e3fc-4b49-9347-feb83c372ec0</itemguid>
+      <rcolor>185</rcolor>
+      <gcolor>212</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>260.0</xpos>
+      <ypos>240.0</ypos>
+      <text>Liberation from dictator:Local populace</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fcb:128.132.53.158" type="mechanism">
+      <itemguid>d9824a4c-d431-4756-92e5-04496e8f9ab5</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fcd:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fce:128.132.53.158</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>366 242 430 190 494 138</controlPoints>
+      <text>Goodwill for new regime</text>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fcc:128.132.53.158" type="event">
+      <itemguid>9e62b1a1-03b9-4ec9-a7d0-0c9828cb262f</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>226</gcolor>
+      <bcolor>138</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>340.0</xpos>
+      <ypos>420.0</ypos>
+      <text>Initial Occupation:Coalition Forces</text>
+      <font>Arial:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fc7:128.132.53.158" type="mechanism">
+      <itemguid>4164d064-f081-4f11-8c0b-fb2b126242e6</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fcc:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fd0:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>417 421 440 370 463 319</controlPoints>
+      <text>Occupation wears on</text>
+    </Shape>
+    <Shape id="27f451cf:114d58f23bf:-7fc9:128.132.53.158" type="mechanism">
+      <itemguid>12124ea0-4dd4-4aed-b23f-cf988ff10b1c</itemguid>
+      <startkey>27f451cf:114d58f23bf:-7fce:128.132.53.158</startkey>
+      <endkey>27f451cf:114d58f23bf:-7fcf:128.132.53.158</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>600 100 710 100 820 100</controlPoints>
+      <text>Reveal motive</text>
+    </Shape>
+    <DefaultFont>Arial:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="Walk alone" label="High-ranking official" guid="034d2393-328a-474a-b252-1c55769e7c35" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="1">0.9</Probability>
+        <Probability time="4">0.9</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="4e7b6996-84da-49c3-a660-129891ca79ac"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>a176a069-6585-4b84-8cb1-e94ce4850efc</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Kidnapping" label="Insurgents" guid="e10005d1-5a03-444e-8f5e-5c657e10cdcc" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="4e7b6996-84da-49c3-a660-129891ca79ac"/>
+        <Mech guid="a1cb5d52-0a39-4d63-87cf-010f4b24614e"/>
+      </Causes>
+      <Effects>
+        <Mech guid="12124ea0-4dd4-4aed-b23f-cf988ff10b1c"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="d9824a4c-d431-4756-92e5-04496e8f9ab5"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>b2db1fc8-9805-4c95-9939-28d137ba5ede</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Message from kidnappers" label="Taped message" guid="4eeedc5b-4332-4372-b0a2-d170c065c513" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute>
+          <Probability time="6">0.8999999761581421</Probability>
+        </Absolute>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="12124ea0-4dd4-4aed-b23f-cf988ff10b1c"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>91ed9e42-252a-4946-bd90-5b6c18239546</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Opportunity" label="signal" guid="4e7b6996-84da-49c3-a660-129891ca79ac" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+      <ToEvent>e10005d1-5a03-444e-8f5e-5c657e10cdcc</ToEvent>
+      <FromEvent>034d2393-328a-474a-b252-1c55769e7c35</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="CF Seen as oppressors" label="Local populace" guid="91325f2f-901b-4c7a-9e94-ae7baee4a3dc" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.2</DefLeak>
+      <Causes>
+        <Mech guid="4164d064-f081-4f11-8c0b-fb2b126242e6"/>
+      </Causes>
+      <Effects>
+        <Mech guid="a1cb5d52-0a39-4d63-87cf-010f4b24614e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>0fbf7637-3ca9-4b85-86e6-c577ebb49580</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Motivation" label="signal" guid="a1cb5d52-0a39-4d63-87cf-010f4b24614e" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+      <ToEvent>e10005d1-5a03-444e-8f5e-5c657e10cdcc</ToEvent>
+      <FromEvent>91325f2f-901b-4c7a-9e94-ae7baee4a3dc</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Greeted as liberators" label="signal" guid="9059d145-ba1d-4e1e-9171-c6e23a4ece10" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+      <ToEvent>e1842825-e3fc-4b49-9347-feb83c372ec0</ToEvent>
+      <FromEvent>9e62b1a1-03b9-4ec9-a7d0-0c9828cb262f</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Liberation from dictator" label="Local populace" guid="e1842825-e3fc-4b49-9347-feb83c372ec0" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9059d145-ba1d-4e1e-9171-c6e23a4ece10"/>
+      </Causes>
+      <Effects>
+        <Mech guid="d9824a4c-d431-4756-92e5-04496e8f9ab5"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>429494f4-fa54-401e-9d83-0c90ed044c4f</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Goodwill for new regime" label="signal" guid="d9824a4c-d431-4756-92e5-04496e8f9ab5" type="mechanism">
+      <SignalType>INHIBIT</SignalType>
+      <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+      <ToEvent>e10005d1-5a03-444e-8f5e-5c657e10cdcc</ToEvent>
+      <FromEvent>e1842825-e3fc-4b49-9347-feb83c372ec0</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.5f</Continuation>
+    </PlanItem>
+    <PlanItem name="Initial Occupation" label="Coalition Forces" guid="9e62b1a1-03b9-4ec9-a7d0-0c9828cb262f" type="event">
+      <DefCause>0.75</DefCause>
+      <DefEffect>1.0</DefEffect>
+      <DefInhibit>0.800000011920929</DefInhibit>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="0">0.9</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="4164d064-f081-4f11-8c0b-fb2b126242e6"/>
+        <Mech guid="9059d145-ba1d-4e1e-9171-c6e23a4ece10"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>f83b41ef-6a8e-40f9-a133-2e040e7929a8</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Occupation wears on" label="signal" guid="4164d064-f081-4f11-8c0b-fb2b126242e6" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+      <ToEvent>91325f2f-901b-4c7a-9e94-ae7baee4a3dc</ToEvent>
+      <FromEvent>9e62b1a1-03b9-4ec9-a7d0-0c9828cb262f</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>2</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>1.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Reveal motive" label="signal" guid="12124ea0-4dd4-4aed-b23f-cf988ff10b1c" type="mechanism">
+      <SignalType>CAUSE</SignalType>
+      <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+      <ToEvent>4eeedc5b-4332-4372-b0a2-d170c065c513</ToEvent>
+      <FromEvent>e10005d1-5a03-444e-8f5e-5c657e10cdcc</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>2</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+  </Logic>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="a176a069-6585-4b84-8cb1-e94ce4850efc" name="Walk alone">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="b2db1fc8-9805-4c95-9939-28d137ba5ede" name="Kidnapping">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+              <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+                <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.2" group-name="">
+                  <SignalSet>
+                    <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.9" group-name="together">
+                  <SignalSet>
+                    <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+                    <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.05" group-name="">
+                  <SignalSet>
+                    <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="91ed9e42-252a-4946-bd90-5b6c18239546" name="Message from kidnappers">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.9" group-name="">
+                  <SignalSet>
+                    <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="0fbf7637-3ca9-4b85-86e6-c577ebb49580" name="CF Seen as oppressors">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.9" group-name="">
+                  <SignalSet>
+                    <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="429494f4-fa54-401e-9d83-0c90ed044c4f" name="Liberation from dictator">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="f83b41ef-6a8e-40f9-a133-2e040e7929a8" name="Initial Occupation">
+        <SignalData>
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+              <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+                <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="702a3644-6070-42c6-a703-a140e3597a22" name="Greeted as liberators"/>
+      <Signal guid="c681ef97-c048-4ff6-80d5-0d12c9ede02c" name="Occupation wears on"/>
+      <Signal guid="4cba5208-e8d2-424b-98cc-258b483916cb" name="Reveal motive"/>
+      <Signal guid="b69e8036-a509-475e-b1d9-e0127ba97873" name="Goodwill for new regime"/>
+      <Signal guid="a993fd00-4d7c-459d-9e13-492942e1f34b" name="Opportunity"/>
+      <Signal guid="4fa34ba2-0193-40bb-b8d3-f7f01b7ca5e4" name="Motivation"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name=""/>
+  <SamplingOptions/>
+</Plan>

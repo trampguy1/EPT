@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2484"
+   name=""
+   committed-date="2008-06-06T14:47:43.509561Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2466"
+   name="Overview2.htm"
+   text-time="2008-12-04T18:17:27.425030Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f2bf8f633af40240b822b14f3dbd028c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.721770Z"/>
+<entry
+   committed-rev="2466"
+   name="Overview4.htm"
+   text-time="2008-12-04T18:17:27.440658Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5f0585486a83b4c821157261d0f864ed"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.737398Z"/>
+<entry
+   name="Dialogs"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="Effect.htm"
+   text-time="2008-12-04T18:17:27.471914Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="d9a5ca9d5c721cec340bb62f3dcf0a4f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.878050Z"/>
+<entry
+   committed-rev="2466"
+   name="Overview6.htm"
+   text-time="2008-12-04T18:17:27.487542Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ec218d3239127fac6b0eb8c57d7b0324"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.878050Z"/>
+<entry
+   committed-rev="2466"
+   name="image31.gif"
+   text-time="2008-12-04T18:17:27.487542Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="fc9822162b354946c33450e14f62a80a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.893678Z"/>
+<entry
+   committed-rev="2466"
+   name="DocToHelp.js"
+   text-time="2008-12-04T18:17:27.518798Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="697c5dec621866e047ea6e98f30b3f81"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.909306Z"/>
+<entry
+   committed-rev="2466"
+   name="image70.gif"
+   text-time="2008-12-04T18:17:27.534426Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="306c1854493ad1a16873bbaae37bcd75"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.909306Z"/>
+<entry
+   committed-rev="2466"
+   name="image35.gif"
+   text-time="2008-12-04T18:17:27.534426Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5c8ef784346403ace7020e27307fdf13"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.924934Z"/>
+<entry
+   committed-rev="2466"
+   name="image37.gif"
+   text-time="2008-12-04T18:17:27.550054Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a4b76a8060de264286b4a89d11f93b61"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.940562Z"/>
+<entry
+   committed-rev="2466"
+   name="image74.gif"
+   text-time="2008-12-04T18:17:27.565682Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f9cf22f1d1e45242b651851cfa910578"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.956190Z"/>
+<entry
+   committed-rev="2466"
+   name="image39.gif"
+   text-time="2008-12-04T18:17:27.581310Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="d27b78c6686178f860a31958546ca9f9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.971818Z"/>
+<entry
+   committed-rev="2466"
+   name="image76.gif"
+   text-time="2008-12-04T18:17:27.596938Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="34bd632a0dc6cd7c275fc627b8b3c3ed"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.987446Z"/>
+<entry
+   committed-rev="2466"
+   name="image78.gif"
+   text-time="2008-12-04T18:17:27.612566Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f5166b38922aec70ba39744813a4baa8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.003074Z"/>
+<entry
+   committed-rev="2466"
+   name="Welcom.htm"
+   text-time="2008-12-04T18:17:27.628194Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="0dadb8b7f735fab10792f87363936c6c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.018702Z"/>
+<entry
+   committed-rev="2466"
+   name="ThreatRes.JPG"
+   text-time="2008-12-04T18:17:27.643822Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5eb56938d9cc298e8f0c67a7aca03593"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.018702Z"/>
+<entry
+   committed-rev="2466"
+   name="saveas.GIF"
+   text-time="2008-12-04T18:17:27.675078Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="c251b83bfa968eb5ad14103f9c43ca91"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.049958Z"/>
+<entry
+   committed-rev="2466"
+   name="Types_of_Mechanisms.htm"
+   text-time="2008-12-04T18:17:27.659450Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4ed9e5412a54ac5a4812b7ef32b8ecfd"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.034330Z"/>
+<entry
+   committed-rev="2466"
+   name="Scheduling.gif"
+   text-time="2008-12-04T18:17:27.721962Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4137e529b89524309af9879bca1e4040"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.284378Z"/>
+<entry
+   committed-rev="2466"
+   name="Copy.jpg"
+   text-time="2008-12-04T18:17:27.690706Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="77e241e17d557260f0b8941b995f677b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.065586Z"/>
+<entry
+   committed-rev="2466"
+   name="image40.gif"
+   text-time="2008-12-04T18:17:27.737590Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9feda89e9571a2b035a34d1c10840fba"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.300006Z"/>
+<entry
+   committed-rev="2466"
+   name="image42.gif"
+   text-time="2008-12-04T18:17:27.753218Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="80cfe44b9dad73e967d71a586bcf2a43"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.315634Z"/>
+<entry
+   name="Bayes_Nets"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="ModelWizard.jpg"
+   text-time="2008-12-04T18:17:27.784474Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4dbf50322c8203fe1b66139871d5df01"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.409402Z"/>
+<entry
+   committed-rev="2466"
+   name="image46.gif"
+   text-time="2008-12-04T18:17:27.768846Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="85126731d8ad4b28aa7457e9d0327865"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.393774Z"/>
+<entry
+   committed-rev="2466"
+   name="Help.hs"
+   text-time="2008-12-04T18:17:35.442194Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a61b133848b0dc5873740e76c3376845"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.831358Z"/>
+<entry
+   committed-rev="2466"
+   name="image48.gif"
+   text-time="2008-12-04T18:17:35.457822Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a3313fe0db2fad7c6f3c703e91aaae48"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.831358Z"/>
+<entry
+   committed-rev="2466"
+   name="SamplerDialog.JPG"
+   text-time="2008-12-04T18:17:35.473450Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="7b37f7578aa667217b61d7a068127ef4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.846986Z"/>
+<entry
+   committed-rev="2466"
+   name="EffectWindow.jpg"
+   text-time="2008-12-04T18:17:35.489078Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="3fda2d8ca855bc9b1e268252b552922a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.862614Z"/>
+<entry
+   committed-rev="2466"
+   name="SimpleRes1.JPG"
+   text-time="2008-12-04T18:17:35.504706Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9b89dbbcfde9a793708b5b670bc38d49"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.878242Z"/>
+<entry
+   committed-rev="2466"
+   name="contextSensHelp.JPG"
+   text-time="2008-12-04T18:17:35.520334Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="d9bb7585c807fcd8f638c2beeb1d31ec"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.893870Z"/>
+<entry
+   committed-rev="2466"
+   name="AppToolbar.GIF"
+   text-time="2008-12-04T18:17:35.535962Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="17b1872aaad69ba4a714de097bd430aa"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.909498Z"/>
+<entry
+   name="Sampling"
+   kind="dir"/>
+<entry
+   name="Advanced_Tutorials"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="Event_Color_Selection.htm"
+   text-time="2008-12-04T18:17:35.551590Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5d6319e2553d28cc8f8d9e54dac1a7c0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.206430Z"/>
+<entry
+   committed-rev="2466"
+   name="JCAT_Online_Help.glo"
+   text-time="2008-12-04T18:17:35.567218Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="c0bd12df16e9b07c4e71cf4cc4ad793c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.784666Z"/>
+<entry
+   committed-rev="2466"
+   name="ehlpdhtm.js"
+   text-time="2008-12-04T18:17:35.598474Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="8fe64b98bd8a270d1d654b154ebc6d8b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.800294Z"/>
+<entry
+   committed-rev="2466"
+   name="cmodel.jpg"
+   text-time="2008-12-04T18:17:35.614102Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="b40efb8e52ed281752f7db3080c726d9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.800294Z"/>
+<entry
+   committed-rev="2466"
+   name="image3.jpg"
+   text-time="2008-12-04T18:17:35.629730Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5c92b6eda4b277b2beb6448d869e9574"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.815922Z"/>
+<entry
+   name="Timing"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="bsscnav4.gif"
+   text-time="2008-12-04T18:17:35.645358Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="b4c2167f269c12fdd7d36916be63b24e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.831550Z"/>
+<entry
+   name="Collaboration"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="bsscnav6.gif"
+   text-time="2008-12-04T18:17:35.645358Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="dd6960124caf5c550a165f28e83352c2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.347274Z"/>
+<entry
+   committed-rev="2466"
+   name="EditMenu.JPG"
+   text-time="2008-12-04T18:17:35.660986Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="b864da2d467b851d56430cfd92ea0b4f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.362902Z"/>
+<entry
+   committed-rev="2466"
+   name="About.jpg"
+   text-time="2008-12-04T18:17:35.676614Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="8623afcbe31e66236b6d085c4d9338fb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.378530Z"/>
+<entry
+   committed-rev="2466"
+   name="reset_view.bmp"
+   text-time="2008-12-04T18:17:35.707870Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="2e77c0f511cc3c009ee946c29d6917d6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.394158Z"/>
+<entry
+   committed-rev="2466"
+   name="bsscnav8.gif"
+   text-time="2008-12-04T18:17:35.707870Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="eeba5ab512b7229774b86cd7c7fe5db8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.409786Z"/>
+<entry
+   committed-rev="2466"
+   name="image51.gif"
+   text-time="2008-12-04T18:17:35.723498Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="fc9822162b354946c33450e14f62a80a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.409786Z"/>
+<entry
+   committed-rev="2466"
+   name="Help_toc.xml"
+   text-time="2008-12-04T18:17:35.739126Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="c00a820df28e677a6dec89f7a13aafcf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.425414Z"/>
+<entry
+   committed-rev="2466"
+   name="image16.gif"
+   text-time="2008-12-04T18:17:35.754754Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="6c9cae3ad3a717a027ec150c4597d653"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.441042Z"/>
+<entry
+   committed-rev="2466"
+   name="image53.gif"
+   text-time="2008-12-04T18:17:35.770382Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="469f0c9701489768b5144f54e4322ee2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.456670Z"/>
+<entry
+   committed-rev="2466"
+   name="image18.gif"
+   text-time="2008-12-04T18:17:35.786010Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="66ea7662f1fbb32f3095f45c0c9d74d6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.472298Z"/>
+<entry
+   committed-rev="2466"
+   name="causes.jpg"
+   text-time="2008-12-04T18:17:35.801638Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="1beb24313f4c4357e7713d0f05787d67"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.487926Z"/>
+<entry
+   committed-rev="2466"
+   name="Sampler.gif"
+   text-time="2008-12-04T18:17:35.832894Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="c83ca2f31a0a390e23c27fddcb748657"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.503554Z"/>
+<entry
+   name="Resources"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="zoomout.GIF"
+   text-time="2008-12-04T18:17:35.879778Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="c96d69c9ee6944eddb49567e60595384"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.862998Z"/>
+<entry
+   committed-rev="2466"
+   name="paste.GIF"
+   text-time="2008-12-04T18:17:35.864150Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="eb2116c5048da355d352391fa7947279"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.847370Z"/>
+<entry
+   committed-rev="2466"
+   name="EffectsMech.gif"
+   text-time="2008-12-04T18:17:35.848522Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="3f39b6a174f0a58259c37ab70e3a3dc1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.847370Z"/>
+<entry
+   committed-rev="2466"
+   name="Thumbs.db"
+   text-time="2008-12-04T18:17:35.895406Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4750ffd68089bb4fcb635cc293677047"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.956766Z"/>
+<entry
+   committed-rev="2466"
+   name="image21.gif"
+   text-time="2008-12-04T18:17:35.911034Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="66ea7662f1fbb32f3095f45c0c9d74d6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.988022Z"/>
+<entry
+   committed-rev="2466"
+   name="image23.gif"
+   text-time="2008-12-04T18:17:35.926662Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="8c493f7ca7921a0eb8bc653e594ab6d0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:29.988022Z"/>
+<entry
+   committed-rev="2466"
+   name="image25.gif"
+   text-time="2008-12-04T18:17:35.942290Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="7b93ceb8dd8bc57575aaf363d84eeca3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.003650Z"/>
+<entry
+   name="Drill_Down"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="image62.gif"
+   text-time="2008-12-04T18:17:35.957918Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="8e1c8480d14f2656b074141689fec97f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.222442Z"/>
+<entry
+   committed-rev="2466"
+   name="image27.gif"
+   text-time="2008-12-04T18:17:36.004802Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4e6b3be28a7f4816bba19d4529ab6ab8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.238070Z"/>
+<entry
+   committed-rev="2466"
+   name="Help_ndx.xml"
+   text-time="2008-12-04T18:17:36.051686Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="1d5bf14224d4e6e294d7edc15606a8ab"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.253698Z"/>
+<entry
+   committed-rev="2466"
+   name="image64.gif"
+   text-time="2008-12-04T18:17:36.020430Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a415a5ee75c13728323aaffd58304bca"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.238070Z"/>
+<entry
+   committed-rev="2466"
+   name="OpenModel.jpg"
+   text-time="2008-12-04T18:17:36.098570Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="021fcb3d869078c13f7480ba3a5baf6d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.300582Z"/>
+<entry
+   committed-rev="2466"
+   name="COA1.1.JPG"
+   text-time="2008-12-04T18:17:36.082942Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="451a747966a50d874fe418c1b3475b38"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.284954Z"/>
+<entry
+   committed-rev="2466"
+   name="image29.gif"
+   text-time="2008-12-04T18:17:36.067314Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="18b158de38729239942877738858be33"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.269326Z"/>
+<entry
+   committed-rev="2466"
+   name="profiles.jpg"
+   text-time="2008-12-04T18:17:36.129826Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="533a90ff93fbee0cec63891cdb032e46"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.597514Z"/>
+<entry
+   committed-rev="2466"
+   name="image66.gif"
+   text-time="2008-12-04T18:17:36.114198Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4b33e551b6297d3182097531c4219967"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.316210Z"/>
+<entry
+   name="COA"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="image68.gif"
+   text-time="2008-12-04T18:17:36.145454Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="6752d4e0490cd864bd72e1a931f94c8a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:30.613142Z"/>
+<entry
+   name="Events"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="SampleAndPlot.gif"
+   text-time="2008-12-04T18:17:36.239222Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="d0d349e72dfefc7b7fdbd84860cd630e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.660218Z"/>
+<entry
+   committed-rev="2466"
+   name="Evidence1.gif"
+   text-time="2008-12-04T18:17:36.207966Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="21887ffe086305fa46f2470e30e1346b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.378914Z"/>
+<entry
+   committed-rev="2466"
+   name="Evidence2_.gif"
+   text-time="2008-12-04T18:17:36.176710Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="6a8a9cf931a0384d199bd50b068d93ea"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.300774Z"/>
+<entry
+   committed-rev="2466"
+   name="ControlsToolbar1.GIF"
+   text-time="2008-12-04T18:17:36.270478Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="cb9d7ec166dff97a6c4ed9bc0ffa9fa9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.691474Z"/>
+<entry
+   committed-rev="2466"
+   name="default.css"
+   text-time="2008-12-04T18:17:36.254850Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="09fc78101d85e0b6946352ebc11f7ae2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.675846Z"/>
+<entry
+   committed-rev="2466"
+   name="Overview1.htm"
+   text-time="2008-12-04T18:17:36.286106Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="75d850975b62efa097894db740963b9a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.707102Z"/>
+<entry
+   committed-rev="2466"
+   name="zoomin.GIF"
+   text-time="2008-12-04T18:17:36.301734Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="217ccbd6f0004f5750ad16d1e5ebd772"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.722730Z"/>
+<entry
+   committed-rev="2466"
+   name="Overview3.htm"
+   text-time="2008-12-04T18:17:36.317362Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="21995f84d3e7a37707b9bc38b68a56f2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.722730Z"/>
+<entry
+   committed-rev="2466"
+   name="w95help.css"
+   text-time="2008-12-04T18:17:36.332990Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="6735732b60359783905a14b0e15eeda0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:31.738358Z"/>
+<entry
+   committed-rev="2466"
+   name="statusbar.jpg"
+   text-time="2008-12-04T18:17:36.348618Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a449565d9b175192952a0dc5473a4c6c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.066738Z"/>
+<entry
+   name="Menus"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="StopSampler.JPG"
+   text-time="2008-12-04T18:17:36.364246Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="7be1b724c6794ef86d9ecbfe89cb99f9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.082366Z"/>
+<entry
+   committed-rev="2466"
+   name="image30.gif"
+   text-time="2008-12-04T18:17:36.379874Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="2bfdd1c9ab38a685b46fe1d3b709027d"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.097994Z"/>
+<entry
+   committed-rev="2466"
+   name="eHelp.xml"
+   text-time="2008-12-04T18:17:36.395502Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="98709ca284f091c438fe8d81f30a20af"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.113622Z"/>
+<entry
+   committed-rev="2466"
+   name="image71.gif"
+   text-time="2008-12-04T18:17:36.411130Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9c96745f5505b3ec910343b12fee9120"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.113622Z"/>
+<entry
+   committed-rev="2466"
+   name="image38.gif"
+   text-time="2008-12-04T18:17:36.426758Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="52b7ae7f7a1e1e66f555471635ab1e21"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.129250Z"/>
+<entry
+   committed-rev="2466"
+   name="ThreatRes2.JPG"
+   text-time="2008-12-04T18:17:36.489270Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="91dbd0d398be5215c6f2db989ae614fc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.160506Z"/>
+<entry
+   committed-rev="2466"
+   name="ToolMenu1.JPG"
+   text-time="2008-12-04T18:17:36.442386Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="e424102d7aac66fbe8d8a2a4f0f2f6eb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.144878Z"/>
+<entry
+   committed-rev="2466"
+   name="image77.gif"
+   text-time="2008-12-04T18:17:36.520526Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="4b33e551b6297d3182097531c4219967"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.176134Z"/>
+<entry
+   committed-rev="2466"
+   name="image79.gif"
+   text-time="2008-12-04T18:17:36.583038Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a56c6edd3798747a6bd7c7b5120b6c6a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.191762Z"/>
+<entry
+   committed-rev="2466"
+   name="Creating_a_New_Plan.htm"
+   text-time="2008-12-04T18:17:36.567410Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="14de0ea03085a2597792f82726718193"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.191762Z"/>
+<entry
+   committed-rev="2466"
+   name="NewCOA..bmp"
+   text-time="2008-12-04T18:17:36.692434Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="54e927738db0dff43dffa4b7d194c1e8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.238646Z"/>
+<entry
+   committed-rev="2466"
+   name="COAwindow.bmp"
+   text-time="2008-12-04T18:17:36.629922Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="5c04ad8d64fbe2a085ecf420acd64dd8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.223018Z"/>
+<entry
+   committed-rev="2466"
+   name="image1.gif"
+   text-time="2008-12-04T18:17:36.598666Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="dc1fe96364d3d67cade9388b245adcdb"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.207390Z"/>
+<entry
+   committed-rev="2475"
+   name="image63.jpg"
+   text-time="2008-12-04T18:17:36.708062Z"
+   committed-date="2008-06-02T15:01:16.370766Z"
+   checksum="a99d27747cba5b88ea9c83a45ac51796"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.254274Z"/>
+<entry
+   committed-rev="2466"
+   name="helpIcon.jpg"
+   text-time="2008-12-04T18:17:36.723690Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="84ff84c0b5058d0ad574b8c39ff73e2c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.269902Z"/>
+<entry
+   name="Cat_Application_Window"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="profiles1.jpg"
+   text-time="2008-12-04T18:17:36.754946Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="fe1ff16a5256a95f98852e77f83d86ce"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.769998Z"/>
+<entry
+   committed-rev="2466"
+   name="RoboHHRE.lng"
+   text-time="2008-12-04T18:17:36.770574Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="b45e8e01a1db8b999f8f95c869e3aef6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.785626Z"/>
+<entry
+   committed-rev="2466"
+   name="image41.gif"
+   text-time="2008-12-04T18:17:36.786202Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ab177d0fec1c29f5280b8926e7ae7862"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.785626Z"/>
+<entry
+   committed-rev="2466"
+   name="image80.gif"
+   text-time="2008-12-04T18:17:36.801830Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ab177d0fec1c29f5280b8926e7ae7862"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.816882Z"/>
+<entry
+   committed-rev="2466"
+   name="image45.gif"
+   text-time="2008-12-04T18:17:36.817458Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f2a221c71fd5fd6ebd4243e6492d8b40"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.832510Z"/>
+<entry
+   committed-rev="2466"
+   name="image47.gif"
+   text-time="2008-12-04T18:17:36.848714Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f5166b38922aec70ba39744813a4baa8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:33.848138Z"/>
+<entry
+   name="Docks"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="SimpleRes2.JPG"
+   text-time="2008-12-04T18:17:36.895598Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="fb269494065e45df6c7af138f0a2501f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.176326Z"/>
+<entry
+   committed-rev="2466"
+   name="AppWindow3.JPG"
+   text-time="2008-12-04T18:17:36.926854Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f50fd759e00b363d7ddf83b9110185c2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.191954Z"/>
+<entry
+   name="Evidence_Manager"
+   kind="dir"/>
+<entry
+   committed-rev="2466"
+   name="Help_map.xml"
+   text-time="2008-12-04T18:17:36.989366Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="495121e0b7073e68a880277310939350"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.520142Z"/>
+<entry
+   committed-rev="2466"
+   name="banner.jpg"
+   text-time="2008-12-04T18:17:36.942482Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9c0a4f3f56dff26ec84e4a17ff3d6628"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.504514Z"/>
+<entry
+   committed-rev="2466"
+   name="image4.jpg"
+   text-time="2008-12-04T18:17:37.004994Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="eca71315180640db97c0b8ea003ff4a6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.551398Z"/>
+<entry
+   committed-rev="2466"
+   name="bsscnav5.gif"
+   text-time="2008-12-04T18:17:37.051878Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ab8b29009e004ffdd3ce920c1556639e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.567026Z"/>
+<entry
+   committed-rev="2466"
+   name="MenuBar1.JPG"
+   text-time="2008-12-04T18:17:37.067506Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="0113d4547f5a52bd6e5c6d5629eec792"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.567026Z"/>
+<entry
+   committed-rev="2466"
+   name="bsscnav7.gif"
+   text-time="2008-12-04T18:17:37.098762Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="7c1aa65ed589497a0c021d38b2cb8ca5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.582654Z"/>
+<entry
+   committed-rev="2466"
+   name="Timing.gif"
+   text-time="2008-12-04T18:17:37.130018Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ee950a908dfa3f5486c536e8d5fb2da9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.676422Z"/>
+<entry
+   committed-rev="2466"
+   name="zoomdefault.GIF"
+   text-time="2008-12-04T18:17:37.145646Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f8f3f72abd93b25dbaeb8a0e614cd2b5"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.692050Z"/>
+<entry
+   committed-rev="2466"
+   name="Theory_of_a_Plan.htm"
+   text-time="2008-12-04T18:17:37.239414Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9584f71d5e377a5634a4b098f463f597"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.879586Z"/>
+<entry
+   committed-rev="2466"
+   name="NewEvent.gif"
+   text-time="2008-12-04T18:17:37.223786Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="56618cbf19964c8d1da14b05d4daa6f9"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.832702Z"/>
+<entry
+   committed-rev="2466"
+   name="image54.gif"
+   text-time="2008-12-04T18:17:37.161274Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="66ea7662f1fbb32f3095f45c0c9d74d6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.707678Z"/>
+<entry
+   committed-rev="2466"
+   name="image19.gif"
+   text-time="2008-12-04T18:17:37.255042Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="df4f6d75ae0768b4516e993470a13a07"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.879586Z"/>
+<entry
+   committed-rev="2466"
+   name="Help.trx"
+   text-time="2008-12-04T18:17:37.270670Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="2ac0febb2d7cb28c6be91edc5fbb34ea"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.895214Z"/>
+<entry
+   committed-rev="2466"
+   name="Mechanisms.htm"
+   text-time="2008-12-04T18:17:37.301926Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="05d06bac5288bca73e634b8b1af2276f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.910842Z"/>
+<entry
+   committed-rev="2466"
+   name="Tutorial.jpg"
+   text-time="2008-12-04T18:17:37.333182Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f2951f39b177dbcf2edc8e26c10c91e8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.926470Z"/>
+<entry
+   committed-rev="2466"
+   name="image20.gif"
+   text-time="2008-12-04T18:17:37.348810Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="df4f6d75ae0768b4516e993470a13a07"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.942098Z"/>
+<entry
+   committed-rev="2466"
+   name="NewModel.jpg"
+   text-time="2008-12-04T18:17:37.364438Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="dcc1910abc2335651c9bf683ba8b8cae"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.957726Z"/>
+<entry
+   committed-rev="2466"
+   name="image22.gif"
+   text-time="2008-12-04T18:17:37.411322Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="6c9cae3ad3a717a027ec150c4597d653"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:34.988982Z"/>
+<entry
+   committed-rev="2466"
+   name="image24.gif"
+   text-time="2008-12-04T18:17:37.426950Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a56c6edd3798747a6bd7c7b5120b6c6a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.020238Z"/>
+<entry
+   committed-rev="2466"
+   name="Probabilities.gif"
+   text-time="2008-12-04T18:17:37.473834Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="9f86733482b90b0cd7614b17b13d7db3"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.239030Z"/>
+<entry
+   committed-rev="2466"
+   name="image61.gif"
+   text-time="2008-12-04T18:17:37.489462Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="8e1c8480d14f2656b074141689fec97f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.270286Z"/>
+<entry
+   committed-rev="2466"
+   name="image26.gif"
+   text-time="2008-12-04T18:17:37.520718Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="f2ea705a843e87a0b16f42f5661e1b2a"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.285914Z"/>
+<entry
+   committed-rev="2466"
+   name="SaveModel.jpg"
+   text-time="2008-12-04T18:17:37.536346Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ecabf91bd8eb6e1bf0e12e40729193f4"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.285914Z"/>
+<entry
+   committed-rev="2466"
+   name="image63.gif"
+   text-time="2008-12-04T18:17:37.551974Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a1d44e572e3820ff8eacea5505b93233"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.301542Z"/>
+<entry
+   committed-rev="2466"
+   name="image28.gif"
+   text-time="2008-12-04T18:17:37.567602Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="e9b875822c611710d149a467e0040efc"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.317170Z"/>
+<entry
+   committed-rev="2466"
+   name="image65.gif"
+   text-time="2008-12-04T18:17:37.598858Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ab177d0fec1c29f5280b8926e7ae7862"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.332798Z"/>
+<entry
+   committed-rev="2466"
+   name="image67.gif"
+   text-time="2008-12-04T18:17:37.614486Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="26530f8e176bde34691e5131053bcbaf"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.348426Z"/>
+<entry
+   committed-rev="2466"
+   name="image69.gif"
+   text-time="2008-12-04T18:17:37.630114Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="ef1975bfe9f2d8808398098245c72b40"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.364054Z"/>
+<entry
+   committed-rev="2466"
+   name="_Event_Introduction.htm"
+   text-time="2008-12-04T18:17:37.645742Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="0823b60ad9faef6b04b6a04ab4d78c14"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.364054Z"/>
+<entry
+   committed-rev="2466"
+   name="First_Topic.htm"
+   text-time="2008-12-04T18:17:37.661370Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="565f15c97338dc25f13efe9fb609395f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.410938Z"/>
+<entry
+   committed-rev="2466"
+   name="Events2.htm"
+   text-time="2008-12-04T18:17:38.208350Z"
+   committed-date="2008-05-22T18:40:52.844985Z"
+   checksum="a3f6a147cc443bcaf2fba8ab391db2e1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:35.410938Z"/>
+</wc-entries>

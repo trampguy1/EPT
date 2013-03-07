@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="javadoc">
+<target name="javadoc">
+<javadoc access="public" author="true" classpath="resources/jug.jar:resources/jwbchart.jar:resources/jide-common.jar:resources/jfreechart-1.0.3x.jar:resources/jide-grids.jar:resources/itext-1.02b.jar:resources/log4j_1.2.14.jar:resources/jide-dialogs.jar:resources/commons-codec-1.3.jar:resources/jini-core-2.0_1.jar:resources/jide-dock.jar:resources/jhbasic.jar:resources/computefarm-0.8.2.jar:resources/JWhiteBoard.jar:resources/commons-logging-1.1.1.jar:resources/jazzy.zip:resources/commons-httpclient-3.1.jar:resources/jide-components.jar:resources/poi-2.5.1.jar:resources/jcommon-1.0.8.jar:resources/dom4j-full.jar:resources/mysql-connector-java-3.1.8-bin.jar:resources/servlet-api.jar" destdir="javadocs" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.5" sourcefiles="src/mil/af/rl/jcat/plan/AbstractPlan.java,src/mil/af/rl/jcat/plan/Mechanism.java,src/mil/af/rl/jcat/integration/api/Control.java,src/mil/af/rl/jcat/plan/PlanItem.java,src/mil/af/rl/jcat/util/Guid.java,src/mil/af/rl/jcat/bayesnet/BayesNet.java,src/mil/af/rl/jcat/plan/Event.java,src/mil/af/rl/jcat/integration/soa/Control.java" sourcepath="resources/help:src" splitindex="true" use="true" version="true">
+<link href="http://java.sun.com/j2se/1.5.0/docs/api/"/>
+</javadoc>
+</target>
+</project>

@@ -1,0 +1,122 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Evidence Manager</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+p.hcp3 { font-weight:bold; color:#0000ff; }
+p.hcp4 { text-align:justify; color:#0000ff; font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">The Evidence Manager </td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><a href="EvidenceTip.htm"
+									id=a3
+									style="font-weight: bold;">Evidence</a> 
+ is a way of introducing information from a detection or deduction into 
+ the model. &nbsp;To 
+ specify evidence for a particular Event or Mechanism, right click on it 
+ and select “Evidence” from the popup menu. &nbsp;The 
+ following dialog will appear:</p>
+<p>&nbsp;</p>
+<p><img src="../image61.gif" 
+ width="560" height="340" border="0"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="hcp2">There are two categories of Evidence supported 
+ by JCAT: Sensor Evidence and Absolute Evidence. &nbsp;Both 
+ types have separate tabs in the dialog. &nbsp;Sensor 
+ Evidence simulates data from a detector with two parameters: the False 
+ Alarm Rate and the Missed Detection Rate. &nbsp;Absolute 
+ Evidence simulates data from some other outside source.</p>
+<p class="hcp2">&nbsp;</p>
+<p style="font-weight: bold; color: #ff0000;">Tips:</p>
+<p class="hcp3"><a href="Application_of_Scheduling_and_Evidence.htm">Application 
+ of Scheduling and Evidence</a></p>
+<p class="hcp3"><a href="Methods_for_Scheduling_an_Event_or_Mechanism.htm">Methods 
+ for Scheduling an Event or Mechanism</a></p>
+<p class="hcp2">&nbsp;</p>
+<p style="text-align: justify;
+			color: #ff0000;
+			font-weight: bold;">See Also:</p>
+<p class="hcp4"><a href="Absolute_Evidence.htm"><span style="color: #0000ff; font-weight: bold;"><font color=blue ><B>Absolute 
+ Evidence</B></font></span></a></p>
+<p class="hcp4"><a href="Sensor_Evidence.htm"
+									style="color: #0000ff; font-weight: bold;">Sensor 
+ Evidence</a></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Dialogs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="User_Preference_Dialog.htm"
+   text-time="2008-12-04T18:17:26.815538Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="120b55810d20990b2bf054ecc210ab0e"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.768654Z"/>
+<entry
+   committed-rev="2467"
+   name="User_Preference_Image.htm"
+   text-time="2008-12-04T18:17:26.831166Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="b82e585f0d90c755e969734f6a8887a1"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.784282Z"/>
+<entry
+   committed-rev="2467"
+   name="Security_Dialog.htm"
+   text-time="2008-12-04T18:17:26.846794Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e8051c67f8251287d4725afb2ac7fe26"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:26.784282Z"/>
+</wc-entries>

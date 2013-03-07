@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Sampling"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="Adding_Removing_Plots.htm"
+   text-time="2008-12-04T18:17:28.065778Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="c88eed2fc99866bb860de0b6908fc52f"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.940754Z"/>
+<entry
+   committed-rev="2467"
+   name="Plotting.htm"
+   text-time="2008-12-04T18:17:28.081406Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="e8781a5b4c770fba002492e1b15a49e0"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.956382Z"/>
+<entry
+   committed-rev="2467"
+   name="Sampler_.htm"
+   text-time="2008-12-04T18:17:28.097034Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="cac4186fb83b1f8c671967a1a9e015ff"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.972010Z"/>
+<entry
+   committed-rev="2467"
+   name="Sampler_Dialog.htm"
+   text-time="2008-12-04T18:17:28.112662Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="9b4b1859024f497f93df77e162447123"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.972010Z"/>
+<entry
+   committed-rev="2467"
+   name="Sampler.htm"
+   text-time="2008-12-04T18:17:28.128290Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="d4afe4dd09026261c5f76f61e64f2d91"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:27.987638Z"/>
+<entry
+   committed-rev="2467"
+   name="Sampler_Dialog_Image.htm"
+   text-time="2008-12-04T18:17:28.159546Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="1cbee15760f78f1ed1212aba2b7784e6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.003266Z"/>
+<entry
+   committed-rev="2467"
+   name="Sampler_Dialog_Image_popup_topic.htm"
+   text-time="2008-12-04T18:17:28.175174Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="1cbee15760f78f1ed1212aba2b7784e6"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.018894Z"/>
+<entry
+   committed-rev="2467"
+   name="New_Topic.htm"
+   text-time="2008-12-04T18:17:28.190802Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="cf8816479201eb6d4a15bcae8b1b6505"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:28.018894Z"/>
+</wc-entries>

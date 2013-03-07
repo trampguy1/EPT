@@ -1,0 +1,151 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Event Introduction</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+span.hcp3 { font-weight:bold; }
+p.hcp4 { font-weight:bold; color:#0000ff; }
+ul.hcp5 { list-style:disc; }
+p.hcp6 { color:#0000ff; font-weight:normal; }
+p.hcp7 { text-align:justify; font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			font-size: 18pt;
+			color: #0000ff;">Events</td></tr>
+</table>
+<p>&nbsp;</p>
+<p class="hcp2">An Event is something that can occur in 
+ the real world that is also of importance to the situational model simulated 
+ by JCAT. &nbsp;If 
+ there are any actions or occurrences that are of interest in the scenario 
+ being modeled, or if there are any actions or occurrences that may affect 
+ those Events in which we are interested, these actions should be included 
+ as Events in the Model. &nbsp;Some 
+ examples of Events include: </p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">• <span class="hcp3"><B>Bomb 
+ bridge</B></span></p>
+<p class="hcp2">• <span class="hcp3"><B>Army 
+ X invades Country Y</B></span></p>
+<p class="hcp2">• <span class="hcp3"><B>Enemy 
+ forces surrender</B></span></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">In JCAT, Events are modeled as processes 
+ which are caused (initiated) by signals and then, in turn, produce other 
+ signals (effects). &nbsp;These 
+ processes can also be inhibited by incoming signals. &nbsp;Events 
+ should be concrete, observable things. &nbsp;Abstract 
+ ideas and motives should be represented as Mechanisms.</p>
+<p class="hcp2">&nbsp;</p>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#FFFFCB
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p class="hcp4">Tips: &nbsp;</p>
+<p class="hcp4">&nbsp;</p>
+<ul type="disc" class="hcp5">
+	
+	<li  class="kadov-p"><p class="hcp6">When  creating a new Model from scratch, a good strategy is to first list the 
+ Events which you are mainly concerned, then move backwards and list the 
+ Causes or Inhibitors of those events. &nbsp;For 
+ example, if your main concern is whether Country X will launch an air 
+ strike, list this as an Event first, and then list the Events affecting 
+ it: perhaps an invasion into Country X by Army Y could be a Cause, or 
+ loss of power at Country X’s air base could be an Inhibitor.</p></li>
+</ul>
+<p class="hcp6">&nbsp;</p>
+<ul type="disc" class="hcp5">
+	
+	<li  class="kadov-p"><p class="hcp6">If  an Event has multiple Causes or Inhibitors, make sure you set up any necessary 
+ group probabilities in the Specified Probabilities tab in the Event Editor 
+ dialog.</p></li>
+</ul></td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp7"><a href="Events/Event_/Event_Color_Options.htm">Why 
+ select colors for Events?</a></p>
+<p class="hcp7"><a href="Events/CreatingNewActions.htm">Creating 
+ a new Event</a></p>
+<p class="hcp7"><a href="Events/Event_Editor_Dialog_Box.htm">What's 
+ in the Event Editor Dialog Box?</a></p>
+<p class="hcp7"><a href="Events/Event_Popup_Menu.htm"><span class="hcp3"><B>Event Popup Menu</B></span></a></p>
+<p class="hcp7"><a href="Events/Event_Probabilities.htm">How 
+ Event Probabilities are used</a></p>
+<p class="hcp2">&nbsp;</p>
+<p>&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

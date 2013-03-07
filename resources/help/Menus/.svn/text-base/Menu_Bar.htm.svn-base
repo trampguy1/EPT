@@ -1,0 +1,148 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Menu Bar</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+table.hcp2 { x-cell-content-align:top; border-spacing:0px; }
+p.hcp3 { text-align:justify; }
+p.hcp4 { font-weight:bold; }
+td.hcp5 { padding-right:10px; padding-left:10px; border-left-style:none; border-right-style:None; border-bottom-style:None; }
+td.hcp6 { padding-right:10px; padding-left:10px; border-right-width:1px; border-right-style:none; border-bottom-style:None; }
+td.hcp7 { padding-right:10px; padding-left:10px; border-bottom-style:none; border-right-style:None; border-left-style:none; border-bottom-width:1px; }
+td.hcp8 { padding-right:10px; padding-left:10px; border-right-style:none; border-bottom-style:none; border-bottom-width:1px; border-right-width:1px; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Menu Bar</td></tr>
+</table>
+<p class="hcp3">&nbsp;</p>
+<p>The Menu Bar is at the top of the JCAT Application Window.</p>
+<p>&nbsp;</p>
+<p><img src="../MenuBar1.JPG"
+		x-maintain-ratio=TRUE
+		
+
+		width=338
+		height=244
+		border="0"></p>
+<p>&nbsp;</p>
+
+ <table border="0" x-use-null-cells  cellspacing="0" width="100%" class="hcp2"><col ><col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	colspan=1
+	rowspan=1
+	
+
+	bgcolor=#C0C0C0
+	width=16.518%>
+<p class="hcp4">Option </td>
+<td border="0" border="0"
+	colspan=1
+	rowspan=1
+	
+
+	bgcolor=#C0C0C0
+	width=83.482%>
+<p class="hcp4">Description</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="16.518%" class="hcp5"><p>&nbsp;</p>
+<p>File</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="83.482%" class="hcp6"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">Contains options for loading an saving 
+ Model files</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"  width="16.518%" class="hcp5"><p>&nbsp;</p>
+<p>Edit</td>
+<td border="0" border="0"  width="83.482%" class="hcp6"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">The Edit menu contains menu items: Copy, 
+ Paste, Delete, Model Documentation, and Default Probabilities. </td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0" colspan="1" rowspan="1"  width="16.518%" class="hcp5"><p>&nbsp;</p>
+<p>View</td>
+<td border="0" border="0" colspan="1" rowspan="1"  width="83.482%" class="hcp6"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">Allows users to see or hide different panes 
+ within the JCAT Application Window</td></tr>
+
+<tr border="0" valign="top" class="hcp1">
+<td border="0" colspan="1" rowspan="1"  width="16.518%" class="hcp7"><p>&nbsp;</p>
+<p>Tools</td>
+<td border="0" colspan="1" rowspan="1"  width="83.482%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">Allows users to modify miscellaneous options 
+ within JCAT</td></tr>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"  width="16.518%" class="hcp7"><p>&nbsp;</p>
+<p>Help</td>
+<td border="0" border="0"  width="83.482%" class="hcp8"><p class="hcp3">&nbsp;</p>
+<p class="hcp3">Contains helpful guidance in working with 
+ JCAT as well as information about the program and development team.</td></tr>
+</table>
+<p>&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</p>
+<p class="hcp3">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

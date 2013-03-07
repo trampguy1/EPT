@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2395"
+   name=""
+   committed-date="2008-05-09T20:45:34.378144Z"
+   url="svn://128.132.53.159/JCat/head/JCat/build/jcws/model_imgs"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2395"
+   name="Tony_coa.jpeg"
+   text-time="2008-12-04T18:17:17.157434Z"
+   committed-date="2008-05-09T20:45:34.378144Z"
+   checksum="bd8b3e70256d65775fa6540913c7e66b"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.110550Z"/>
+<entry
+   committed-rev="2391"
+   name="Baghdad.jpeg"
+   text-time="2008-12-04T18:17:17.173062Z"
+   committed-date="2008-05-09T20:43:57.687550Z"
+   checksum="44f76234307e715ece0061d4778e83f2"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:17.126178Z"/>
+</wc-entries>

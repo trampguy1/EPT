@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2361"
+   name=""
+   committed-date="2008-04-10T18:41:07.430062Z"
+   url="svn://128.132.53.159/JCat/head/JCat/src/mil/af/rl/jcat/processlibrary/signaldata"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2035"
+   name="ElicitationSet.java"
+   text-time="2007-09-25T15:36:01.783043Z"
+   committed-date="2007-04-10T13:59:51.535830Z"
+   checksum="50ef8b5f0bc238d6c2c5dd22c6414dda"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.626797Z"/>
+<entry
+   committed-rev="2015"
+   name="ModeSet.java"
+   text-time="2007-09-25T15:36:01.814292Z"
+   committed-date="2007-03-21T21:00:41.244662Z"
+   checksum="0edfd6f81fa5794b4f617df4532cef30"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.658046Z"/>
+<entry
+   committed-rev="2361"
+   name="ElicitedProbability.java"
+   text-time="2008-12-04T18:17:07.249282Z"
+   committed-date="2008-04-10T18:41:07.430062Z"
+   checksum="019f76a71eaf1877092cb1ae559cb66c"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.202398Z"/>
+<entry
+   committed-rev="2219"
+   name="SignalData.java"
+   text-time="2008-12-04T18:17:07.264910Z"
+   committed-date="2007-11-06T18:37:02.440034Z"
+   checksum="7d73a56cf87a214ad8f166edfbe013c8"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:07.233654Z"/>
+<entry
+   committed-rev="1909"
+   name="SignalSet.java"
+   text-time="2007-09-25T15:36:01.892415Z"
+   committed-date="2007-01-18T18:21:20.874431Z"
+   checksum="13a0fe7598d1a2b57b88422e1b1dafec"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.720544Z"/>
+<entry
+   committed-rev="1654"
+   name="ProtocolSet.java"
+   text-time="2007-09-25T15:36:01.923664Z"
+   committed-date="2006-10-13T17:27:45.829139Z"
+   checksum="ce7b150002b42f8e1a0f5bd64655eb16"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2007-09-25T15:36:01.751794Z"/>
+</wc-entries>

@@ -1,0 +1,107 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Event Default Probabilities</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Default Probabilities of an Event</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The Default Probabilities pane modifies 
+ the probabilities assigned to incoming and outgoing signals by default. 
+ &nbsp;These probabilities, 
+ in turn, affect how this Event is influenced by various causes and inhibitors.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><img src="../image53.gif" style="border: none;
+											width: 640px;
+											height: 420px;
+											border-style: none;
+											border-style: none;" width="640" height="420" border="0"></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The probabilities specified here will be 
+ applied by default to any signals the Event receives or sends. &nbsp;The 
+ probabilities for specific signals can be modified through the “Specified 
+ Probabilities” pane.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p style="text-align: justify; font-weight: bold;"><a href="Specified_Prob_of_an_Event.htm"
+														style="font-weight: bold;">Specified 
+ Probabilities of an Event</a></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

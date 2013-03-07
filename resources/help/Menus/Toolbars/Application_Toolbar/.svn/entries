@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2467"
+   name=""
+   committed-date="2008-05-22T18:41:19.892553Z"
+   url="svn://128.132.53.159/JCat/head/JCat/resources/help/Menus/Toolbars/Application_Toolbar"
+   last-author="dygertm"
+   kind="dir"
+   uuid="7d17b59b-b99a-b44c-b25f-d51421c44f0e"
+   repos="svn://128.132.53.159"
+   revision="2532"/>
+<entry
+   committed-rev="2467"
+   name="AppToolbar.htm"
+   text-time="2008-12-04T18:17:32.160314Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="0c593ecc83cdf6839aa9884587cfb2da"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:32.129058Z"/>
+<entry
+   committed-rev="2467"
+   name="Application_Toolbar.htm"
+   text-time="2008-12-04T18:17:32.175942Z"
+   committed-date="2008-05-22T18:41:19.892553Z"
+   checksum="4e3a513c4505b263b42d8325e900b730"
+   last-author="dygertm"
+   kind="file"
+   prop-time="2008-12-04T18:17:32.144686Z"/>
+</wc-entries>

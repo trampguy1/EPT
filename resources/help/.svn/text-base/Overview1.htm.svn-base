@@ -1,0 +1,252 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Overview1</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="w95help.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+span.hcp3 { text-align:justify; }
+span.hcp4 { text-align:justify; font-weight:bold; }
+a.hcp5 { font-weight:bold; color:#0000ff; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="color: #0000ff;
+			font-size: 18pt;
+			font-weight: bold;">A Genuinely Bayesian Tool for Managing 
+ Uncertainty in Models</td></tr>
+</table>
+<p class="hcp2">Air Force Research Laboratory (AFRL) has 
+ developed a true Bayesian tool for managing uncertainty in temporal Models. 
+ The tool is principled, rich in supported modeling details, and feasible 
+ both for humans to use and for PCs to compute.<br>
+<br>
+<span class="hcp3">During conflict, risk is continuous 
+ concern for commanders. A major source of risk is uncertainty about future 
+ outcomes of their presently Modelned and executing actions. Another source 
+ of uncertainty, is understanding how the outcomes commanders do see relate 
+ to actions they previously took or were taken by others, including the 
+ adversary. The US Air Force Research Laboratory Information Directorate 
+ (AFRL/IF) Rome Research Site is developing a technology to address each 
+ of these problems.<br>
+<br>
+Temporal Models are Models which evolve over time. Such Models present 
+ Bayesian analysis with many challenges, both humanistic and computational. 
+ &nbsp;True Bayesian 
+ analysis, with its voracious appetite for numbers, can overwhelm both 
+ analyst and computer. &nbsp;<br>
+<br>
+Current Baysean tools, in order to tame this appetite, often resort to 
+ extreme approximations. These approximations render the potential power 
+ of Bayesian analysis almost ineffective, and result in analysis little 
+ different from Fuzzy Sets or heuristics. The result is that Models are 
+ modeled and analyzed with limited, often almost useless levels of fidelity.<br>
+<br>
+The AFRL tool avoids extreme approximation not justified by the domain. 
+ By allowing the analyst to provide exactly and only those numbers she 
+ thinks important and by estimating all others through model based causal 
+ (as opposed to statistical) reasoning the tool spares the human from being 
+ overwhelmed. By avoiding computation of non-essential results, the computer 
+ can avoid being overwhelmed. The result is a tool which does not need 
+ to assume away the power of true Bayesian analysis and therefore can provide 
+ semantically meaningful results. <br>
+<br>
+</span><span class="hcp4"><B>The Problem<br>
+<br>
+</B></span><span class="hcp3">The temporal aspects of Models 
+ arise from three major sources. First the actions under the control of 
+ the Modeler are scheduled over period of time, not necessarily all taking 
+ place at once. Second, there are often delays in the effects produced 
+ by these scheduled actions, and, third, the direct and indirect effects 
+ which are produced may last for only finite period of time. The uncertainties 
+ in these Models arise because the scheduled actions will not always produce 
+ the desired effects, length of delays may vary as may periods of persistence. 
+ Moreover, multiple causes acting in temporal relation with each other 
+ may be required to produce some effects.<br>
+<br>
+Large uncertain temporal Models are notoriously difficult for humans to 
+ accurately understand. Local cause/effect uncertainties seem to be significantly 
+ easier to understand and estimate than are the uncertainties of indirect 
+ effects propagated across a Model from many local sources. For example, 
+ if a bomb of a certain kind strikes a particular type of bridge, the probability 
+ that the bridge will be unusable after the strike is understandable and 
+ can be determined, at least in principle, by empirical testing. Suppose, 
+ however, that the purpose of bombing the bridge is not simply to disrupt 
+ road transportation but also to disrupt the electrical power transmitted 
+ on cables carried by the bridge. Suppose further, that these effects are 
+ desired for their indirect effects on both food supply and morale. It 
+ is hoped that these in turn will cause civil unrest. In any reasonable 
+ Model it is likely that many other actions will also be taken with the 
+ ultimate goal of achieving civil unrest. In such a case it becomes much 
+ more difficult for humans to assess the overall effect of successfully 
+ (or not) having destroyed a particular bridge.<br>
+<br>
+The purpose of the AFRL tool is to integrate and to propagate local probabilistic 
+ assessment of Model elements into an overall assessment of global Model 
+ uncertainty. The primary output of the tool is the probability over time 
+ that particular effects will be achieved. (See Figure 2a.) This propagation 
+ is carried out in a principled way using models of the (uncertain) cause/effect 
+ relationships forming the basis of a Model. It is the principled, genuinely 
+ Bayesian, methods that differentiates the AFRL tool from its competitors. 
+ Because of its principled methods and lack of unrealistic assumptions, 
+ the results have clear meaning which can be understood, analyzed and debated.<br>
+<br>
+The uncertain analysis is done on causal models built by Modeling domain 
+ experts. The local probabilities associated with elements of the Model 
+ (e.g. the probability of closing a bridge as the result of an air attack) 
+ are also provided to the tool. While some potential users balk at the 
+ idea of providing probabilities, one of the main benefits of the tool’s 
+ principled approach is how it facilitates user provision of probabilities.<br>
+<br>
+</span><span class="hcp4"><B>The Tool<br>
+<br>
+</B></span><span class="hcp3">How does the AFRL tool differ 
+ from other superficially similar tools? With our tool, the modeler constructs 
+ a model graphically, as in many other tools. Like other tools the modeler 
+ provides numbers related to the uncertainty of the various cause/effect 
+ relations. All tools then perform computations to provide an overall assessment 
+ of uncertainty.<br>
+<br>
+But here the similarities end. Once the AFRL tool’s hood is raised, the 
+ differences from other tools are as notable as the differences between 
+ a NASCAR machine and its look-alike production model: <br>
+<br>
+1) The model is temporal not static: events can begin and end over time; 
+ effects can be delayed; effects, once achieved, may have only finite persistence. 
+ 2) The edges strictly mean “causes,” not “is conditionally dependent on,” 
+ “influences,” or some other, non-causal, perhaps ill-defined, &nbsp;meaning,. 
+ &nbsp;Nodes in 
+ the graph (causes) can have relations to each other besides “independent.” 
+ Causes can be, for example, synergistic or jointly necessary. ‘AND’ relations 
+ among causes can be modeled. Such relationships allow the user to build 
+ higher fidelity models. 3) Causal relationships can also reduce (see below) 
+ the number of probability estimates the user need provide. 4) Observations 
+ of actual events can be used, over time, to update predictive results. 
+ 5) Large models with many temporal connections spanning significant time 
+ lengths are computationally feasible. <br>
+<br>
+Yet with all these features, the meaning of the model and of the calculated 
+ probabilities remains unchanged. To those familiar with modeling uncertainty, 
+ these are large claims, and require a closer look. <br>
+<br>
+In the JCAT model below, an unpaid debt provides the motive for murder, 
+ and a private confrontation provides the opportunity. For a particular 
+ individual, whom we will call Tony, the table labeled “Probabilities of 
+ ‘Murder’” provides the probabilities that the causes, both motive and 
+ opportunity, will actually result in murder. Opportunity alone provides 
+ only 1 in 100 chance. Motive alone, without a good opportunity, gives 
+ a 30% chance. But both together make murder almost a certainty (.9 probability). 
+ &nbsp;So far, 
+ this is essentially a static model. <br>
+<br>
+<a href="Overview2.htm" id="a1" class="hcp5">Figure 1: a) Causal Model</a>; 
+ <a href="Overview3.htm" class="hcp5">b) Uncertainty of Mechanisms 
+ for Causing Murder</a><br>
+<br>
+The model becomes temporal by adding delays, start times, and persistence 
+ to model events. Such values are not illustrated here, but their effects 
+ are apparent in the graphs below: <br>
+<br>
+<a href="Overview4.htm" class="hcp5">Figure &nbsp;2: 
+ a) Correlated Cause</a>; <a href="Overview6.htm" class="hcp5">b) 
+ Independent Causes</a><br>
+<br>
+The blue line in Example 1.a shows that we expect a bad debt to almost 
+ certainly occur (probability .9, vertical axis) at time 0 (horizontal 
+ axis) and persist for four weeks. During the third week, as shown by the 
+ gold line, we are expecting Tony to have an opportunity to “do something” 
+ about the debt. So, based on our model of Tony, we think there is some 
+ probability that a murder will occur during the first three weeks, but 
+ is quite likely during the third week. However, once the debt is paid, 
+ &nbsp;murder 
+ probability drops almost to zero.<br>
+<br>
+Most existing Bayesian tools, including some popular in DoD, cannot model 
+ probabilities over time as in the example above, nor can they model the 
+ interaction between separate causes such as motive and opportunity. In 
+ one popular tool, (if it could do temporal prediction), it &nbsp;would 
+ probably produce a murder prediction such as the green line in Example 
+ 1b. It would look like this because the tool can only deal with probabilities 
+ associated with individual causes, not interacting groups of causes. To 
+ predict differently with this tool, it is probably necessary to assert 
+ that Tony has a relatively high likelihood of committing murder, given 
+ opportunity alone but no motive.<br>
+<br>
+Because the mathematics underlying JCAT preserve the probabilistic semantics 
+ of the input, we are justified in claiming that the probability of murder 
+ in the third week is 70%. If, like some tools, the probabilistic interpretation 
+ of computations was not preserved, we might be able to say no more than 
+ that there are more influences indicating murder in the third week. JCAT 
+ offers users a clear definition of the parameters that they are estimating. 
+ The value, .90, shown in Figure 1(b) means exactly that we expect: that 
+ with 90% probability, if Tony has both motive and opportunity, he will 
+ murder. All parameters entered into JCAT can be the product of such small 
+ gedanken experiments.<br>
+<br>
+JCAT provides superior prediction and inference because it provides more 
+ accurate probabilistic models of domains. Bayes’ rule is only as good 
+ as the probabilistic models to which it applies. So Bayes’rule is never 
+ more powerful than when applied within the context of JCAT.</span></p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>.</p>
+
+</body>
+</html>

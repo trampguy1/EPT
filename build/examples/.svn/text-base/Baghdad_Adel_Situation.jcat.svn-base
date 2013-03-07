@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Plan name="Baghdad_Adel_Situation.jcat" guid="e45452c4-f581-49cd-99de-99c009eac4f5" version="1.2.0" default_probability_set="standard">
+  <documentation>
+    <description></description>
+  </documentation>
+  <Graph>
+    <Shape id="3007c20a:1096e2db0e9:-7fd9:127.0.0.1" type="mechanism">
+      <itemguid>e29f42f4-10e5-46b8-a236-43784a269bd9</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff7:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>399 169 620 130 841 91 </controlPoints>
+      <text>Coaliton viewed as occupiers of Muslim lands</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff3:127.0.0.1" type="event">
+      <itemguid>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>260.0</xpos>
+      <ypos>140.0</ypos>
+      <text>Violent Resistance by Leaders Supporters
+
+Sunni Fundamentalists</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fcb:127.0.0.1" type="mechanism">
+      <itemguid>c758a0c4-7c32-4c3b-b75e-1e07577bf28b</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fcd:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>863 602 621 410 379 218 </controlPoints>
+      <text>put Iraqi face on the operation</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff4:127.0.0.1" type="event">
+      <itemguid>c7322c5c-ebeb-483e-985d-246eaa4f5d90</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>580.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Bribe
+
+Sunni Cleric</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fcf:127.0.0.1" type="mechanism">
+      <itemguid>bca8c64e-e3df-4c84-b58a-33f4613bec05</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fea:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fd0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>584 218 630 250 676 282 </controlPoints>
+      <text>damage to economic infrastructure</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ffb:127.0.0.1" type="event">
+      <itemguid>987d01c4-3fc4-46fc-8c5a-aabf290f1f82</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>380.0</xpos>
+      <ypos>400.0</ypos>
+      <text>Leader Influenced to Joint Political Process
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fee:127.0.0.1" type="event">
+      <itemguid>04302636-f040-4a74-ad1e-037c73f74734</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>99</gcolor>
+      <bcolor>22</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>1020.0</xpos>
+      <ypos>140.0</ypos>
+      <text>Local Civil War
+
+Bagdhad</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7feb:127.0.0.1" type="event">
+      <itemguid>cb1932cf-f30f-44c0-b57e-0c82def75af2</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>440.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Capture by USF
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd4:127.0.0.1" type="mechanism">
+      <itemguid>73dfec5d-39dd-4ea0-8070-69da25bf4c9a</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fea:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>400 180 430 180 460 180 </controlPoints>
+      <text>attack local secular governemnt</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fef:127.0.0.1" type="event">
+      <itemguid>7a79f627-4413-4b87-922f-adaf3e2a1e09</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>720.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Co-opt into Government
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd1:127.0.0.1" type="mechanism">
+      <itemguid>71a08feb-2cbf-424e-99a4-17af1246c87e</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ffb:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff2:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>412 402 270 260 128 118 </controlPoints>
+      <text>leader incurages positive local reforms</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff1:127.0.0.1" type="event">
+      <itemguid>40bc29b8-a139-465b-915e-2139807ee623</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>260.0</xpos>
+      <ypos>40.0</ypos>
+      <text>Political Process Shut Down
+
+Bagdhad Adel neighborhood</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe7:127.0.0.1" type="mechanism">
+      <itemguid>7f93b817-a737-4b99-8752-b4c6b5a90c17</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fe8:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff8:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>417 602 498 540 579 478 </controlPoints>
+      <text>social pressure on Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe6:127.0.0.1" type="mechanism">
+      <itemguid>9bea475e-e1bd-47ec-bf67-1ed1cc82f20f</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff4:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fe9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>582 619 370 542 158 464 </controlPoints>
+      <text>attempt to coerce backfires</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe0:127.0.0.1" type="mechanism">
+      <itemguid>621a681c-90cc-4be4-a902-86a24ce4a2f8</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fea:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>541 219 550 250 559 281 </controlPoints>
+      <text>loss of face by local government</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fdb:127.0.0.1" type="mechanism">
+      <itemguid>1ae4bf1e-5e88-4f45-ac45-3a5807a6c93d</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff1:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>400 80 430 80 460 80 </controlPoints>
+      <text>failure of political process</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd0:127.0.0.1" type="event">
+      <itemguid>fcc837cf-f161-4e40-a920-61ea84c5f041</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>660.0</xpos>
+      <ypos>280.0</ypos>
+      <text>Local Economy Declines
+
+Bagdhad Area</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fde:127.0.0.1" type="mechanism">
+      <itemguid>fd812bb7-e327-4ecf-aa0c-a95fd5daa238</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff2:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff1:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>160 80 210 80 260 80 </controlPoints>
+      <text>disrupt political process locally</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe4:127.0.0.1" type="mechanism">
+      <itemguid>1374a547-1e73-4a06-9226-5293287e52d0</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fed:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>279 401 300 310 321 219 </controlPoints>
+      <text>retaliation by Leaders supporters</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fc7:127.0.0.1" type="mechanism">
+      <itemguid>5cc25c70-977d-4ba4-825d-9c4f87f66019</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fd0:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>660 320 650 320 640 320 </controlPoints>
+      <text>increased unemployment</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd2:127.0.0.1" type="mechanism">
+      <itemguid>2160b4a2-4495-4cc8-a0a3-43ff5626585b</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ffa:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fea:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>443 281 470 250 497 219 </controlPoints>
+      <text>attack local secular governemnt</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fca:127.0.0.1" type="event">
+      <itemguid>871368a4-3ccd-4453-91e4-fe8ed73610d7</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>800.0</xpos>
+      <ypos>400.0</ypos>
+      <text>National Ethnical Divistion
+
+Sunni vs Shia and Kurds</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fc8:127.0.0.1" type="mechanism">
+      <itemguid>eed8daa3-204f-417b-bbe3-a941603d8bda</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fca:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>849 401 800 310 751 219 </controlPoints>
+      <text>ethnic or religious alianation</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff9:127.0.0.1" type="event">
+      <itemguid>af1b19f7-0c78-4896-9bc0-e23e9ce1a71b</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>460.0</xpos>
+      <ypos>40.0</ypos>
+      <text>Radicalization of Population
+
+Adel Neighborhood</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fec:127.0.0.1" type="event">
+      <itemguid>bc1ae8d2-de4c-4c81-95e3-93bd7222cf7f</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>160.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Coerce
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe8:127.0.0.1" type="event">
+      <itemguid>4fc81725-5cc8-47f5-a02a-f1bfd6b80318</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>300.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Discredit
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd8:127.0.0.1" type="mechanism">
+      <itemguid>9b544396-ce49-44ee-8203-92ed668d1602</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff6:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fee:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>800 180 910 180 1020 180 </controlPoints>
+      <text>rival factions resort to violence</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fcd:127.0.0.1" type="event">
+      <itemguid>cb98cefb-66e1-444c-9462-9b23fe4cf831</itemguid>
+      <rcolor>255</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>70</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>860.0</xpos>
+      <ypos>600.0</ypos>
+      <text>ISF Capture Target
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe5:127.0.0.1" type="mechanism">
+      <itemguid>f81a5189-ba27-4ab6-9fbe-a5dade6461c2</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff2:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ffa:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>141 118 250 200 359 282 </controlPoints>
+      <text>declare current social structure un-Islamic</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fce:127.0.0.1" type="mechanism">
+      <itemguid>36f8543b-ad04-4452-abbf-2c0cdca069de</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff7:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fd0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>881 119 820 200 759 281 </controlPoints>
+      <text>damage to economic infrastructure</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd6:127.0.0.1" type="mechanism">
+      <itemguid>1bd4f7fa-940d-47f8-9f25-9ed00b246073</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fef:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>723 602 620 540 517 478 </controlPoints>
+      <text>leader legitimized by acceptence into government</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe2:127.0.0.1" type="mechanism">
+      <itemguid>3161d0a3-ba41-4011-a295-7b1d445c664c</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fed:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff2:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>251 401 180 260 109 119 </controlPoints>
+      <text>kill Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe3:127.0.0.1" type="mechanism">
+      <itemguid>b2b77497-8ff9-41e6-8330-e6ac6b57e04c</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fec:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fe9:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>195 601 155 540 115 479 </controlPoints>
+      <text>attempt to coerce backfires</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fda:127.0.0.1" type="mechanism">
+      <itemguid>9b9691ee-392a-4cb1-a0a8-0067f5f2e7a1</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7feb:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fed:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>456 602 385 540 314 478 </controlPoints>
+      <text>local operation results in killing the target</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe1:127.0.0.1" type="mechanism">
+      <itemguid>9b5d152e-faf5-45f8-a971-accf57996d2d</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff2:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>157 118 210 130 263 142 </controlPoints>
+      <text>incite Sunni fundamentalists</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fc9:127.0.0.1" type="mechanism">
+      <itemguid>fce9978f-df04-4fc8-8e2d-03ca376bfc15</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff8:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fca:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>700 440 750 440 800 440 </controlPoints>
+      <text>reinforce division lines</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fe9:127.0.0.1" type="event">
+      <itemguid>c0b07b7d-0f0d-44ce-bdf2-ccb9cf2a963e</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>20.0</xpos>
+      <ypos>400.0</ypos>
+      <text>Increased Motivation to Destroy IG
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd5:127.0.0.1" type="mechanism">
+      <itemguid>3144032c-4047-4952-8561-c13b009ba8c0</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff8:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</endkey>
+      <style>dashed</style>
+      <type>straight</type>
+      <controlPoints>586 402 480 310 374 218 </controlPoints>
+      <text>reduce fundamentalists support base</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fdf:127.0.0.1" type="mechanism">
+      <itemguid>e5c0902e-511a-4afd-86c7-c8d8136f6725</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff3:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff0:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>397 218 450 250 503 282 </controlPoints>
+      <text>lack of security in Bagdhad</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fdc:127.0.0.1" type="mechanism">
+      <itemguid>676ef569-3130-4f97-be96-450b2adaa552</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff5:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ffb:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>137 602 260 540 383 478 </controlPoints>
+      <text>leader recongnizes the benefit of a peaceful process</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd3:127.0.0.1" type="mechanism">
+      <itemguid>c38512c6-e0fc-485e-98dd-5bab4a0826c4</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fe9:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ffa:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>157 415 250 380 343 345 </controlPoints>
+      <text>incurage anti IG opposition</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff0:127.0.0.1" type="event">
+      <itemguid>16496cae-0cd1-4e81-b24f-cd1b5d121ccb</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>500.0</xpos>
+      <ypos>280.0</ypos>
+      <text>Local Population Loses Faith in Government
+
+Bagdhad</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fd7:127.0.0.1" type="mechanism">
+      <itemguid>b6c86f14-fd42-4f46-a7b2-1b53f904e18e</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fea:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff6:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>600 180 630 180 660 180 </controlPoints>
+      <text>oppostion to Cleric faction grows</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff7:127.0.0.1" type="event">
+      <itemguid>09dc0453-dba5-49f8-a720-1555f6bf5044</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>840.0</xpos>
+      <ypos>40.0</ypos>
+      <text>Increase in Violence
+
+Coalition and IG</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff6:127.0.0.1" type="event">
+      <itemguid>612a3923-de30-417f-bd48-82ad8e1437ec</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>660.0</xpos>
+      <ypos>140.0</ypos>
+      <text>Increased Factionalism
+
+Bagdhad</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fed:127.0.0.1" type="event">
+      <itemguid>ec2bd77e-7beb-4712-b003-3d40062405b7</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>200.0</xpos>
+      <ypos>400.0</ypos>
+      <text>Neutralize Target
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff8:127.0.0.1" type="event">
+      <itemguid>a3a5795c-a532-425d-afd4-a596ef8323dd</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>560.0</xpos>
+      <ypos>400.0</ypos>
+      <text>Local Oposition to Sunni Leader
+
+Kurds, Shia, and Secular Sunni</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="-4882f171:11a55043039:-7ff9:127.0.1.1" type="mechanism">
+      <itemguid>0ec7baee-ba84-4e50-bbd2-b32c6f6eba51</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7fcd:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7fed:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>862 622 600 542 338 461 </controlPoints>
+      <text>kill Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fdd:127.0.0.1" type="mechanism">
+      <itemguid>93a5b1fb-3d24-46bf-82c2-5403b91f7279</itemguid>
+      <startkey>3007c20a:1096e2db0e9:-7ff9:127.0.0.1</startkey>
+      <endkey>3007c20a:1096e2db0e9:-7ff7:127.0.0.1</endkey>
+      <style>solid</style>
+      <type>straight</type>
+      <controlPoints>600 80 720 80 840 80 </controlPoints>
+      <text>attack local secular governemnt</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff2:127.0.0.1" type="event">
+      <itemguid>730d422d-b08d-4d6f-8965-4efff41a466e</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>20.0</xpos>
+      <ypos>40.0</ypos>
+      <text>Sunni Leader Advocating Violent Overthrow
+
+Iraqi Government</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ff5:127.0.0.1" type="event">
+      <itemguid>bac4382f-fc70-42f9-9b11-3166d5e65f36</itemguid>
+      <rcolor>130</rcolor>
+      <gcolor>255</gcolor>
+      <bcolor>118</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>120</width>
+      <xpos>20.0</xpos>
+      <ypos>600.0</ypos>
+      <text>Dissuade
+
+Sunni Leader</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7ffa:127.0.0.1" type="event">
+      <itemguid>00f28ddd-5d5e-40f2-b96b-c2bb3d63624e</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>340.0</xpos>
+      <ypos>280.0</ypos>
+      <text>Sunni Leader Exerts Social Pressure
+
+Adel neighborhood</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <Shape id="3007c20a:1096e2db0e9:-7fea:127.0.0.1" type="event">
+      <itemguid>3760a8eb-2f1e-4634-9596-1c4dfe2b8048</itemguid>
+      <rcolor>0</rcolor>
+      <gcolor>128</gcolor>
+      <bcolor>255</bcolor>
+      <alpha>255</alpha>
+      <height>80</height>
+      <width>140</width>
+      <xpos>460.0</xpos>
+      <ypos>140.0</ypos>
+      <text>Cleric Followers Subotage Local Infrastructure
+
+Bagdhad Region</text>
+      <font>Dialog:1:11</font>
+      <font-rcolor>0</font-rcolor>
+      <font-gcolor>0</font-gcolor>
+      <font-bcolor>0</font-bcolor>
+    </Shape>
+    <DefaultFont>Dialog:1:11</DefaultFont>
+  </Graph>
+  <Logic>
+    <PlanItem name="local operation results in killing the target" label="" guid="9b9691ee-392a-4cb1-a0a8-0067f5f2e7a1" type="mechanism">
+      <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+      <ToEvent>ec2bd77e-7beb-4712-b003-3d40062405b7 </ToEvent>
+      <FromEvent>cb1932cf-f30f-44c0-b57e-0c82def75af2</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="incite Sunni fundamentalists" label="" guid="9b5d152e-faf5-45f8-a971-accf57996d2d" type="mechanism">
+      <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+      <ToEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9 </ToEvent>
+      <FromEvent>730d422d-b08d-4d6f-8965-4efff41a466e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Population Loses Faith in Government" label="Bagdhad" guid="16496cae-0cd1-4e81-b24f-cd1b5d121ccb" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="621a681c-90cc-4be4-a902-86a24ce4a2f8"/>
+        <Mech guid="5cc25c70-977d-4ba4-825d-9c4f87f66019"/>
+        <Mech guid="e5c0902e-511a-4afd-86c7-c8d8136f6725"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>75e111e1-cfe8-45b1-bd54-50324f2be488</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="attempt to coerce backfires" label="" guid="9bea475e-e1bd-47ec-bf67-1ed1cc82f20f" type="mechanism">
+      <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+      <ToEvent>c0b07b7d-0f0d-44ce-bdf2-ccb9cf2a963e </ToEvent>
+      <FromEvent>c7322c5c-ebeb-483e-985d-246eaa4f5d90</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="damage to economic infrastructure" label="" guid="bca8c64e-e3df-4c84-b58a-33f4613bec05" type="mechanism">
+      <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+      <ToEvent>fcc837cf-f161-4e40-a920-61ea84c5f041 </ToEvent>
+      <FromEvent>3760a8eb-2f1e-4634-9596-1c4dfe2b8048</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="reduce fundamentalists support base" label="" guid="3144032c-4047-4952-8561-c13b009ba8c0" type="mechanism">
+      <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+      <ToEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9 </ToEvent>
+      <FromEvent>a3a5795c-a532-425d-afd4-a596ef8323dd</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Neutralize Target" label="Sunni Leader" guid="ec2bd77e-7beb-4712-b003-3d40062405b7" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9b9691ee-392a-4cb1-a0a8-0067f5f2e7a1"/>
+        <Mech guid="0ec7baee-ba84-4e50-bbd2-b32c6f6eba51"/>
+      </Causes>
+      <Effects>
+        <Mech guid="1374a547-1e73-4a06-9226-5293287e52d0"/>
+        <Mech guid="3161d0a3-ba41-4011-a295-7b1d445c664c"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>60</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>662d49f6-5f3e-445f-8697-10c324bf5ecf</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="kill Sunni Leader" label="" guid="3161d0a3-ba41-4011-a295-7b1d445c664c" type="mechanism">
+      <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+      <ToEvent>730d422d-b08d-4d6f-8965-4efff41a466e </ToEvent>
+      <FromEvent>ec2bd77e-7beb-4712-b003-3d40062405b7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Leader Influenced to Joint Political Process" label="Sunni Leader" guid="987d01c4-3fc4-46fc-8c5a-aabf290f1f82" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="1bd4f7fa-940d-47f8-9f25-9ed00b246073"/>
+        <Mech guid="676ef569-3130-4f97-be96-450b2adaa552"/>
+      </Causes>
+      <Effects>
+        <Mech guid="71a08feb-2cbf-424e-99a4-17af1246c87e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>150d403a-2527-4c70-aa76-1f1e19eefb58</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="declare current social structure un-Islamic" label="" guid="f81a5189-ba27-4ab6-9fbe-a5dade6461c2" type="mechanism">
+      <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+      <ToEvent>00f28ddd-5d5e-40f2-b96b-c2bb3d63624e </ToEvent>
+      <FromEvent>730d422d-b08d-4d6f-8965-4efff41a466e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Cleric Followers Subotage Local Infrastructure" label="Bagdhad Region" guid="3760a8eb-2f1e-4634-9596-1c4dfe2b8048" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="73dfec5d-39dd-4ea0-8070-69da25bf4c9a"/>
+        <Mech guid="2160b4a2-4495-4cc8-a0a3-43ff5626585b"/>
+      </Causes>
+      <Effects>
+        <Mech guid="bca8c64e-e3df-4c84-b58a-33f4613bec05"/>
+        <Mech guid="621a681c-90cc-4be4-a902-86a24ce4a2f8"/>
+        <Mech guid="b6c86f14-fd42-4f46-a7b2-1b53f904e18e"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>92111b26-ebfc-4f4d-ace4-08f7772506e6</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Capture by USF" label="Sunni Leader" guid="cb1932cf-f30f-44c0-b57e-0c82def75af2" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="9b9691ee-392a-4cb1-a0a8-0067f5f2e7a1"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>eed2697f-90fa-4c4c-bb11-6fbd2b812303</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="ISF Capture Target" label="Sunni Leader" guid="cb98cefb-66e1-444c-9462-9b23fe4cf831" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="10">0.96</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="c758a0c4-7c32-4c3b-b75e-1e07577bf28b"/>
+        <Mech guid="0ec7baee-ba84-4e50-bbd2-b32c6f6eba51"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>60</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>f3c4ac59-baac-4822-9ba8-99e44d3356ad</PGuid>
+      <SchemeAttribute>Iraqi Security Forces</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="increased unemployment" label="" guid="5cc25c70-977d-4ba4-825d-9c4f87f66019" type="mechanism">
+      <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+      <ToEvent>16496cae-0cd1-4e81-b24f-cd1b5d121ccb </ToEvent>
+      <FromEvent>fcc837cf-f161-4e40-a920-61ea84c5f041</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Local Oposition to Sunni Leader" label="Kurds, Shia, and Secular Sunni" guid="a3a5795c-a532-425d-afd4-a596ef8323dd" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="7f93b817-a737-4b99-8752-b4c6b5a90c17"/>
+      </Causes>
+      <Effects>
+        <Mech guid="fce9978f-df04-4fc8-8e2d-03ca376bfc15"/>
+        <Mech guid="3144032c-4047-4952-8561-c13b009ba8c0"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>3be1ac75-e20e-4059-8890-856230bdb39d</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="disrupt political process locally" label="" guid="fd812bb7-e327-4ecf-aa0c-a95fd5daa238" type="mechanism">
+      <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+      <ToEvent>40bc29b8-a139-465b-915e-2139807ee623 </ToEvent>
+      <FromEvent>730d422d-b08d-4d6f-8965-4efff41a466e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="social pressure on Sunni Leader" label="" guid="7f93b817-a737-4b99-8752-b4c6b5a90c17" type="mechanism">
+      <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+      <ToEvent>a3a5795c-a532-425d-afd4-a596ef8323dd </ToEvent>
+      <FromEvent>4fc81725-5cc8-47f5-a02a-f1bfd6b80318</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Co-opt into Government" label="Sunni Leader" guid="7a79f627-4413-4b87-922f-adaf3e2a1e09" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="1bd4f7fa-940d-47f8-9f25-9ed00b246073"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>e3c9267f-556b-4367-9ae2-272de5dbba65</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="retaliation by Leaders supporters" label="" guid="1374a547-1e73-4a06-9226-5293287e52d0" type="mechanism">
+      <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+      <ToEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9 </ToEvent>
+      <FromEvent>ec2bd77e-7beb-4712-b003-3d40062405b7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Sunni Leader Advocating Violent Overthrow" label="Iraqi Government" guid="730d422d-b08d-4d6f-8965-4efff41a466e" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule>
+        <Probability time="1">0.96</Probability>
+      </Schedule>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="fd812bb7-e327-4ecf-aa0c-a95fd5daa238"/>
+        <Mech guid="f81a5189-ba27-4ab6-9fbe-a5dade6461c2"/>
+        <Mech guid="9b5d152e-faf5-45f8-a971-accf57996d2d"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="71a08feb-2cbf-424e-99a4-17af1246c87e"/>
+        <Mech guid="3161d0a3-ba41-4011-a295-7b1d445c664c"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>7</Persistence>
+      <Continuation>0.51f</Continuation>
+      <PGuid>a49e4103-4379-4545-8a5c-d0d9177c8695</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="damage to economic infrastructure" label="" guid="36f8543b-ad04-4452-abbf-2c0cdca069de" type="mechanism">
+      <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+      <ToEvent>fcc837cf-f161-4e40-a920-61ea84c5f041 </ToEvent>
+      <FromEvent>09dc0453-dba5-49f8-a720-1555f6bf5044</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Radicalization of Population" label="Adel Neighborhood" guid="af1b19f7-0c78-4896-9bc0-e23e9ce1a71b" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="1ae4bf1e-5e88-4f45-ac45-3a5807a6c93d"/>
+      </Causes>
+      <Effects>
+        <Mech guid="93a5b1fb-3d24-46bf-82c2-5403b91f7279"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>f369b905-6bee-4749-8868-51007099094b</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="rival factions resort to violence" label="" guid="9b544396-ce49-44ee-8203-92ed668d1602" type="mechanism">
+      <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+      <ToEvent>04302636-f040-4a74-ad1e-037c73f74734 </ToEvent>
+      <FromEvent>612a3923-de30-417f-bd48-82ad8e1437ec</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="leader incurages positive local reforms" label="" guid="71a08feb-2cbf-424e-99a4-17af1246c87e" type="mechanism">
+      <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+      <ToEvent>730d422d-b08d-4d6f-8965-4efff41a466e </ToEvent>
+      <FromEvent>987d01c4-3fc4-46fc-8c5a-aabf290f1f82</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Coerce" label="Sunni Leader" guid="bc1ae8d2-de4c-4c81-95e3-93bd7222cf7f" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="b2b77497-8ff9-41e6-8330-e6ac6b57e04c"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>f4ae0711-2a7e-411c-999a-d62b090603d6</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Political Process Shut Down" label="Bagdhad Adel neighborhood" guid="40bc29b8-a139-465b-915e-2139807ee623" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="fd812bb7-e327-4ecf-aa0c-a95fd5daa238"/>
+      </Causes>
+      <Effects>
+        <Mech guid="1ae4bf1e-5e88-4f45-ac45-3a5807a6c93d"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>00962104-b037-4ca4-a3c3-409b5ca0ff63</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="oppostion to Cleric faction grows" label="" guid="b6c86f14-fd42-4f46-a7b2-1b53f904e18e" type="mechanism">
+      <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+      <ToEvent>612a3923-de30-417f-bd48-82ad8e1437ec </ToEvent>
+      <FromEvent>3760a8eb-2f1e-4634-9596-1c4dfe2b8048</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="attack local secular governemnt" label="" guid="73dfec5d-39dd-4ea0-8070-69da25bf4c9a" type="mechanism">
+      <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+      <ToEvent>3760a8eb-2f1e-4634-9596-1c4dfe2b8048 </ToEvent>
+      <FromEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Discredit" label="Sunni Leader" guid="4fc81725-5cc8-47f5-a02a-f1bfd6b80318" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="7f93b817-a737-4b99-8752-b4c6b5a90c17"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>c37b55bd-0e38-44d9-b57a-ed1c3d03e150</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Sunni Leader Exerts Social Pressure" label="Adel neighborhood" guid="00f28ddd-5d5e-40f2-b96b-c2bb3d63624e" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="f81a5189-ba27-4ab6-9fbe-a5dade6461c2"/>
+        <Mech guid="c38512c6-e0fc-485e-98dd-5bab4a0826c4"/>
+      </Causes>
+      <Effects>
+        <Mech guid="2160b4a2-4495-4cc8-a0a3-43ff5626585b"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>8af8634a-472b-4c26-983f-ef93fa6f5451</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Coaliton viewed as occupiers of Muslim lands" label="" guid="e29f42f4-10e5-46b8-a236-43784a269bd9" type="mechanism">
+      <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+      <ToEvent>09dc0453-dba5-49f8-a720-1555f6bf5044 </ToEvent>
+      <FromEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="loss of face by local government" label="" guid="621a681c-90cc-4be4-a902-86a24ce4a2f8" type="mechanism">
+      <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+      <ToEvent>16496cae-0cd1-4e81-b24f-cd1b5d121ccb </ToEvent>
+      <FromEvent>3760a8eb-2f1e-4634-9596-1c4dfe2b8048</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Increased Motivation to Destroy IG" label="Sunni Leader" guid="c0b07b7d-0f0d-44ce-bdf2-ccb9cf2a963e" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9bea475e-e1bd-47ec-bf67-1ed1cc82f20f"/>
+        <Mech guid="b2b77497-8ff9-41e6-8330-e6ac6b57e04c"/>
+      </Causes>
+      <Effects>
+        <Mech guid="c38512c6-e0fc-485e-98dd-5bab4a0826c4"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>ecc0d6db-6a12-4544-b56c-ebed1fa9c894</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Local Economy Declines" label="Bagdhad Area" guid="fcc837cf-f161-4e40-a920-61ea84c5f041" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="bca8c64e-e3df-4c84-b58a-33f4613bec05"/>
+        <Mech guid="36f8543b-ad04-4452-abbf-2c0cdca069de"/>
+      </Causes>
+      <Effects>
+        <Mech guid="5cc25c70-977d-4ba4-825d-9c4f87f66019"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>92c59234-a6ad-4602-a8d6-d9a61ee0c1c7</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="Local Civil War" label="Bagdhad" guid="04302636-f040-4a74-ad1e-037c73f74734" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="9b544396-ce49-44ee-8203-92ed668d1602"/>
+      </Causes>
+      <Effects/>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>7424890e-92c4-4565-a70e-5bec0f8fbd81</PGuid>
+      <SchemeAttribute>Select Color</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="National Ethnical Divistion" label="Sunni vs Shia and Kurds" guid="871368a4-3ccd-4453-91e4-fe8ed73610d7" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="fce9978f-df04-4fc8-8e2d-03ca376bfc15"/>
+      </Causes>
+      <Effects>
+        <Mech guid="eed8daa3-204f-417b-bbe3-a941603d8bda"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>2855c508-ab3c-4f09-ac2e-208981249e59</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="failure of political process" label="" guid="1ae4bf1e-5e88-4f45-ac45-3a5807a6c93d" type="mechanism">
+      <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+      <ToEvent>af1b19f7-0c78-4896-9bc0-e23e9ce1a71b </ToEvent>
+      <FromEvent>40bc29b8-a139-465b-915e-2139807ee623</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="kill Sunni Leader" label="" guid="0ec7baee-ba84-4e50-bbd2-b32c6f6eba51" type="mechanism">
+      <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+      <ToEvent>ec2bd77e-7beb-4712-b003-3d40062405b7 </ToEvent>
+      <FromEvent>cb98cefb-66e1-444c-9462-9b23fe4cf831</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Violent Resistance by Leaders Supporters" label="Sunni Fundamentalists" guid="3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="1374a547-1e73-4a06-9226-5293287e52d0"/>
+        <Mech guid="9b5d152e-faf5-45f8-a971-accf57996d2d"/>
+      </Causes>
+      <Effects>
+        <Mech guid="e29f42f4-10e5-46b8-a236-43784a269bd9"/>
+        <Mech guid="73dfec5d-39dd-4ea0-8070-69da25bf4c9a"/>
+        <Mech guid="e5c0902e-511a-4afd-86c7-c8d8136f6725"/>
+      </Effects>
+      <Inhibits>
+        <Mech guid="c758a0c4-7c32-4c3b-b75e-1e07577bf28b"/>
+        <Mech guid="3144032c-4047-4952-8561-c13b009ba8c0"/>
+      </Inhibits>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>dee0198d-46ed-4e87-9c92-582187781325</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="lack of security in Bagdhad" label="" guid="e5c0902e-511a-4afd-86c7-c8d8136f6725" type="mechanism">
+      <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+      <ToEvent>16496cae-0cd1-4e81-b24f-cd1b5d121ccb </ToEvent>
+      <FromEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="leader legitimized by acceptence into government" label="" guid="1bd4f7fa-940d-47f8-9f25-9ed00b246073" type="mechanism">
+      <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+      <ToEvent>987d01c4-3fc4-46fc-8c5a-aabf290f1f82 </ToEvent>
+      <FromEvent>7a79f627-4413-4b87-922f-adaf3e2a1e09</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="incurage anti IG opposition" label="" guid="c38512c6-e0fc-485e-98dd-5bab4a0826c4" type="mechanism">
+      <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+      <ToEvent>00f28ddd-5d5e-40f2-b96b-c2bb3d63624e </ToEvent>
+      <FromEvent>c0b07b7d-0f0d-44ce-bdf2-ccb9cf2a963e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="attack local secular governemnt" label="" guid="2160b4a2-4495-4cc8-a0a3-43ff5626585b" type="mechanism">
+      <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+      <ToEvent>3760a8eb-2f1e-4634-9596-1c4dfe2b8048 </ToEvent>
+      <FromEvent>00f28ddd-5d5e-40f2-b96b-c2bb3d63624e</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="attempt to coerce backfires" label="" guid="b2b77497-8ff9-41e6-8330-e6ac6b57e04c" type="mechanism">
+      <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+      <ToEvent>c0b07b7d-0f0d-44ce-bdf2-ccb9cf2a963e </ToEvent>
+      <FromEvent>bc1ae8d2-de4c-4c81-95e3-93bd7222cf7f</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="put Iraqi face on the operation" label="" guid="c758a0c4-7c32-4c3b-b75e-1e07577bf28b" type="mechanism">
+      <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+      <ToEvent>3f111c2e-32ec-41ef-ae63-7ac9ee6d10f9 </ToEvent>
+      <FromEvent>cb98cefb-66e1-444c-9462-9b23fe4cf831</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Dissuade" label="Sunni Leader" guid="bac4382f-fc70-42f9-9b11-3166d5e65f36" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="676ef569-3130-4f97-be96-450b2adaa552"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>08361ae6-1e5c-4763-a4c7-eecea936f41f</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="reinforce division lines" label="" guid="fce9978f-df04-4fc8-8e2d-03ca376bfc15" type="mechanism">
+      <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+      <ToEvent>871368a4-3ccd-4453-91e4-fe8ed73610d7 </ToEvent>
+      <FromEvent>a3a5795c-a532-425d-afd4-a596ef8323dd</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="ethnic or religious alianation" label="" guid="eed8daa3-204f-417b-bbe3-a941603d8bda" type="mechanism">
+      <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+      <ToEvent>612a3923-de30-417f-bd48-82ad8e1437ec </ToEvent>
+      <FromEvent>871368a4-3ccd-4453-91e4-fe8ed73610d7</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Increased Factionalism" label="Bagdhad" guid="612a3923-de30-417f-bd48-82ad8e1437ec" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="eed8daa3-204f-417b-bbe3-a941603d8bda"/>
+        <Mech guid="b6c86f14-fd42-4f46-a7b2-1b53f904e18e"/>
+      </Causes>
+      <Effects>
+        <Mech guid="9b544396-ce49-44ee-8203-92ed668d1602"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>7ae28e10-b79c-4254-8b9a-2fc9b5052ebc</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="leader recongnizes the benefit of a peaceful process" label="" guid="676ef569-3130-4f97-be96-450b2adaa552" type="mechanism">
+      <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+      <ToEvent>987d01c4-3fc4-46fc-8c5a-aabf290f1f82 </ToEvent>
+      <FromEvent>bac4382f-fc70-42f9-9b11-3166d5e65f36</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Bribe" label="Sunni Cleric" guid="c7322c5c-ebeb-483e-985d-246eaa4f5d90" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes/>
+      <Effects>
+        <Mech guid="9bea475e-e1bd-47ec-bf67-1ed1cc82f20f"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>15030b95-9c04-4a14-8e39-4852b1aff3fd</PGuid>
+      <SchemeAttribute>Coalition Activities</SchemeAttribute>
+    </PlanItem>
+    <PlanItem name="attack local secular governemnt" label="" guid="93a5b1fb-3d24-46bf-82c2-5403b91f7279" type="mechanism">
+      <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+      <ToEvent>09dc0453-dba5-49f8-a720-1555f6bf5044 </ToEvent>
+      <FromEvent>af1b19f7-0c78-4896-9bc0-e23e9ce1a71b</FromEvent>
+      <ClosesLoop>false</ClosesLoop>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <Schedule/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+    </PlanItem>
+    <PlanItem name="Increase in Violence" label="Coalition and IG" guid="09dc0453-dba5-49f8-a720-1555f6bf5044" type="event">
+      <ResourceExpenditureType>AND</ResourceExpenditureType>
+      <documentation>
+        <description></description>
+      </documentation>
+      <Schedule/>
+      <Evidence>
+        <Absolute/>
+        <Sensor/>
+      </Evidence>
+      <DefLeak>0.0</DefLeak>
+      <Causes>
+        <Mech guid="e29f42f4-10e5-46b8-a236-43784a269bd9"/>
+        <Mech guid="93a5b1fb-3d24-46bf-82c2-5403b91f7279"/>
+      </Causes>
+      <Effects>
+        <Mech guid="36f8543b-ad04-4452-abbf-2c0cdca069de"/>
+      </Effects>
+      <Inhibits/>
+      <Delay>0</Delay>
+      <Persistence>1</Persistence>
+      <Continuation>0.0f</Continuation>
+      <PGuid>de46e752-3cb8-4673-95c6-309b39ea5353</PGuid>
+      <SchemeAttribute></SchemeAttribute>
+    </PlanItem>
+  </Logic>
+  <Policies/>
+  <ProcessLibrary>
+    <TheProcesses>
+      <Process guid="75e111e1-cfe8-45b1-bd54-50324f2be488" name="Local Population Loses Faith in Government" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+              <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+              <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+                <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+                <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="662d49f6-5f3e-445f-8697-10c324bf5ecf" name="Neutralize Target" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+              <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+                <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+              <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+                <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="150d403a-2527-4c70-aa76-1f1e19eefb58" name="Leader Influenced to Joint Political Process" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+              <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+                <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="92111b26-ebfc-4f4d-ace4-08f7772506e6" name="Cleric Followers Subotage Local Infrastructure" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+              <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+              <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+                <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+                <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="eed2697f-90fa-4c4c-bb11-6fbd2b812303" name="Capture by USF" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="f3c4ac59-baac-4822-9ba8-99e44d3356ad" name="ISF Capture Target" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+              <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+                <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="3be1ac75-e20e-4059-8890-856230bdb39d" name="Local Oposition to Sunni Leader" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+              <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+                <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="e3c9267f-556b-4367-9ae2-272de5dbba65" name="Co-opt into Government" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="a49e4103-4379-4545-8a5c-d0d9177c8695" name="Sunni Leader Advocating Violent Overthrow" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+              <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+              <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+                <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+                <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+              <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+                <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.98" group-name="">
+                  <SignalSet>
+                    <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="f369b905-6bee-4749-8868-51007099094b" name="Radicalization of Population" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="f4ae0711-2a7e-411c-999a-d62b090603d6" name="Coerce" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="00962104-b037-4ca4-a3c3-409b5ca0ff63" name="Political Process Shut Down" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="c37b55bd-0e38-44d9-b57a-ed1c3d03e150" name="Discredit" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="8af8634a-472b-4c26-983f-ef93fa6f5451" name="Sunni Leader Exerts Social Pressure" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+              <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+                <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="ecc0d6db-6a12-4544-b56c-ebed1fa9c894" name="Increased Motivation to Destroy IG" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="92c59234-a6ad-4602-a8d6-d9a61ee0c1c7" name="Local Economy Declines" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="7424890e-92c4-4565-a70e-5bec0f8fbd81" name="Local Civil War" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="2855c508-ab3c-4f09-ac2e-208981249e59" name="National Ethnical Divistion" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="dee0198d-46ed-4e87-9c92-582187781325" name="Violent Resistance by Leaders Supporters" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+              <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+                <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.85" group-name="">
+                  <SignalSet>
+                    <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.88" group-name="">
+                  <SignalSet>
+                    <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+              <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+              <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+                <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+                <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet>
+              <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+              <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+                <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+              </SignalSet>
+              <ElicitationSet>
+                <ElicitedProbability causalprobability="0.87" group-name="">
+                  <SignalSet>
+                    <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+                  </SignalSet>
+                </ElicitedProbability>
+                <ElicitedProbability causalprobability="0.74" group-name="">
+                  <SignalSet>
+                    <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+                  </SignalSet>
+                </ElicitedProbability>
+              </ElicitationSet>
+            </ProtocolSet>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="08361ae6-1e5c-4763-a4c7-eecea936f41f" name="Dissuade" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="7ae28e10-b79c-4254-8b9a-2fc9b5052ebc" name="Increased Factionalism" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+              <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+                <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="15030b95-9c04-4a14-8e39-4852b1aff3fd" name="Bribe" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+      <Process guid="de46e752-3cb8-4673-95c6-309b39ea5353" name="Increase in Violence" defaultsSubType="-1">
+        <SignalData defaultGroupProb="0.55">
+          <ModeSet mode="1" defaultSingleSignal="0.75">
+            <SignalSet>
+              <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+              <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+                <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="3" defaultSingleSignal="1.0">
+            <SignalSet>
+              <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+            </SignalSet>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+            <ProtocolSet protocol="4">
+              <SignalSet>
+                <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+              </SignalSet>
+              <ElicitationSet/>
+            </ProtocolSet>
+          </ModeSet>
+          <ModeSet mode="2" defaultSingleSignal="0.8">
+            <SignalSet/>
+            <Inversions>
+              <SignalSet/>
+            </Inversions>
+          </ModeSet>
+        </SignalData>
+      </Process>
+    </TheProcesses>
+    <TheSignals>
+      <Signal guid="ffd652b7-02ae-4a04-a070-9a1a53b7a4fa" name="increased unemployment"/>
+      <Signal guid="6be90016-e26a-4b2b-bbd0-1550b438dcf6" name="attack local secular governemnt"/>
+      <Signal guid="6cf7926b-dd67-4af4-bf7d-2627c0706c0a" name="declare current social structure un-Islamic"/>
+      <Signal guid="3d793787-c60a-4897-9738-be735c71df47" name="rival factions resort to violence"/>
+      <Signal guid="ba768a14-e740-4c93-bf92-ea973c88023d" name="attempt to coerce backfires"/>
+      <Signal guid="50e94b4d-cbcb-49e1-9d6c-3a5394479b68" name="leader legitimized by acceptence into government"/>
+      <Signal guid="71f1c572-d8d1-4ca2-a385-75b8bc950dfc" name="retaliation by Leaders supporters"/>
+      <Signal guid="5e4671c3-04be-468c-9a08-5de1afcf0cb9" name="ethnic or religious alianation"/>
+      <Signal guid="0d974249-3a1a-423b-8571-318726704291" name="leader recongnizes the benefit of a peaceful process"/>
+      <Signal guid="6d0f3d33-c889-4e43-8e70-b791771ea505" name="social pressure on Sunni Leader"/>
+      <Signal guid="dce5b77e-f4fb-4550-b4e6-898749c6f59a" name="reduce fundamentalists support base"/>
+      <Signal guid="d3db4cc6-fa3e-4c41-bf3c-4d65025814a5" name="kill Sunni Leader"/>
+      <Signal guid="9f954402-fbc2-4750-b932-5e92a80e50e8" name="disrupt political process locally"/>
+      <Signal guid="e85ec06e-9daf-44e2-bfd0-d4d2fc2b6052" name="leader incurages positive local reforms"/>
+      <Signal guid="4dc265d1-d7a8-4560-86d9-b72c765ab844" name="reinforce division lines"/>
+      <Signal guid="75c86ea9-8c36-49bd-9161-8eb6e9bc4d63" name="damage to economic infrastructure"/>
+      <Signal guid="d2441c6f-49ce-4534-bae4-1561b9846a52" name="lack of security in Bagdhad"/>
+      <Signal guid="2e5e68ab-9613-4f44-bb57-2670b4d50bae" name="local operation results in killing the target"/>
+      <Signal guid="211e78f8-742a-478c-914a-d8d2c55809df" name="incurage anti IG opposition"/>
+      <Signal guid="9f3a0543-2b74-4046-9419-3aa1d6a96820" name="put Iraqi face on the operation"/>
+      <Signal guid="3dc568ab-d868-40b1-a40a-65ebfe7dbed8" name="oppostion to Cleric faction grows"/>
+      <Signal guid="a72d1b92-ccd5-4772-82ee-3ef0ffff91d6" name="loss of face by local government"/>
+      <Signal guid="749d7e57-172e-4bf8-8b2b-de7dd3416c23" name="Coaliton viewed as occupiers of Muslim lands"/>
+      <Signal guid="e428790d-2996-41e9-afb9-d0db5ddab58c" name="incite Sunni fundamentalists"/>
+      <Signal guid="7f1e719f-624a-43eb-aa85-b00c3f383a48" name="failure of political process"/>
+    </TheSignals>
+  </ProcessLibrary>
+  <ColorScheme name="ADEL">
+    <Attrib color="-16744193">State of World</Attrib>
+    <Attrib color="-8192138">Coalition Activities</Attrib>
+    <Attrib color="-186">Iraqi Security Forces</Attrib>
+  </ColorScheme>
+  <SamplingOptions/>
+  <DefaultProbabilities set="standard"/>
+  <PlanCOAs/>
+</Plan>

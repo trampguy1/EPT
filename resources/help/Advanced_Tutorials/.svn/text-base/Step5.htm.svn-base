@@ -1,0 +1,107 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Step 5</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+p.hcp3 { text-align:justify; font-weight:bold; }
+a.hcp4 { font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;
+			margin-right: 29px;">Setting Scheduling</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp3">Step 5 of 6:</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">JCAT models temporally, so we must specify 
+ when events will occur. &nbsp;If 
+ an event has no modeled causes and its leak probability is 0, its probability 
+ will remain at 0 for the whole simulation. &nbsp;So, 
+ let’s suppose that Salvatore is caught wearing the wire at timestep 2, 
+ and we are 90% certain this event occurred. &nbsp;Also, 
+ let us suppose that Tony takes Salvatore for the boat ride at timestep 
+ 5, and, again, we are 90% certain this event occurred.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><a title="Click here to read about Scheduling." href="Scheduling.htm" id="a2" target="_blank" class="hcp4">To enter 
+ this information</a> into the model, right click on “Caught wearing wire” 
+ and select “timing” from the popup menu again. &nbsp;This 
+ time, we will deal with the bottom portion of the dialog box labeled “Scheduling.” 
+ &nbsp;We said 
+ this will occur at time 2, so set the field labeled “Time” to 2, and set 
+ the field labeled “Probability” to 0.9. &nbsp;Then 
+ click the “Schedule” button to add this to the scheduling list.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Repeat this for “Boat ride” at time 5 and 
+ probability 0.9.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp3"><a href="Step_6.htm" id="a1" title="Click here to advance to step 6" class="hcp4">Step 
+ 6 of 6</a></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

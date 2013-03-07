@@ -1,0 +1,117 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Schedule Events</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+a.hcp3 { font-weight:bold; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" align="left" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-size: 18pt;
+			color: #0000ff;
+			font-weight: bold;">Scheduling Events</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">One of the features that sets JCAT apart 
+ from other predictive analysis tools is the notion of temporal progression. 
+ &nbsp;The user 
+ can specify the time at which each Event occurs and the probability with 
+ which it occurs at that time.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To set a time for an Event to occur, right 
+ click on the Event of interest and select “Timing” from the popup menu. 
+ &nbsp;The following 
+ dialog box will appear:</p>
+<p style="text-align: center;" Align="center">&nbsp;&nbsp;<img src="../image26.gif" style="border: none;
+			width: 360px;
+			height: 340px;
+			border-style: none;
+			border-style: none;" width="360" height="340" border="0"></p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Setting a time for an Event to occur is 
+ called Scheduling. &nbsp;To 
+ Schedule the Event, look under the Scheduling portion of the dialog box. 
+ &nbsp;Under the 
+ “Time” text field, enter the integer value of the <a href="../Timing/TImestep.htm" class="hcp3">timestep</a> 
+ at which you would like the Event to occur. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">Next, under the “Probability” text field, 
+ enter in the probability that the Event will occur at this time. &nbsp;When 
+ you have entered the desired time and probability, click the “Schedule” 
+ button. &nbsp;The 
+ time and probability will then appear in the Scheduling table. &nbsp;You 
+ can Schedule an Event for as many timesteps as you want.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To remove a timestep from Scheduling, simply 
+ select the row from the Scheduling table you wish to remove and click 
+ the “Delete” button. &nbsp;To 
+ remove all Scheduling for the Event, click on the “Delete All” button.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">For more information about Scheduling, 
+ <a href="../Timing/Scheduling.htm" class="hcp3">see the Scheduling section in the Help file.</a></td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

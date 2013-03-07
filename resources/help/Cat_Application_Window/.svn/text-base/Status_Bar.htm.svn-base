@@ -1,0 +1,111 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Status Bar</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col>
+
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%
+		bgcolor=#000000 cellpadding="5">
+<col ><col>
+
+<tr border="0" border="0"
+	
+
+	valign=top
+	bgcolor=#000000>
+<td border="0" border="0"
+	
+
+	valign=middle
+	bgcolor=#000000
+	width=150%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+<p style="font-weight: bold;
+			color: #0000ff;
+			font-size: 18pt;">Status Bar</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">The status bar located at the bottom of 
+ the application window shows some useful information pertaining to the 
+ JCAT's status. &nbsp;Sampler 
+ status shows the status of the sampler for the model that is currently 
+ showing. &nbsp;If 
+ running, the current number of samples is also displayed. &nbsp;Model 
+ server status shows whether or not the current model is being hosted via 
+ a collaboration session. &nbsp;JCAT's 
+ system memory usage and a clock are also displayed for convenience.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2"><img src="../statusbar.jpg"
+									x-maintain-ratio=TRUE
+									style="border: none;
+											width: 641px;
+											height: 25px;
+											float: none;
+											border-style: none;"
+									width=641
+									height=25
+									border="0"></p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

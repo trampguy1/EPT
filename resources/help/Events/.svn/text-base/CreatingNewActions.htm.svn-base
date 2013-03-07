@@ -1,0 +1,114 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Creating New Actions</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css"><style title="hcp" type="text/css">
+<!--
+tr.hcp1 { x-cell-content-align:top; }
+p.hcp2 { text-align:justify; }
+img.hcp3 { border:none; border-style:none; }
+-->
+</style>
+</head>
+<body>
+<table border="0" x-use-null-cells 
+ cellspacing="0" border="0">
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	width=100%>
+
+ <table border="1" x-use-null-cells
+		
+
+		cellspacing=0
+		bgcolor=#000000 cellpadding="5"
+		width=100%>
+<col ><col >
+<tr border="0" border="0"  valign="top" class="hcp1"><td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;">JCAT 1.1</td>
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=50%>
+<p style="text-align: right;
+			font-weight: bold;
+			color: #ffffff;
+			font-size: 14pt;" Align="right">HELP</td></tr>
+</table>
+
+ <table border="0" x-use-null-cells
+		
+
+		cellspacing=0
+		width=100%>
+<col >
+<tr border="0" border="0" valign="top" class="hcp1">
+<td border="0" border="0"
+	
+
+	valign=middle
+	width=100%>
+<p style="font-weight: bold;
+			font-size: 18pt;
+			color: #0000ff;">Creating a New Event</td></tr>
+</table>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">To create a new Event, we must first have 
+ an active Model open. &nbsp;When 
+ you have opened the Model you wish to modify, determine where in the Event 
+ Layout Frame you wish to place the new Event. &nbsp;Then 
+ click the Create Event button <img src="../image47.gif"  width="21" height="21" border="0" class="hcp3">in the Model Toolbar, and click  on the location in the Layout where you would like the new Event.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">A square with rounded corners will appear. 
+ &nbsp;The next 
+ step is to name the Event. &nbsp;To 
+ edit information about an Event, right click on it, and select “Edit Event” 
+ from the popup menu. &nbsp;The 
+ following dialog should appear:</p>
+<p>&nbsp;</p>
+<p><img src="../image19.gif"  width="640" height="420" border="0" class="hcp3"></p><p class="hcp2">&nbsp;</p>
+<p class="hcp2">To rename the Event, enter the new name 
+ in the “Event or Action Type” field. &nbsp;Since 
+ an event usually involves some object or entity which performs it, the 
+ “Object to which it applies” field specifies which entity is performing 
+ the event.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">For instance, if the Event is that Air 
+ Force Base X launches aircraft, then you would enter in “Launch aircraft” 
+ into the Event or Action type field, and you would enter “Air Force Base 
+ X” into the Object to which it applies field.</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">When you click the “Save” button in the 
+ Event Editor, your Event will be complete. &nbsp;You 
+ can then connect this Event to others by adding Mechanisms. &nbsp;Also, 
+ you can modify the </p>
+<p class="hcp2">probabilities which govern how this Event 
+ is affected by incoming and outgoing signals. &nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</p>
+<p class="hcp2">&nbsp;</td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>

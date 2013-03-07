@@ -1,0 +1,65 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+
+
+
+
+<head>
+<title>Getting Started Quickly</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="StyleSheet" href="../default.css">
+</head>
+<body>
+<table border="0" border="0"  border="0"  x-use-null-cells
+		
+
+		cellspacing=0
+		width=58.959%>
+<col >
+<tr border="0" border="0" 	valign=top>
+<td border="0" border="0" 
+
+	width=100%>
+<h1 >Getting Started Quickly</h1><p>If you want a quick walk-through of how to create a new action in the 
+ Model, follow the steps below. To learn how to build a Model in a short 
+ time,<span ><font color=fuchsia > you can also complete the online tutorial  (from the Help menu, select Tutorial).</font></span></p>
+<p>&nbsp;</p>
+<p style="font-weight: bold;">Basic steps for developing a project:</p>
+<ul 	type=disc>
+	
+	<li class="kadov-p"><p>Step 1</p></li>
+	
+	<li class="kadov-p"><p>Step 2</p></li>
+	
+	<li class="kadov-p"><p>Step 3</p></li>
+</ul></td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+
+ <table border="1" border="1"  border="1"  x-use-null-cells
+		
+
+		bgcolor=#D8D8BF
+		width=58.959%
+		cellspacing=0>
+<col >
+<tr border="0" border="0" valign=top>
+<td border="0" border="0" 
+
+	bgcolor=#D8D8BF
+	width=100%>
+<p><span ><font color=blue ><B>Tip:</B></font></span> <span style="color: #0000ff;"><font color=blue >You  can learn the basics of building a Model with CAT by watching demonstrations 
+ of commonly performed Model tasks. &nbsp;The 
+ video tutorials (created using Camtasia), teach you how to build a Model, 
+ add actions, add mechanisms, set probabilities, set timing, and more.</font></span></td></tr>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+</html>
